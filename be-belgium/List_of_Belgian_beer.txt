@@ -1,0 +1,3425 @@
+{{Orphan|date=February 2014}}
+
+This list is an enumeration of [[Belgian beer]]. For a list from other countries, see [[beer and breweries by region]].
+At the end of 2011. there were around 1150 original Belgium beers<ref>{{cite book|last=Deweer|first=Hilde|title=Alle Belgische bieren|year=2011|isbn=978-90-5856-377-4}}</ref> (and a hundred labeled beers), brewed and launched by 146 breweries and 44 beer companies.<ref>{{cite web|title=Zythos VZW|url=http://www.zythos.be}}</ref> The one-off brewed and/or the beers no longer brewed (under the same name) in this list, appear in italics.
+
+{{Compact ToC|side=yes|nobreak=yes|Others = yes}}
+
+==Others==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| 3 Schténg || high fermentation || 6% || Brasserie Grain d'Orge
+|-
+| IV Saison || saison || 6.5% || Brasserie de Jandrain-Jandrenouille
+|-
+| V Cense || high fermentation || 7.5% || Brasserie de Jandrain-Jandrenouille
+|-
+| VI Wheat || high fermentation, wheat beer || 6% || Brasserie de Jandrain-Jandrenouille
+|}
+
+==A==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| Aardmonnik || [[oud bruin]] || 8% || [[De Struise Brouwers]]
+|-
+| Aarschotse Bruine || [[brown ale]] || 6% || Stadsbrouwerij [[Aarschot]]
+|-
+| Abbay d'Aulne Blonde des Pères 6 || [[Abbey beer#Abbey beers|Abbey Beer]], blond || 6% || [[Brasserie Val de Sambre]]
+|-
+| Abbay d'Aulne Brune des Pères 6 || [[Abbey beer#Abbey beers|Abbey Beer]], bruin || 6% || Brasserie Val de Sambre
+|-
+| Abbay d'Aulne Super Noël 9 || [[Abbey beer#Abbey beers|Abbey Beer]], kerstbier || 9% || Brasserie Val de Sambre
+|-
+| Abbay d'Aulne Triple Blonde || [[Abbey beer#Abbey beers|Abbey Beer]], tripel || 8% || Brasserie Val de Sambre
+|-
+| Abbay d'Aulne Triple Brune || [[Abbey beer#Abbey beers|Abbey Beer]], tripel || 8% || Brasserie Val de Sambre
+|-
+| Abbay d'Aulne Val de Sambre || [[Abbey beer#Abbey beers|Abbey Beer]], amber|| 6.4% || Brasserie Val de Sambre
+|-
+| Abbaye de Bonne-Espérance || [[Abbey beer#Abbey beers|Abbey Beer]] || 7.8% || [[brewery Lefebvre]]
+|-
+| Abbaye de Forest ||[[Abbey beer#Abbey beers|Abbey Beer]], [[tripel]] || 6.5% || [[Brasserie de Silly]]
+|-
+| Abbaye de la Thure ||[[Abbey beer#Abbey beers|Abbey Beer]]|| 10% || [[Brasserie Brootcoorens]]
+|-
+| Abbaye de Saint-Martin Blonde ||[[Abbey beer#Abbey beers|Abbey Beer]] || 7% || [[Brasserie de Brunehaut]]
+|-
+| Abbaye de Saint-Martin Brune ||[[Abbey beer#Abbey beers|Abbey Beer]] || 8% || Brasserie de Brunehaut
+|-
+| Abbaye de Saint-Martin Cuvée de Noël ||[[Abbey beer#Abbey beers|Abbey Beer]], kerstbier|| 8.5% || Brasserie de Brunehaut
+|-
+| Abbaye de Saint-Martin Triple ||[[Abbey beer#Abbey beers|Abbey Beer]], [[tripel]]|| 9% || Brasserie de Brunehaut
+|-
+| ''Abbaye de Oudkerken'' || [[Abbey beer#Abbey beers|Abbey Beer]] || 6.2% || [[brewery Lefebvre]]
+|-
+| Abbaye des Rocs Blonde || [[Abbey beer#Abbey beers|Abbey Beer]], high fermentation || 7.5% || [[Brasserie de l'Abbaye des Rocs]]
+|-
+| Abbaye des Rocs Brune || [[Abbey beer#Abbey beers|Abbey Beer]] bruin || 9% || Brasserie de l'Abbaye des Rocs
+|-
+| Abbaye des Rocs Grand Cru || [[Abbey beer#Abbey beers|Abbey Beer]] ale || 9.5% || Brasserie de l'Abbaye des Rocs
+|-
+| Abbaye des Rocs Spéciale Noël || [[Abbey beer#Abbey beers|Abbey Beer]], kerstbier || 9% || Brasserie de l'Abbaye des Rocs
+|-
+| ''Abdis Blond'' || blond || 6.5% || [[Brewery Riva]]
+|-
+| ''Abdis Bruin'' || bruin || 6.5% || Brewery Riva
+|-
+| ''Abdis Tripel'' || [[tripel]] || 8.2% || Brewery Riva
+|-
+| Abdij van Roosenberg Dubbel || dubbel || 7% || [[Brewery Van Steenberge]]
+|-
+| Abdij van Roosenberg Tripel || Tripel || 9% || brewery Van Steenberge
+|-
+| Achel 5 Blond || [[Trappistenbier|trappist]], blond || 5% || [[Abdij van Achel|Achelse Kluis]]
+|-
+| Achel 5 Bruin || trappist, bruin || 5% || Achelse Kluis
+|-
+| Achel 8 Blond || trappist, blond || 8% || Achelse Kluis
+|-
+| Achel 8 Bruin || trappist, bruin || 8% || Achelse Kluis
+|-
+| Achel Blond Extra || trappist, blond || 9.5% || Achelse Kluis
+|-
+| Achel Bruin Extra || trappist, bruin || 9.5% || Achelse Kluis
+|-
+| Adelardus || [[Abbey beer#Abbey beers|Abbey Beer]] || 7% || [[Brewery Sint-Jozef (Opitter)|Brewery Sint-Jozef]] voor [[Brewery Kerkom]]
+|-
+| Adelardus Tripel || [[Abbey beer#Abbey beers|Abbey Beer]], tripel || 9% || Brewery Sint-Jozef voor Brewery Kerkom
+|-
+| Adler || [[pilsner|pils]] || 6.5% || [[Brewery Haacht]]
+|-
+| Adriaen Brouwer || high fermentation, bruin || 5% || [[Brewery Roman]]
+|-
+| Adriaen Brouwer Dark Gold || high fermentation, bruin || 8.5% || [[Brewery Roman]]
+|-
+| Affligem Blond || [[Abbey beer#Abbey beers|Abbey Beer]], blond || 6.8% || [[Affligem Brewery]] (vroeger [[Brewery De Smedt]] nu deel van Heineken)
+|-
+| Affligem Dubbel || [[Abbey beer#Abbey beers|Abbey Beer]], bruin || 6.8% || Affligem Brewery (Heineken)
+|-
+| Affligem 950 Cuvee || [[Abbey beer#Abbey beers|Abbey Beer]], blond || 6.8% || Affligem Brewery (Heineken)
+|-
+| Affligem Noël || [[Abbey beer#Abbey beers|Abbey Beer]], kerstbier || 9% || Affligem Brewery (Heineken)
+|-
+| Affligem Patersvat || [[Abbey beer#Abbey beers|Abbey Beer]], dubbel ge[[hop (plant)|hop]]t || 6.8% || Affligem Brewery (Heineken)
+|-
+| Affligem Tripel || [[Abbey beer#Abbey beers|Abbey Beer]], tripel || 8.5% || Affligem Brewery (Heineken)
+|-
+| Agrumbocq || [[high fermentation]], [[witbier]], fruitbier || 3.1% || [[Brasserie du Bocq]]
+|-
+| Alpaïde || donkere [[tripel]]|| 10% || [[Brewery Nieuwhuys]]
+|-
+| Alpaïde Cuvée van de generaal || blonde [[tripel]]|| 8.5% || Brewery Nieuwhuys
+|-
+| ''Akila Pils'' || pils || 5% || [[Brewery Louwaege]]
+|-
+| ''Alfri'' || NA pils || 0.5% || [[Brewery Roman]]
+|-
+| Altitude 6 || ale, blond || 6% || [[Brasserie de l'Abbaye des Rocs]]
+|-
+| ''Alvinne Extra Restyled'' || lichtamber || 7% ||[[Brewery Alvinne]]
+|-
+| ''Alvinne Lex'ke'' || blond || 6.3% || Brewery Alvinne
+|-
+| ''Alvinne Tripel'' || tripel || 8.7% || Brewery Alvinne
+|-
+| Alvino Bourgogne Barrel OA || fruitbier, oak aged || 5.5% || Brewery Alvinne
+|-
+| Ambetanterik || [[stout (bier)|stout]] || 8.7% || [[Brewery Het Alternatief]] bij Brewery Alvinne
+|-
+| Ambiorix || roodbruin || 8% || [[Brewery Slaghmuylder]]
+|-
+| Angélus Blonde || blond || 7% || [[Brasserie Brootcoorens]]
+|-
+| Angélus Brune || bruin || 7% || Brasserie Brootcoorens
+|-
+| Angélus Spéciale Noël || kerstbier || 9% || Brasserie Brootcoorens
+|-
+| ''Anker Blond'' || blond || 6.5% || [[Brewery Het Anker (Mechelen)|Brewery Het Anker]]
+|-
+| ''Anker Boscoulis'' || fruitbier || 6.5% || Brewery Het Anker
+|-
+| Anker Herfstbok || bruin speciaalbier, bokbier || 6.5% || Brewery Het Anker
+|-
+| Anker Pils || pils || 5% || Brewery Het Anker
+|-
+| Antiek Blond || blond || 8% || [[Brewery Deca]]
+|-
+| Antiek Bruin || bruin || 8% || Brewery Deca
+|-
+| Antiek Super 5 Blond || blond || 5% || Brewery Deca
+|-
+| Antwerps Blond || blond || 5% || [[Huisbrouwerij 't Pakhuis]]
+|-
+| Antwerps Bruin || bruin || 5.8% || Huisbrouwerij 't Pakhuis
+|-
+| Applebocq || [[fruitbier]] || 3.1% || Brasserie Du Bocq
+|-
+| Arabier || blond || 8% || [[De Dolle Brouwers]]
+|-
+| ''Archiduc'' || || 6.2% || [[Brasserie d'Ecaussinnes]]
+|-
+| Arend Blond || blond || 6.5% || [[Brewery De Ryck]]
+|-
+| Arend Dubbel || donkerbruin || 6.5% || Brewery De Ryck
+|-
+| Arend Tripel || goudblond || 8% || Brewery De Ryck
+|-
+| Arend Winter || donker[[Amber (bier)|amber]] || 6.3% || Brewery De Ryck
+|-
+| Arendonker Bruin || bruin || 8.5% || [[Dorpsbrouwerij Humulus]]
+|-
+| Arendonker Tripel || goudblond || 8% || Dorpsbrouwerij Humulus
+|-
+| Armand’4 Herfst || oude [[geuze]] || 6% || [[Geuzestekerij 3 Fonteinen]]
+|-
+| Armand’4 Lente || oude [[geuze]] || 6% || Geuzestekerij 3 Fonteinen
+|-
+| Armand’4 Winter || oude [[geuze]] || 6% || Geuzestekerij 3 Fonteinen
+|-
+| Armand’4 Zomer || oude [[geuze]] || 6% || Geuzestekerij 3 Fonteinen
+|-
+| Artevelde || Speciale Belge || 5.7% || [[Brewery Huyghe]]
+|-
+| Artevelde Grand Cru || roodbruin || 7.2% || Brewery Huyghe
+|-
+| Asterie || witbier || 4.ç% || [[Brasserie d'Ecaussinnes]]
+|-
+| ''Atomium Premier Grand Cru'' || amber || 8% || [[Brewery Van Steenberge]]
+|-
+| Augrenette || blond || 4.5% || [[Brewery Augrenoise]]
+|-
+| Augrenoise || troebel blond || 6.5% || Brewery Augrenoise
+|-
+| Augrenoise Blonde de Noël || troebel blond, kerstbier || 10% || Brewery Augrenoise
+|-
+| Augustijn Blond || [[Abbey beer#Abbey beers|Abbey Beer]] || 7.5% || [[Brewery Van Steenberge]]
+|-
+| Augustijn Donker || [[Abbey beer#Abbey beers|Abbey Beer]] || 7% || Brewery Van Steenberge
+|-
+| Augustijn Grand Cru || [[Abbey beer#Abbey beers|Abbey Beer]], tripel || 9% || Brewery Van Steenberge
+|-
+| Authentic 621 || bruin || 7.5% || [[Authentique Brasserie]]
+|-
+| Authentic Ambrée || amber || 5% || Authentique Brasserie
+|-
+| Authentic Blonde || blond || 6.5% || Authentique Brasserie
+|-
+| Authentic Blonde de Noël || kerstbier || 9% || Authentique Brasserie
+|-
+| Authentic Triple || tripel || 9.5% || Authentique Brasserie
+|-
+| L'Autruche Biere des Gilles || blond troebel || 7% || [[Brasserie de Silenrieux]]
+|}
+
+==B==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Bacchus (bier)|Bacchus]] || oud bruin || 4.5% || [[Brewery Van Honsebrouck]]
+|-
+| [[Bacchus (bier)|Bacchus Frambozenbier]] || [[fruitbier]] || 5% || Brewery Van Honsebrouck
+|-
+| [[Bacchus (bier)|Bacchus Kriekenbier]] || fruitbier || 5.8% || Brewery Van Honsebrouck
+|-
+| [[Balthazar (bier)|Balthazar]] || winterbier || 8.9% || [[Brewery Alvinne]]
+|-
+| [[Barbãr]] || blond, honingbier || 8% || [[Brewery Lefebvre]]
+|-
+| [[Barbãr|Barbãr Winter Bok]] || [[bokbier]], honingbier || 8% || Brewery Lefebvre
+|-
+| [[Barbe d'Or]] (Goldbeard) || blond || 7.5% || [[Brewery Verhaeghe]]
+|-
+| [[Barbe Noire]] (Blackbeard) || stout || 9% || Brewery Verhaeghe
+|-
+| [[Barbe Rouge]] (Redbeard) || amber || 8% || Brewery Verhaeghe
+|-
+| [[Bas (bier)|Bas]] || goudblond || 6.5% || De Proefbrouwerij voor bierfirma Bas-bieren
+|-
+| [[Bastogne Pale Ale]] || Belgian IPA || 6.5% || [[Brasserie de Bastogne]]
+|-
+| [[Basilius (bier)|Basilius]] || amber || 7% || [[De Proefbrouwerij]] voor ’t Brugs Bierinstituut
+|-
+| [[Bavaro]] || blond, lage gisting || 3.6% || [[Brewery Haacht]]
+|-
+| [[Bavik|Bavik Blond]] || [[tafelbier]] || 1.5% || [[Brewery Bavik]]
+|-
+| [[Bavik|Bavik Faro]] || tafelbier || 1.5% || Brewery Bavik
+|-
+| [[Bavik|Bavik Pony-Stout]] || [[Stout (bier)|stout]] || 5.2% || Brewery Bavik
+|-
+| [[Bavik|Bavik Premium Pils]] || [[pilsner|pils]] || 5.2% || Brewery Bavik
+|-
+| [[Bavik|Bavik Triple Bock]] || bokbier || 3% || Brewery Bavik
+|-
+| ''Beer for Life'' || blond || 6.5% || [[Brewery Dilewyns]]
+|-
+| ''Beernems Berenbier'' || blond || 7.5% || Brewery Van Steenberge voor BIVO Drinks
+|-
+| [[Beersel (bier)|Beersel Bio]] || blond || 7% || [[Geuzestekerij 3 Fonteinen]]
+|-
+| [[Beersel (bier)|Beersel Blond]] || blond || 7% || [[Geuzestekerij 3 Fonteinen]]
+|-
+| [[Beersel (bier)|Beersel Lager]] || pils || 5.2% || Geuzestekerij 3 Fonteinen
+|-
+| [[Bel Pils]] || pils || 5% || [[Brewery Duvel Moortgat]]
+|-
+| [[Belgian Angel Stout]] || stout || 5.2% || [[Brasserie Brootcoorens]]
+|-
+| [[Belgian Framboises]] || fruitbier || 3.5% || [[Brasserie Lefebvre]]
+|-
+| [[Belgian Kriek]] || fruitbier || 3.5% || Brasserie Lefebvre
+|-
+| [[Belgian Pêches]] || fruitbier || 3.5% || Brasserie Lefebvre
+|-
+| [[Belgoo|Belgoo Arboo]] || tripel, amber || 8.1% || [[Brewery Belgoobeer]] bij [[Brewery La Binchoise]]
+|-
+| [[Belgoo|Belgoo Magus]] || blond || 6.6% || Brewery Belgoobeer bij Brewery La Binchoise
+|-
+| [[Belgoo|Belgoo Maxus]] || goudblond || 8.1% || Brewery Belgoobeer bij Brewery La Binchoise
+|-
+| [[Belgoo|Belgoo Luppoo]] || goudblond || 6.5% || Brewery Belgoobeer bij Brewery La Binchoise
+|-
+| [[Bella Mère]] || blond || 6.5% || [[Brasserie Millevertus]]
+|-
+| [[Belle Cies]] || blond || 10% || [[Huisbrouwerij Den Tseut]]
+|-
+| [[Belle-Vue (bier)|Belle-Vue Framboise]] || fruitbier || 5.7% || [[Brewery Belle-Vue]] ([[InBev]])
+|-
+| [[Belle-Vue (bier)|Belle-Vue Extra Framboise]] || fruitbier || 2.9% || [[Brewery Belle-Vue]] ([[Inbev]])
+|-
+| [[Belle-Vue (bier)|Belle-Vue Kriek]] || [[Krieklambiek|kriek]] || 5.2% || [[Brewery Belle-Vue]] ([[InBev]])
+|-
+| [[Belle-Vue (bier)|Belle-Vue Kriek Classique]] || [[Kriekenlambiek|Kriek]] || 5.1% || [[Brewery Belle-Vue]] ([[Inbev]])
+|-
+| [[Belle-Vue (bier)|Belle-Vue Extra Kriek]] || [[Krieklambiek|kriek]] || 4.3% || Brewery Belle-Vue (InBev)
+|-
+| [[Belle-Vue (bier)|Belle-Vue Gueuze]] || [[lambiek (bier)|lambiek]] || 5.5% || Brewery Belle-Vue (InBev)
+|-
+| [[Belle-Vue (bier)|Belle-Vue LA]] || Alcoholarm || 1% || Brewery Belle-Vue (Inbev)
+|-
+| [[Bellebier|Bellebier Amber]] || amber || 5.2% || [[Brewery Van Steenberge]] voor Paeleman
+|-
+| [[Bellebier|Bellebier Dubbel]] || bruin || 6.2% || Brewery Van Steenberge voor Paeleman
+|-
+| [[Bellebier|Bellebier Trippel]] || tripel || 8% || Brewery Van Steenberge voor Paeleman
+|-
+| ''[[Bellegems Bruin]]'' || Vlaams oud bruin || 5.5% || [[Brewery Bockor]]
+|-
+| [[Bellegems Witbier]] || [[witbier]] || 5.0% || Brewery Bockor
+|-
+| [[Belval (bier)|Belval]] || blond || 4.8% || [[Gageleer (bierfirma)|Gageleer]]
+|-
+| [[Berentemmer]] || bruin || 7% || [[Brewery Maenhout]]
+|-
+| [[Bersalis|Bersalis Tripel]] || blond, high fermentation, tripel || 9.5% || [[Brewery Huyghe]] voor [[Brewery Oud Beersel]]
+|-
+| [[Bersalis|Bersalis Kadet]] || blond || 4.5% || Brewery Huyghe voor Brewery Oud Beersel
+|-
+| [[Betchard|Betchard Brune]] || bruin || 7% || [[Brasserie de Tubize]]
+|-
+| [[Betchard|Betchard Blonde]] || blond || 5.5% || Brasserie de Tubize
+|-
+| [[Bieken]] || blond || 8% || [[Brewery Boelens]]
+|-
+| [[Bierbeekse (bier)|Bierbeekse]] || blond-amber, high fermentation || 7.3% || Brewery Van Steenberge voor de gemeente Bierbeek en Terclavers
+|-
+| ''Bierbuik'' || donker || 8% || [[De Verhuisbrouwerij]]
+|-
+| [[Bière Darbyste]] || amber || 5.8% || [[Brasserie de Blaugies]]
+|-
+| [[Bière de Beloeil]] || high fermentation || 8.5% || Brasserie Dupont
+|-
+| [[Bière de Garde]] || biologisch, roodbruin || 10% || [[Brewery Jessenhofke]] bij De Proefbrouwerij
+|-
+| [[Bière de Miel Bio]] || biologisch, honingbier || 8% || [[Brewery Dupont (Tourpes)|Brewery Dupont]]
+|-
+| [[Bière des Ours]] (Berenbier) || honingbier || 8.5% || [[Brasserie La Binchoise]]
+|-
+| [[Bière du Corsaire Cuvée Spéciale]] || sterk blond || 9.4% || [[Brewery Huyghe]]
+|-
+| [[Bière du Mont Saint-Aubert]] || blond || 8% || [[Brasserie de Brunehaut]]
+|-
+| [[Bière Spéciale Belge]] || Spéciale Belge || 5% || Brasserie La Binchoise
+|-
+| [[Bavik|Big Bavik]] || blond || 5% || Brewery Bavik
+|-
+| [[Bierpruver|Bierpruver Dubbel Bruin]] || dubbel || 7.5% || [[Huisbrouwerij de 3 vaten]]
+|-
+| [[Bierpruver|Bierpruver Tripel]] || tripel || 9% || Huisbrouwerij de 3 vaten
+|-
+| [[Bierpruver|Bierpruver Winter]] || winterbier || 8% || Huisbrouwerij de 3 vaten
+|-
+| Bink Blond || Belgische pale ale || 5.5% || [[Brewery Kerkom]]
+|-
+| Bink Bruin || dubbel || 5.5% || Brewery Kerkom
+|-
+| Bink Bloesem || blond || 7.1% || Brewery Kerkom
+|-
+| [[Biolégère]] || biologisch, [[Saison]] || 3.5% || Brouwerii Dupont
+|-
+| [[Bitter Sweet Symphony (bier)|Bitter Sweet Symphony]] || dubbele [[India Pale Ale|IPA]] || 7.8% || [[Brewery 't Gaverhopke]]
+|-
+| [[Bittere Waarheid]] || Belgian IPA || 11% || [[Brewery Het Alternatief]] bij [[Brewery De Graal]]
+|-
+| [[Black (bier)|Black]] || donker, high fermentation || 6.3% || [[Brasserie de Bellevaux]]
+|-
+| [[Black Albert]] || Belgian Royal Stout || 13% || [[De Struise Brouwers]] bij [[Brewery Deca]]
+|-
+| [[Black Damnation|Black Damnation I]] || Russian Imperial Stout || 13% || De Struise Brouwers bij Brewery Deca
+|-
+| [[Black Damnation|Black Damnation II (Mocha Bomb)]] || Russian Imperial Stout || 12% || De Struise Brouwers bij Brewery Deca
+|-
+| [[Black Damnation|Black Damnation III (Black Mes)]] || Russian Imperial Stout || 13% || De Struise Brouwers bij Brewery Deca
+|-
+| [[Black Damnation|Black Damnation IV (Coffée Club)]] || Russian Imperial Stout || 13% || De Struise Brouwers bij Brewery Deca
+|-
+| [[Black Damnation|Black Damnation V (Double Black)]] || Russian Imperial Stout, Eisbockmethode || 26% || De Struise Brouwers bij Brewery Deca
+|-
+| [[Black (bier)|Black]] || donkere ale || 6.3% || [[Brasserie de Bellevaux]]
+|-
+| Black Ghost || high fermentation || 8% || [[Brasserie Fantôme]]
+|-
+| [[Black Hole (bier)|Black Hole]] || pils || 5.6% || [[Brewery Roman]]
+|-
+| [[Black Jack (bier)|Black Jack]] || Porter || 7% || De Struise Brouwers bij Brewery Deca
+|-
+| [[Blanche (bier)|Blanche]] || witbier || 4.8% || [[Brasserie de Bellevaux]]
+|-
+| [[Blanche d'Ardenne]] || witbier || 4.3% || [[Brasserie du Bocq]] voor Corsendonk nv
+|-
+| [[Blanche de Bouillon]] || witbier || 5.5% || [[Brasserie de Bouillon]]
+|-
+| [[Blanche de Brabant]] || witbier || 5% || [[John Martin (Brewery)|Groep John Martin]]
+|-
+| [[Blanche de Bruxelles]] || witbier || 4.5% || [[Brewery Lefebvre]]
+|-
+| [[Blanche de Charleroi]] || witbier || 5% || [[Brasserie Val de Sambre]]
+|-
+| [[Blanche de Namur]] || witbier || 5.2% || Brasserie du Bocq
+|-
+| [[Blanche de Tubize]] || witbier || 4.8% || [[Brasserie de Tubize]]
+|-
+| [[Blanche des Honnelles]] || witbier || 6% || [[Brasserie de l'Abbaye des Rocs]]
+|-
+| [[Blanche des Neiges]] || witbier || 5% || [[Brewery Huyghe]]
+|-
+| [[Blanche du Hainaut Bio]] || witbier, biologisch || 5.5% || Brewery Dupont
+|-
+| [[Blanchette de Gaume]] || witbier || 5% || Brasserie Millevertus
+|-
+| [[Blanchette de Lorraine]] || witbier, fruitbier || 5% || Brasserie Millevertus
+|-
+| [[BLAUW (bier)|BLAUW]] || pils, Export || 5.2% || [[Brewery Bockor]]
+|-
+| [[Blauwersbier]] || mengbier || 6.5% || [[Brewery Van Eecke]]
+|-
+| [[Bloemenbier]] || Belgian Strong Ale || 7% || [[De Proefbrouwerij]]
+|-
+| [[Kapittel (bier)|Bière de la Bonde]] || tripel || 10% || [[Brewery Van Eecke]]
+|-
+| [[Kapittel (bier)|Bleeken Moriaen]] || tripel || 10% || [[Brewery Van Eecke]]
+|-
+| [[Blonde (bier van Bellevaux)|Blonde]] || blond || 7% || [[Brasserie de Bellevaux]]
+|-
+| [[Blonde (bier van Haacht)|Blonde]] || blond, lage gisting || 1.2% || [[Brewery Haacht]]
+|-
+| [[Blonde Bie]] || blond || 8% || [[Brewery De Bie]]
+|-
+| [[Bière de Brabant|Blonde de Brabant]] || blond || 6% || [[John Martin (brouwerij)|Groep John Martin]]
+|-
+| [[Blonde de Noël]] || blond || 10% || [[Brasserie Caulier (Péruwelz)|Brasserie Caulier]]
+|-
+| [[Blondelle (bier)|Blondelle]] || blond || 7% || [['t Hofbrouwerijke]]
+|-
+| [[Blondine (bier)|Blondine]] || blond || 8% || Brewery Van Steenberge voor Hopduvel Gent
+|-
+| [[Blondine IPA]] || [[India Pale Ale|IPA]] || 8% || Brewery De Graal voor Hopduvel Gent
+|-
+| [[Bock Leroy]] || tafelbier || 1.8% || [[Brewery Het Sas]]
+|-
+| [[Bock Pils]] || pils || 5.2% || [[Brewery Palm]]
+|-
+| [[Bockor Pils]] || lage gisting, pils || 5.2% || Brewery Bockor
+|-
+| ''[[Gauloise Christmas|Bocq Christmas]]'' || kerstbier || 8.1% || [[Brasserie Du Bocq]]
+|-
+| [[Boembeke Luiwerk]] || blond, licht troebel || 6.5% || [[Brewery De Graal]]
+|-
+| [[Boerinneken]] || high fermentation, blond || 9.5% || De Proefbrouwerij voor Den Ouden Advokaat
+|-
+| [[Boerke (bier)|Boerke Blond]] || blond || 6.8% || [[Brewery Angerik]]
+|-
+| [[Boerke (bier)|Boerke Bruin]] || bruin || 6.8% || Brewery Angerik
+|-
+| [[Boerke (bier)|Boerke Krieken]] || fruitbier || 6.5% || Brewery Angerik
+|-
+| [[Boerken]] || high fermentation, bruin || 9.5% || De proefbrouwerij voor Den Ouden Advokaat
+|-
+| [[Bokkereyer]] || lage gisting || 6% || [[Brewery Sint-Jozef (Opitter)|Brewery Sint-Jozef]]
+|-
+| [[Bolleville Calvados Barrel OA]] || oak aged || 10% || [[Brewery Alvinne]]
+|-
+| [[Bokrijks]] || blond, [[Abbey beer#Abbey beers|Abbey Beer]] || 7.2% || Brewery du Bocq
+|-
+| [[Bon Homme]] || high fermentation, donkerbruin || 6.5% || [[Brewery De Leite]]
+|-
+| [[Bon Secours (bier)|Bon Secours Ambrée]] || high fermentation, amber || 8% || [[Brasserie Caulier (Péruwelz)|Brewery Caulier]]
+|-
+| [[Bon Secours (bier)|Bon Secours Blonde]] || high fermentation, blond || 8% || Brewery Caulier
+|-
+| [[Bon Secours (bier)|Bon Secours Brune]] || high fermentation, bruin || 8% || Brewery Caulier
+|-
+| [[Bon Secours (bier)|Bon Secours Framboise]] || high fermentation, frambozenbier || 7% || Brewery Caulier
+|-
+| [[Bon Secours (bier)|Bon Secours Myrtille]] || high fermentation, bosbessenbier || 7% || Brewery Caulier
+|-
+| [[Bon Secours (bier)|Bon Secours Noël]] || high fermentation, blond kerstbier|| 10% || Brewery Caulier
+|-
+| [[Boneffe]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 9% || Brasserie de Tubize
+|-
+| [[Bons Voeux]] || blond || 9.5% || Brewery Dupont
+|-
+| [[Bornem (bier)|Bornem Dubbel]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 8% || [[Brewery Van Steenberge]]
+|-
+| [[Bornem (bier)|Bornem Tripel]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 9% || Brewery Van Steenberge
+|-
+| [[Bos Bier]] || fruitbier || 9% || [[Brewery DijkWaert]]
+|-
+| [[Bosbier]] || fruitbier-pils || 4% || [[Brewery Sint-Jozef (Opitter)|Brewery Sint-Jozef]]
+|-
+| [[Boscoli]] || fruitbier || 3.5% || [[Brewery Het Anker (Mechelen)|Brewery Het Anker]]
+|-
+| [[Boskeun]] || lichtblond || 7% || [[De Dolle Brouwers]]
+|-
+| [[Bosprotter]] || tripel || 8.5% || [['t Hofbrouwerijke]]
+|-
+| [[Bourgogne des Flandres|Bourgogne des Flandres Blond]] || high fermentation, blond || 6% || [[Brewery Timmermans]]
+|-
+| [[Bourgogne des Flandres|Bourgogne des Flandres Bruin]] || oud bruin || 5% || Brewery Timmermans
+|-
+| ''Brasserie des Rocs Triple Impériale'' || || 10% || [[Brasserie de l'Abbaye des Rocs]]
+|-
+| [[Super 64|Brave Broeder]] || high fermentation (etiketbier) || 5% || Brasserie de Silly
+|-
+| [[Bravoure]] || high fermentation, rookbier, amber || 6.5% || [[Brewery De Dochter van de Korenaar]]
+|-
+| [[Bremserbier]] || amber || 6% || [[Huisbrouwerij de 3 vaten]]
+|-
+| [[Brice (bier)|Brice]] || blond || 7.5% || [[Brasserie Grain d'Orge (Hombourg)|Brasserie Grain d'Orge]]
+|-
+| [[Briekebakker]] || tripel || 8.7% || [[Brewery Alvinne]]
+|-
+| [[Brigand (bier)|Brigand]] || blond || 9% || [[Brewery Van Honsebrouck]]
+|-
+| ''[[Brigand (bier)|Brigand IPA]]'' || [[India Pale Ale]] || 6.5% || Brewery Van Honsebrouck
+|-
+| [[Broeder Jacob (bier)|Broeder Jacob Bruin]] || bruin || 7.5% || Brewery Broeder Jacob
+|-
+| [[Broeder Jacob (bier)|Broeder Jacob Tripel]] || tripel || 7.5% || Brewery Broeder Jacob
+|-
+| [[Bruegel (bier)|Bruegel]] || amber || 5% || [[Brewery Van Steenberge]]
+|-
+| [[Brugge Blond]] || speciaalbier, high fermentation || 6.5% || [[Brewery Palm]] (vroeger in [[Brewery De Gouden Boom]])
+|-
+| [[Brugge Tripel]] || speciaalbier, high fermentation || 8.7% || Brewery Palm (vroeger in Brewery De Gouden Boom)
+|-
+| [[Brugs (bier)|Brugs (Tarwebier)]] || witbier || 4.8% || [[Alken-Maes]] ([[Heineken (brouwerij)|Heineken]]) (vroeger in Brewery De Gouden Boom)
+|-
+| ''Brugs Beertje 20'' || blond || 6.5% || [[Brewery De Regenboog]]
+|-
+| ''Brugs Beertje 25'' || amber || 9% || Brewery De Regenboog
+|-
+| ''Brugse Babbelaar'' || blond || 6.5% || [[De Proefbrouwerij]]
+|-
+| [[Brugse Bok]] || lichtdonker || 6.5% || [[Brewery De Halve Maan (Brugge)|Brewery De Halve Maan]]
+|-
+| [[Brugse Zot|Brugse Zot Blond]] || goudblond || 6% || Brewery De Halve Maan
+|-
+| [[Brugse Zot|Brugse Zot Dubbel]] || bruin || 7.5% || Brewery De Halve Maan
+|-
+| [[Bruin Leroy]] || tafelbier || 1.8% || Brewery Het Sas
+|-
+| [[Brune (bier)|Brune]] || bruin ||6.8% || [[Brasserie de Bellevaux]]
+|-
+| ''Brunehaut Terroir'' || witbier || 5% || [[Brasserie de Brunehaut]]
+|-
+| ''Brunehaut Tradition'' || amber || 6.5% || Brasserie de Brunehaut
+|-
+| ''Brunehaut Village'' || blond || 6.5% || Brasserie de  Brunehaut
+|-
+| [[Brunehaut Bio|Brunehaut Bio Amber]] || biologisch || 6.5% || Brasserie de  Brunehaut
+|-
+| [[Brunehaut Bio|Brunehaut Bio Blanche]] || biologisch, witbier || 5% || Brasserie de  Brunehaut
+|-
+| [[Brunehaut Bio|Brunehaut Bio Blonde]] || biologisch || 6.5% || Brasserie de  Brunehaut
+|-
+| [[Brunette (bier)|Brunette]] || high fermentation || 9% || Brewery Van Steenberge voor Hopduvel Gent
+|-
+| ''Brussels Framboos'' || fruitbier || 3.5% || Brewery Van Steenberge
+|-
+| ''Brussels Kriek'' || fruitbier || 5% || Brewery Van Steenberge
+|-
+| ''Brussels Perzik'' || fruitbier || 4% || Brewery Van Steenberge
+|-
+| [[Brussels Fruit Beer|Brussels Fruit Beer "Apple"]] || fruitbier || 3.2% || [[Brasserie Du Bocq]]
+|-
+| [[Brussels Fruit Beer|Brussels Fruit Beer "Peaches"]] || fruitbier || 3.2% || Brasserie Du Bocq
+|-
+| [[Brussels Fruit Beer|Brussels Fruit Beer "Red Fruit"]] || fruitbier || 3.2% || Brasserie Du Bocq
+|-
+| [[Brut (bier)|Brut]] || blond aperitiefbier || 8% || [[Brewery De Vlier]]
+|-
+| [[Kapittel (bier)|Bruynen Moriaen]] || donker || 9% || [[Brewery Van Eecke]]
+|-
+| [[Jessenhofke|BRWN]] || high fermentation, biologisch || 7% || [[De Proefbrouwerij]] voor [[Brewery Jessenhofke]]
+|-
+| [[Buffalo (bier)|Buffalo]] || high fermentation, donker || 6.5% || [[Brewery Van Den Bossche]]
+|-
+| [[Buffalo (bier)|Buffalo Belgian Stout]] || stout || 9% || Brewery Van Den Bossche
+|-
+| [[Buffalo (bier)|Buffalo Bitter]] || blond || 8% || Brewery Van Den Bossche
+|-
+| [[Bush (bier)|Bush Amber]] || high fermentation, amber || 12% || [[Brewery Dubuisson]]
+|-
+| [[Bush (bier)|Bush Amber Tripel]] || tripel, amber || 12% || Brewery Dubuisson
+|-
+| [[Bush (bier)|Bush Blond]] || high fermentation, blond || 10.5% || Brewery Dubuisson
+|-
+| [[Bush (bier)|Bush Blond Triple]] || tripel, blond || 10.5% || Brewery Dubuisson
+|-
+| [[Bush (bier)|Bush de Noël]] || kerstbier || 12% || Brewery Dubuisson
+|-
+| [[Bush (bier)|Bush de Noël Premium]] || kerstbier, tripel || 13% || Brewery Dubuisson
+|-
+| [[Bush (bier)|Bush de Nuits]] || amber, tripel || 13% || Brewery Dubuisson
+|-
+| [[Bush (bier)|Bush Prestige]] || amber, tripel || 13% || Brewery Dubuisson
+|-
+| ''[[Bush (bier)|Bush 7]]'' || amber || 7.5% || Brewery Dubuisson
+|}
+
+==C==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Cambrinus (bier)|Cambrinus]] || Belgische [[ale (bier)|ale]] || 5.1% || [[Brewery Verhaeghe]]
+|-
+| [[Campus Premium]] || [[pilsner|pils]] || 5% || [[Brewery Huyghe]]
+|-
+| [[Campus (bier)|Campus]] || sterk donker || 7% || Brewery Huyghe
+|-
+| [[Campus (bier)|Campus Gold]] || blond || 6.2% || Brewery Huyghe
+|-
+| [[Canaille]] || [[witbier]] || 5.2% || [[Brasserie Grain d'Orge (Hombourg)|Brasserie Grain d'Orge]]
+|-
+| [[Canaster]] || Scotch || 8.7% || [[Brewery De Glazen Toren]]
+|-
+| [[Geuze Cantillon 100% Lambic Bio|Cantillon Geuze]] || [[spontane gisting]] || 5% || [[Brewery Cantillon]]
+|-
+| [[Caper Fumatis]] || donkerbruin || 6.3% || [[Brewery Alvinne]]
+|-
+| ''Capoen'' || amber || 6.5% || [[De Proefbrouwerij]]
+|-
+| [[Captain Cooker Manuka Beer]] || amber || 5.7% || De Proefbrouwerij voor Captain Cooker
+|-
+| [[Captain Cooker Manuka Beer|Captain Cooker White Manuka Beer]] || [[witbier]] || 4.5% || De Proefbrouwerij voor Captain Cooker
+|-
+| [[Cara Pils]] || pils || 4.9% || [[Brewery Haacht]]
+|-
+| [[Caracole]] || high fermentation, amber || 8% || [[Brasserie Caracole]]
+|-
+| [[Carioca]] || witbier || 4.8% || De Lion à Plume bij [[Brasserie de Bastogne]]
+|-
+| [[Valeir|Carlos]] || donker, high fermentation || 6.5% || Brewery Contreras
+|-
+| ''Carnavalsbier'' || blond || 6.1% || [[Brewery De Graal]] voor bierfirma Vacas
+|-
+| [[Carrousel (bier)|Carrousel]] || high fermentation, blond || 6% || [[Brewery De Vlier]]
+|-
+| [[Caulier (bier)|Caulier Brune]] || high fermentation, amberbruin || 6.8% || De Proefbrouwerij voor The House of Caulier
+|-
+| [[Caulier (bier)|Caulier Special Extra]] || high fermentation, blond || 4.3% || De Proefbrouwerij voor The House of Caulier
+|-
+| [[Caulier (bier)|Caulier Blonde]] || high fermentation, blond || 6.8% || De Proefbrouwerij voor The House of Caulier
+|-
+| [[Ceci n'est pas un Barley Wine]] || [[gerstewijn]] || 10% || [[Brasserie Sainte-Hélène]]
+|-
+| [[Ceci n'est pas une saison]] || [[saison]] || 6.5% || [['t Hofbrouwerijke]]
+|-
+| [[Ceci n'est pas une stout]] || [[stout (bier)|stout]] || 6.5% || 't Hofbrouwerijke
+|-
+| [[Ceci n'est pas une triple]] || [[tripel]] || 8% || 't Hofbrouwerijke
+|-
+| [[Celestus]] || [[Lager (bier)|lager]] || 5% || [[Brewery Haacht]]
+|-
+| [[Celis White]] || witbier || 5% || [[Brewery Van Steenberge]]
+|-
+| [[Celtic Angel]] || high fermentation, amber || 6.2% || [[De Proefbrouwerij]] voor [[Microbrouwerij Achilles]]
+|-
+| [[Cervesia]] || high fermentation, blond || 8% || [[Brewery Dupont (Tourpes)|Brewery Dupont]]
+|-
+| ''Cervoise de l'Avouerie d'Anthisnes'' || || 5% || [[Brasserie de Silly]]
+|-
+| [[Cesar (bier)|Cesar]] || tripel || 8.5% || Brewery Van Steenberge
+|-
+| [[Cezarken]] || lager || 5.5% || [[Brewery Strubbe]] voor [[Brewery Crombé]]
+|-
+| [[Chapeau Gueuze]] || [[geuze]] || 5.5% || [[Brewery De Troch]]
+|-
+| [[Chapeau fruitbier|Chapeau Abricot]] || [[fruitbier]] op basis van [[lambiek (bier)|lambiek]] || 3.5% || Brewery De Troch
+|-
+| [[Chapeau fruitbier|Chapeau Banana]] || [[fruitbier]] op basis van [[lambiek (bier)|lambiek]] || 3.5% || Brewery De Troch
+|-
+| [[Chapeau Gueuze|Chapeau Cuvée Oude Gueuze]] || oude geuze || 5.5% || Brewery De Troch
+|-
+| [[Chapeau fruitbier|Chapeau Exotic]] (ananas) || [[fruitbier]] op basis van [[lambiek (bier)|lambiek]] || 3.5% || Brewery De Troch
+|-
+| [[Chapeau Faro]] || aangezoete geuze || 4.75% || Brewery De Troch
+|-
+| [[Chapeau fruitbier|Chapeau Fraises]] || [[fruitbier]] op basis van [[lambiek (bier)|lambiek]] || 3.5% || Brewery De Troch
+|-
+| [[Chapeau fruitbier|Chapeau Framboise]] || [[fruitbier]] op basis van [[lambiek (bier)|lambiek]] || 3.5% || Brewery De Troch
+|-
+| [[Chapeau fruitbier|Chapeau Kriek]] || [[fruitbier]] op basis van [[lambiek (bier)|lambiek]] || 3.5% || Brewery De Troch
+|-
+| [[Chapeau fruitbier|Chapeau Lemon]] || [[fruitbier]] op basis van [[lambiek (bier)|lambiek]] || 3.5% || Brewery De Troch
+|-
+| [[Chapeau fruitbier|Chapeau Mirabelle]] || [[fruitbier]] op basis van [[lambiek (bier)|lambiek]] || 3.5% || Brewery De Troch
+|-
+| [[Chapeau fruitbier|Chapeau Pêche]] || [[fruitbier]] op basis van [[lambiek (bier)|lambiek]] || 3.5% || Brewery De Troch
+|-
+| [[Chapeau Gueuze|Chapeau Winter Gueuze]] || geuze, kerstbier || 5.6% || Brewery De Troch
+|-
+| [[Keizer Karel (bier)|Charles Quint]] || lager || 6.3% || Haacht
+|-
+| [[Chimay (bier)|Chimay Blauw]] || trappist || 9% || [[Abdij Notre-Dame de Scourmont]]
+|-
+| [[Chimay (bier)|Chimay Rood]] || trappist || 7% || Abdij Notre-Dame de Scourmont
+|-
+| [[Chimay (bier)|Chimay Wit]] || tripel || 8% || Abdij Notre-Dame de Scourmont
+|-
+| [[Chimay (bier)|Chimay dorée]] || blond tafelbier || 4.8% || Abdij Notre-Dame de Scourmont
+|-
+| [[Chouffe Bok 6666]] || donker amber || 6% || [[Brewery d'Achouffe]] (Duvel-Moortgat)
+|-
+| [[Christmas Leroy]] || high fermentation, kerstbier || 7.5% || [[Brewery Van Eecke]]
+|-
+| [[Christmas Verhaeghe]] || high fermentation, kerstbier || 7.2% || [[Brewery Verhaeghe]]
+|-
+| ''[[Christmas Pale Ale]]'' || high fermentation, kerstbier || 6.3% || [[Brewery De Ryck]]
+|-
+| [[Ciney (bier)|Ciney Blond]] || high fermentation, blond || 7% || [[Alken-Maes]] (Heineken)
+|-
+| [[Ciney (bier)|Ciney Bruin]] || high fermentation, bruin || 7% || Alken-Maes (Heineken)
+|-
+| [[Cluysenaer]] || high fermentation || 7% || De Proefbrouwerij voor [[Brewery Cluysenaer]]
+|-
+| [[Cnudde Bizon]] || fruitbier || 5.5% || [[Brewery Cnudde]]
+|-
+| [[Cnudde Oudenaards bruin]] (Kerkhofbier) || Vlaams oud bruin || 5% || Brewery Cnudde
+|-
+| [[Colère Rouge]] || Belgian dark ale || 5% || [[Brasserie Millevertus]]
+|-
+| [[Trisser|Content]] || tripel || 7.5% || [[Brewery De Graal]] voor [[De Verhuisbrouwerij]]
+|-
+| [[Contrapils]] || pils || 5% || [[Brewery Contreras]]
+|-
+| [[Contreras' Especial Mars]] || high fermentation, lentebier || 6.5% || Brewery Contreras
+|-
+| [[Cookie Beer]] || speciaalbier || 8% || [[Brasserie d'Ecaussinnes]]
+|-
+| [[Coq Hardi]] || lage gisting, blond || 5.5% || [[Brewery Haacht]]
+|-
+| [[Corsendonk (bier)|Corsendonk Agnus]] || blonde tripel || 7.5% || [[Brewery du Bocq]] voor Corsendonk nv
+|-
+| [[Corsendonk (bier)|Corsendonk Blond]] || high fermentation || 6.5% || Brewery du Bocq voor Corsendonk nv
+|-
+| [[Corsendonk (bier)|Corsendonk Bruin]] || high fermentation || 6.5% || Brewery du Bocq voor Corsendonk nv
+|-
+| [[Corsendonk (bier)|Corsendonk Christmas Ale]] || kerstbier || 8.5%|| Brewery du Bocq voor Corsendonk nv
+|-
+| [[Corsendonk (bier)|Corsendonk Pater]] || roodbruin, dubbel || 7.5% || Brewery du Bocq voor Corsendonk nv
+|-
+| [[Corsendonk (bier)|Corsendonk Rousse]] || amber, high fermentation || 8% || Brewery du Bocq voor Corsendonk nv
+|-
+| ''[[Corsendonk (bier)|Corsendonk Triple 11.11.11]]'' || tripel (etiketbier) || 7.5% || Brewery du Bocq voor Corsendonk nv
+|-
+| [[Couckelaerschen Doedel]] || high fermentation || 6.5% || [[Brewery Strubbe]]
+|-
+| [[Courage (bier)|Courage]] || high fermentation, winterbier || 8% || [[Brewery De Dochter van de Korenaar]]
+|-
+| [[Kapittel (bier)|Coy'Heimsen]] || roodbruin, etiketbier || 6% || [[Brewery Van Eecke]]
+|-
+| [[Crack Pils]] || lage gisting, pils || 5% || Brewery Het Sas
+|-
+| ''[[Crianza]]'' || mengbier met lambiek || 7% || [[Brasserie de la Senne]]
+|-
+| [[Cristal Alken]] || lage gisting, pils || 4.8% || [[Alken-Maes]] (Heineken)
+|-
+| [[Cristal Alken|Cristal 1928]] || lage gisting, pils || 5.8% || Alken-Maes (Heineken)
+|-
+| [[Cuvée Angélique]] || dubbel, Special Belge || 8.3% || [[Brewery De Glazen Toren]]
+|-
+| [[Cuvée de Bouillon]] || blond, high fermentation || 6.5% || [[Brasserie de Bouillon]]
+|-
+| [[Cuvée de Briqville]] || streekbier || 7% || [[Brewery Van Steenberge]]
+|-
+| ''[[Cuvée de Francorchamps]]'' || etiketbier || 8% || [[Brewery Lefebvre]]
+|-
+| [[Cuvée De Ranke]] || gemengde gisting || 7% || [[Brewery De Ranke]]
+|-
+| [[Cuvée des Trolls]] || high fermentation, blond || 7% || [[Brewery Dubuisson]]
+|-
+| [[Cuvée des Trolls|Cuvée des Trolls Triple]] || blonde tripel || 7% || Brewery Dubuisson
+|-
+| [[Cuvée Delphine]] || Belgian Royal Stout || 13% || [[De Struise Brouwers]] bij [[Brewery Deca]]
+|-
+| [[Cuvée d'Erpigny]] || quadrupel, oak aged || 15% || [[Brewery Alvinne]]
+|-
+| [[Cuvée du Château]] || sterk donker || 11% || [[Brewery Van Honsebrouck]]
+|-
+| [[Cuvée du Flo|Cuvée du Flo Ambrée]] || high fermentation, amber || 8.5% || [[Brasserie du Flo]]
+|-
+| [[Cuvée du Flo|Cuvée du Flo Blonde]] || high fermentation, blond || 8% || Brasserie du Flo
+|-
+| [[Cuvée du Flo|Cuvée du Flo Brune]] || high fermentation, bruin || 9% || Brasserie du Flo
+|-
+| [[Cuvée du Flo|Cuvée du Flo Fruit]] || high fermentation, fruitbier || 6.5% || Brasserie du Flo
+|-
+| [[Cuvée du Flo|Cuvée du Flo Miel]] || high fermentation, honingbier || 8.5% || Brasserie du Flo
+|-
+| [[Cuvée du Tchesté]] || high fermentation || 7.5% || [[Brasserie Les 3 Fourquets]] in opdracht van de ''Confrérie du Tchesté de Neufchâteau''
+|- 
+| [[Cuvée Ermesinde]] || high fermentation, amber || 7.8% || [[Brasserie Saint-Monon]]
+|-
+| [[Cuvée Freddy]] || stout || 10% || Brewery Alvinne
+|-
+| [[Cuvée Jeun'homme]] || blond || 6.5% || [[Brewery De Leite]]
+|-
+| [[Cuvée Jolie Môme]] || high fermentation, witbier || 4.5% || Brasserie du Flo
+|-
+| [[Lindemans Cuvée René|Cuvée René Oude Geuze]] || oude geuze || 5.5% || [[Brewery Lindemans]]
+|-
+| [[Lindemans Cuvée René|Cuvée René Oude Kriek]] || fruitbier op basis van lambiek || 6% || Brewery Lindemans
+|-
+| ''Cuvée Li Crochon'' || high fermentation, bruin || 8.7% || [[Brasserie Du Bocq]]
+|-
+| [[Cuvée Mam'zelle]] || hoogblond || 8.5% || Brewery De Leite
+|-
+| [[Cuvée St.Antoine|Cuvée Saint-Antoine Blonde]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 7.5% || Brasserie du Flo
+|-
+| [[Cuvée St.Antoine|Cuvée Saint-Antoine Brune]] || [[Abbey beer#Abbey beers|Abbey Beer]], scotch || 9% || Brasserie du Flo
+|-
+| [[Cuvée Saint Gilloise]] || [[spontane gisting]], 100% [[lambiek (bier)|lambiek]] || 5% || [[Brewery Cantillon]]
+|-
+| [[Cuvée van de Keizer|Cuvée van de Keizer Blauw]] || robijnrood speciaalbier || 11% || [[Brewery Het Anker (Mechelen)|Brewery Het Anker]]
+|-
+| [[Cuvée van de Keizer|Cuvée van de Keizer Rood]] || blond speciaalbier || 10% || Brewery Het Anker
+|}
+
+==D==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Jessenhofke|Dagelyckx bier]] || etiketbier || 8% || [[Brewery Jessenhofke]]
+|-
+| [[Darinckdelver]] || stout || 10.5% || [[Brewery Alvinne]]
+|-
+| [[Dark White BBB]] || high fermentation || 4.5% || Brasserie Fantôme
+|-
+| [[De Boomgaard Framboise]] || fruitbier || 4.9% || [[Brasserie d'Ecaussinnes]]
+|-
+| [[de Chokier]] || high fermentation, amber || 7% || [[De Proefbrouwerij]]
+|-
+| [[Balthazar (bier)|De Eycken Balthazar]] || donkerbruin || 9% || [[Brewery Alvinne]]
+|-
+| [[De Garre Tripel]] || tripel || 11.5% || [[Staminee De Garre]] ([[Brewery Van Steenberge]])
+|-
+| [[De Graal (bier)|De Graal Blond]] || blond || 6.5% || [[Brewery De Graal]]
+|-
+| [[De Graal (bier)|De Graal Dubbel]] || donker || 6.5% || Brewery De Graal
+|-
+| [[De Graal (bier)|De Graal Gember]] || blond || 8% || Brewery De Graal
+|-
+| [[De Graal (bier)|De Graal SloCK]] || koperkleurig || 6.5% || Brewery De Graal
+|-
+| [[De Graal (bier)|De Graal Tripel]] || tripel || 9% || Brewery De Graal
+|-
+| [[Quest (bier)|De Graal Quest]] || suikervrij || 9% || Brewery De Graal
+|-
+| [[Triverius|De Graal Triverius]] || witbier || 6.8% || Brewery De Graal
+|-
+| [[De Kavijaks (bier)|De Kavijaks]] || India pale ale || 7% || [[De Dolle Brouwers]] voor Kaffee Kavijaks
+|-
+| [[De Koninck (bier)|De Koninck]] ||  amber || 5.2% || [[Brewery De Koninck]] (Duvel-Moortgat)
+|-
+| [[De Koninck (bier)|De Koninck Triple d'Anvers]] || blond || 8% || Brewery De Koninck (Duvel-Moortgat)
+|-
+| [[De Koninck (bier)|De Koninck Winter]] || robijnrood|| 6.5% || Brewery De Koninck (Duvel-Moortgat)
+|-
+| [[De Maeght van Gottem]] || donkerblond || 6.5% || [[Huisbrouwerij Sint-Canarus]]
+|-
+| [[De Nacht]] || winterbier || 5.2% || [[Brewery Vissenaken]]
+|-
+| ''De Regenboog IJzer'' || || 6% || [[Brewery De Regenboog]]
+|-
+| [[De Verboden Vrucht]] || high fermentation || 8.5% || [[De Kluis (bier)|Brewery De Kluis]] (InBev)
+|-
+| [[De Vlier X-Mas]] || kerstbier || 8.5% || [[Brewery De Vlier]]
+|-
+| [[Deinze Export]] || export || 4.6% || [[Huisbrouwerij Sint Canarus]] voor JCI Deinze en Leiestreek
+|-
+| ''[[Affligem (bier)|Delhaize Christmas]]'' || etiketbier || 9% || [[Affligem Brewery]]
+|-
+| [[Piedbœuf (bier)|Delhaize Tafelbier Blond]] || tafelbier || 1.5% || [[Brewery Piedbœuf]] (InBev)
+|-
+| [[Piedbœuf (bier)|Delhaize Tafelbier Bruin]] || tafelbier || 1.5% || [[Brewery Piedbœuf]] (InBev)
+|-
+| [[Delirium tremens (bier)|Delirium Nocturnum]] || donker, high fermentation || 9% || [[Brewery Huyghe]]
+|-
+| [[Delirium tremens (bier)|Delirium Tremens]] || tripel || 9% || Brewery Huyghe
+|-
+| [[Delirium tremens (bier)|Delirium Christmas]] || kerstbier || 10% || Brewery Huyghe
+|-
+| [[Delirium tremens (bier)|Delirium Red]] || fruitbier || 8.5% || Brewery Huyghe
+|-
+| [[Den Alternatief]] || lager || 5% || [[Brewery Het Alternatief]] bij [[Brewery Alvinne]]
+|-
+| [[Den Bi3r]] || tripel || 9% || [[Brewery Den Tseut]]
+|-
+| [[Den Bras]] || bruin || 7.5% || Brewery Den Tseut
+|-
+| [[Den Drupneuze]] || winterbier || 8.5% || Brewery Den Tseut
+|-
+| [[Den Herberg|Den Herberg Amber]] || amber || 5% || [[Brewery Den Herberg]]
+|-
+| [[Den Herberg|Den Herberg Blond]] || blond || 5.5% || Brewery Den Herberg
+|-
+| [[Den Herberg|Den Herberg Bruin]] || bruin || 5.5% || Brewery Den Herberg
+|-
+| [[Den Herberg|Den Herberg Tarwe]] || witbier || 5% || Brewery Den Herberg
+|-
+| [[Den Mulder]] || blond || 8% || Brewery Den Tseut
+|-
+| [[Den Tseut]] || blond, speciaalbier || 6.5% || Brewery Den Tseut
+|-
+| [[Den Twaalf]] || high fermentation || 12% || [[Brewery 't Gaverhopke]]
+|-
+| ''Den Zytholoog'' || blond || 6.6% || Brewery De Graal voor bierfirma Vacas
+|-
+| [[Dendermonde Tripel]] || [[Abbey beer#Abbey beers|Abbey Beer]], tripel || 8% || [[Brewery De Block]]
+|-
+| [[Dentergems Wit]] || witbier || 5% || [[Brewery Het Anker (Mechelen)|Brewery Het Anker]]
+|-
+| [[Deugniet (bier)|Deugniet]] || tripel (etiketbier) || 7.3% || [[Brasserie Du Bocq]]
+|-
+| [[DeuS]] || speciaalbier, blond || 11.5% || [[Brewery Bosteels]]
+|-
+| [[Diabolici]] || tripel || 8% || [[John Martin (brouwerij)|Groep John Martin]]
+|-
+| [[Dikke Mathile]] || high fermentation || 6% || [[Brewery Strubbe]]
+|-
+| [[Palm (bier)|Dobbel Palm]] || high fermentation || 6% || [[Brewery Palm]]
+|-
+| [[Dobbelken|Dobbelken Amber]] || streekbier, amber || 6.5% || [[Brewery Strubbe]]
+|-
+| [[Dobbelken|Dobbelken Bruin]] || streekbier, bruin || 5% || Brewery Strubbe
+|-
+| [[De Maeght van Gottem|Dogabier]] || etiketbier || 6.5% || [[Huisbrouwerij Sint-Canarus]]
+|-
+| [[Dominus (bier)|Dominus Dubbel]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 6.5% || Group John Martin
+|-
+| [[Dominus (bier)|Dominus Tripel]] || [[Abbey beer#Abbey beers|Abbey Beer]], tripel || 8% || Group John Martin
+|-
+| ''[[Donkere Stoere]]'' || sterk donker || 8.2% || [[Brewery DijkWaert]]
+|-
+| [[Double Bie]] || bruin || 6.5% || [[Brewery De Bie]]
+|-
+| [[Bière de Brabant|Double de Brabant]] || dubbel, donker || 6.5% || [[John Martin (brouwerij)|Groep John Martin]]
+|-
+| [[Enghien (bier)|Double Enghien Blonde]] || high fermentation, blond || 7.5% || [[Brasserie de Silly]]
+|-
+| [[Enghien (bier)|Double Enghien Brune]] || high fermentation, amber || 8% || Brasserie de Silly
+|-
+| [[Douglas Celtic| Douglas Celtic Brown]] || donkere scotch || 7.9% || Scottish & Newcastle voor [[John Martin (brouwerij)|Groep John Martin]]
+|-
+| [[Douglas Celtic| Douglas Celtic Lager]] || blonde lager || 5% || Scottish & Newcastle voor [[John Martin (brouwerij)|Groep John Martin]]
+|-
+| [[Douglas Celtic| Douglas Celtic Red]] || amberrood, high fermentation || 7.9% || Scottish & Newcastle voor [[John Martin (brouwerij)|Groep John Martin]]
+|-
+| [[Douglas Celtic| Douglas Celtic Super]] || blond, high fermentation || 7.9% || Scottish & Newcastle voor [[John Martin (brouwerij)|Groep John Martin]]
+|-
+| [[Douglas Celtic| Douglas Celtic XXX Strong]] || blond, high fermentation || 12% || Scottish & Newcastle voor [[John Martin (brouwerij)|Groep John Martin]]
+|-
+| [[Drongens Plezierke]] || high fermentation, donker || 7.5% || [[Brewery Slaghmuylder]]
+|-
+| [[Druïde (bier)|Druïde Blond]] || lichtblond || 6.5% || De Proefbrouwerij voor [[Brewery Druïde]]
+|-
+| [[Druïde (bier)|Druïde Bruin]] || robijnrood || 6.5% || De Proefbrouwerij voor Brewery Druïde
+|-
+| [[Druïde (bier)|Druïde Grand Q]] || tripel, blond || 8.5% || De Proefbrouwerij voor Brewery Druïde
+|-
+| [[Druivenbier]] || fruitbier || 6% || [[Brewery Van Steenberge]] voor [[Brewery Paeleman]]
+|-
+| [[Dubbel Buitenlust]] || blond || 8.5% || [[De Proefbrouwerij]]
+|-
+| [[Dubbel Klok]] || donker || 8.5% || [[Brewery Boelens]]
+|-
+| [[Ducassis]] || fruitbier || 3% || [[Brasserie des Légendes]]
+|-
+| [[Duchesse de Bourgogne]] || oud bruin || 6.2% || [[Brewery Verhaeghe Vichte]]
+|-
+| [[Duivels Bier]] || donker || 8% || [[Brewery Boon]]
+|-
+| [[Dulle Griet (bier)|Dulle Griet]] || dubbel || 6.5% || [[De Scheldebrouwerij]]
+|-
+| [[Dulle Teve]] || tripel || 10% || [[De Dolle Brouwers]]
+|-
+| [[Duvel (bier)|Duvel]] || high fermentation || 8.5% || [[Brewery Duvel Moortgat]]
+|-
+| ''[[Duvel (bier)|Duvel Tripel Hop]]'' || high fermentation || 9.5% || Brewery Duvel Moortgat
+|}
+
+==E==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Echt Kriekenbier]] || fruitbier || 6.8% || [[Brewery Verhaeghe]]
+|-
+| ''[[Echt Kriekenbier|Echte Kriek]]'' || fruitbier || 6.8% || [[Brewery Verhaeghe]]
+|-
+| [[Edel-Brau]] || alcoholarm || 0.3% || [[Brewery Strubbe]]
+|-
+| [[Eerwaarde Pater]] || Waestvlaams roodbruin || 9% || [[Brewery Het Alternatief]] bij [[Brewery De Graal]] of [[Brewery Alvinne]]
+|-
+| [[Eeuwige Liefde]] || sterk donker || 8.2% || [[Brewery DijkWaert]]
+|-
+| [[Egmont (bier)|Egmont]] || blond || 6.5% || [[Brewery Strubbe]] voor [[Brewery Crombé]]
+|-
+| [[Elliot Brew]] || Imperial IPA || 9% || [[De Struise Brouwers]] bij [[Brewery Deca]]
+|-
+| [[Valeir|El Toro]] || high fermentation, IPA || 6.5% || Brewery Contreras
+|-
+| [[Embrasse]] || high fermentation, sterk donker || 9% || [[Brewery De Dochter van de Korenaar]]
+|-
+| [[Embrasse|Embrasse Special Edition]] || high fermentation, oak aged || 9% || Brewery De Dochter van de Korenaar
+|-
+| [[Ename (bier)|Ename Blond]] || [[Abbey beer#Abbey beers|Abbey Beer]], high fermentation || 6.5% || [[Brewery Roman]]
+|-
+| [[Ename (bier)|Ename Dubbel]] || [[Abbey beer#Abbey beers|Abbey Beer]], high fermentation || 6.5% || Brewery Roman
+|-
+| [[Ename (bier)|Ename Tripel]] || [[Abbey beer#Abbey beers|Abbey Beer]], tripel || 8.5% || Brewery Roman
+|-
+| [[Ename (bier)|Ename Cuvée 974]] || high fermentation || 7% || Brewery Roman
+|-
+| [[Enfant Terriple]] || blond, tripel || 8.2% || [[Brewery De Leite]]
+|-
+| [[Enghien (bier)|Enghien Noël]] || high fermentation, tripel, kerstbier || 9% || [[Brasserie de Silly]]
+|-
+| [[Estaminet Premium Pils]] || pils || 5.2% || [[Brewery Palm]]
+|-
+| [[Equinox (bier)|Equinox]] || bruin || 8% || [[Brewery De Ranke]] voor [[Brasserie de la Senne]]
+|-
+| [[Eupener Bier]] || pils || 5.2% || [[Brewery Haacht]]
+|-
+| [[Export 8]] || pils || 4.7% || Brewery Haacht
+|-
+| [[Ezel (bier)|Ezel Bruin]] || bruin || 6.5% || [[Brewery Bavik]]
+|-
+| [[Ezel (bier)|Ezel Wit]] || witbier || 5.8% || Brewery Bavik
+|}
+
+==F==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Bavik|Fancy]] || alcoholarm || 0.5% || [[Brewery Bavik]]
+|-
+| [[Fantôme]] || high fermentation || 8% || [[Brasserie Fantôme]]
+|-
+| [[Fantôme|Fantôme Chocolat]] || high fermentation || 8% || Brasserie Fantôme
+|-
+| [[Fantôme|Fantôme Spéciale Noel]] || high fermentation || 8% || Brasserie Fantôme
+|-
+| [[Faro Boon]] || [[faro (bier)|faro]] || 4% || [[Brewery Boon]]
+|-
+| [[Faro Girardin]] || [[faro (bier)|faro]] || 5% || [[Brewery Girardin]]
+|-
+| [[Lindemans Faro|Faro Lambic Lindemans]] || [[faro (bier)|faro]] || 4.5% || [[Brewery Lindemans]]
+|-
+| [[Faro Perte Totale]] || faro || 5% || Brewery Boon
+|-
+| [[Fasso|Fasso Blond]] || blond || 6.5% || [[Brewery Vissenaken]]
+|-
+| [[Felix (bier)|Felix Kriek Oud Bruin]] || kriek || 6% || [[Brewery Verhaeghe]] voor [[Brewery Clarysse]] (bierfirma)
+|-
+| [[Felix (bier)|Felix Kriekbier]] || kriek || 5.2% || Brewery Verhaeghe voor Brewery Clarysse (bierfirma)
+|-
+| [[Felix (bier)|Felix Oud Bruin]] || bruin || 5.2% || Brewery Verhaeghe voor Brewery Clarysse (bierfirma)
+|-
+| [[Felix (bier)|Felix Speciaal Oudenaards]] || roodbruin || 4.6% || Brewery Verhaeghe voor Brewery Clarysse (bierfirma)
+|-
+| [[Femme Fatale (bier)|Femme Fatale]] || high fermentation, amber || 6.5% || [[Brewery De Leite]]
+|-
+| [[Ferme Framboos]] || fruitbier || 8% || [[Brewery De Vlier]]
+|-
+| ''Festina Lente'' || donkerbruin || 7% || [[Brewery Alvinne]]
+|-
+| [[Finesse]] || high fermentation, tripel || 8.5% || [[Brewery De Dochter van de Korenaar]]
+|-
+| ''Flandrien'' || high fermentation || 7% || [[Brewery Louwaege]]
+|-
+| [[Flodder (bier)|Flodder]] || high fermentation || 8% || [[De Proefbrouwerij]] voor bierfirma VALOCCO
+|-
+| [[Floreffe (bier)|Floreffe Blond]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 6.3% || [[Brewery Lefebvre]]
+|-
+| [[Floreffe (bier)|Floreffe Dubbel]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 6.3% || Brewery Lefebvre
+|-
+| [[Floreffe (bier)|Floreffe Prima Melior]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 8% || Brewery Lefebvre
+|-
+| [[Floreffe (bier)|Floreffe Tripel]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 7.5% || Brewery Lefebvre
+|-
+| [[Floreffe (bier)|Floreffe Wit-Bier]] || witbier, [[Abbey beer#Abbey beers|Abbey Beer]] || 4.5% || Brewery Lefebvre
+|-
+| [[Florilège|Florilège de Pensée]] || fruit- en bloemenbier || 9% || [[Brasserie d'Ecaussinnes]]
+|-
+| [[Florilège|Florilège de Rose]] || fruit- en bloemenbier || 9% || Brasserie d'Ecaussinnes
+|-
+| ''[[Florilège|Florilège de Sureau]]'' || fruit- en bloemenbier || 9% || Brasserie d'Ecaussinnes
+|-
+| [[Florilège|Florilège d’Hibiscus]] || fruit- en bloemenbier || 9% || Brasserie d'Ecaussinnes
+|-
+| [[Floris (bier)|Floris Cactus]] || witbier || 4.2% || [[Brewery Huyghe]]
+|-
+| [[Floris (bier)|Floris Chocolat]] || bruin || 4.2% || Brewery Huyghe
+|-
+| [[Floris (bier)|Floris Fraise]] || fruitbier || 3.6% || Brewery Huyghe
+|-
+| [[Floris (bier)|Floris Framboise]] || fruitbier || 3.7% || Brewery Huyghe
+|-
+| [[Floris (bier)|Floris Griotte]] || fruitbier || 3% || Brewery Huyghe
+|-
+| [[Floris (bier)|Floris Honey]] || honingbier || 4.5% || Brewery Huyghe
+|-
+| [[Floris (bier)|Floris Kriek]] || fruitbier || 3.6% || Brewery Huyghe
+|-
+| [[Floris (bier)|Floris Mango]] || fruitbier || 3.6% || Brewery Huyghe
+|-
+| [[Floris (bier)|Floris Ninkeberry]] || fruitbier || 3.6% || Brewery Huyghe
+|-
+| [[Floris (bier)|Floris Passion]] || fruitbier || 3.6% || Brewery Huyghe
+|-
+| [[Floris (bier)|Floris Pear]] || fruitbier || 3.5% || Brewery Huyghe
+|-
+| [[Floris (bier)|Floris Pomme / Apple]] || fruitbier || 3.5% || Brewery Huyghe
+|-
+| [[Floris (bier)|Floris Witbier]] || witbier || 5% || Brewery Huyghe
+|-
+| [[Florival (bier)|Florival Blond]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 7% || [[Affligem Brewery]] ([[Brewery De Smedt]])
+|-
+| [[Florival (bier)|Florival Bruin]] || donkerbruin || 7% || Affligem Brewery
+|-
+| [[Florival (bier)|Florival Tripel]] || tripel || 8.5% || Affligem Brewery
+|-
+| [[Florival (bier)|Florival Winter]] || roodbruin || 9% || Affligem Brewery
+|-
+| ''Foewerbier'' || amber || 7% || [[Brewery Kerkom]]
+|-
+| [[Forestinne|Forestinne Ambrosia]] || amber || 7.5% || [[Brasserie Caracole]]
+|-
+| [[Forestinne|Forestinne Gothika]] || scotch || 7.5% || Brasserie Caracole
+|-
+| [[Forestinne|Forestinne Mysteria]] || blond speciaalbier || 7.5% || Brasserie Caracole
+|-
+| [[Forestinne|Forestinne Nordika]] || kerstbier || 7.5% || Brasserie Caracole
+|-
+| [[Forestinne|Forestinne Primoria]] || blond || 7.5% || Brasserie Caracole
+|-
+| [[Fort Lapin (bier)|Fort Lapin 8]] || tripel || 8% || [[Brewery Fort Lapin]]
+|-
+| [[Framboise Boon]] || lambiek, fruitbier || 6% || [[Brewery Boon]]
+|-
+| [[Framboise Girardin]] || lambiek, fruitbier || 5% || [[Brewery Girardin]]
+|-
+| [[Lindemans fruitbier|Framboise Lindemans]] || lambiek, fruitbier || 2.5% || [[Brewery Lindemans]]
+|-
+| [[Framboise Max Jacobins]] || lambiek, fruitbier || 3% || [[Brewery Bockor]]
+|-
+| [[Framboise Oud Beersel]] || lambiek, fruitbier || 5% || [[Brewery Oud Beersel]]
+|-
+| [[Frasnoise Givrée]] || amber || 6.3% || [[Brasserie La Frasnoise]]
+|-
+| [[Frasnoise Rétro]] || amber || 6.3% || Brasserie La Frasnoise
+|-
+| Freaky || Brown ale || 3.8% || [[Brewery Alvinne]]
+|-
+| Freaky Dark || lambiek || 3.8% || Brewery Alvinne
+|-
+| [[Fruitig Bierreke]] || fruitbier || 8.2% || [[Brewery DijkWaert]]
+|}
+
+==G==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Gageleer]] || biologisch bier || 7.5% || [[De Proefbrouwerij]]
+|-
+| [[Gaspar (bier)|Gaspar]] || amber || 8% || [[Brewery Alvinne]]
+|-
+| Gauloise Ambrée || amber || 5.5% || [[Brasserie Du Bocq]]
+|-
+| Gauloise Blonde || blond || 6.3% || Brasserie Du Bocq
+|-
+| Gauloise Brune || bruin || 8.1% || Brasserie Du Bocq
+|-
+| Gauloise Red || fruitbier || 8.2% || Brasserie Du Bocq
+|-
+| [[Gauloise Christmas]] || kerstbier || 8.1% || Brasserie Du Bocq
+|-
+| [[Gentse Strop]] || blond || 6.9% || [[Brewery Roman]]
+|-
+| [[Gentse Tripel]] || blond || 8% || [[Brewery Van Steenberge]]
+|-
+| [[Gertrude (bier)|Gertrude Ambrée]] || amber, high fermentation || 6% || [[Brasserie de Bouillon]]
+|-
+| [[Gertrude (bier)|Gertrude Triple]] || tripel || 7.5% || [[De Proefbrouwerij]]
+|-
+| [[Geuze Cantillon 100% Lambic Bio]] || [[geuze]] || 5% || [[Brewery Cantillon]]
+|-
+| [[Gueuze Girardin]] || [[geuze]] || 5% || [[Brewery Girardin]]
+|-
+| [[Gueuze Girardin gefilterd]] || [[geuze]] || 5% || Brewery Girardin
+|-
+| [[Geuze Jacobins]] || [[geuze]] || 5.5% || [[Brewery Bockor]]
+|-
+| [[Lindemans Geuze|Geuze Lindemans]] || [[geuze]] || 5.5% || [[Brewery Lindemans]]
+|-
+| [[Geuze Boon|Geuze Mariage Parfait]] || [[geuze]] || 8% || [[Brewery Boon]]
+|-
+| [[Ghulden Cop]] || [[donker blond]] || 6% || [[Brewery De Graal]]
+|-
+| [[Gigi speciale]] || tafelbier || 2.5% || [[Brasserie Gigi]]
+|-
+| [[Gildenbier]] || high fermentation, bruin || 7% || [[Brewery Haacht]]
+|-
+| [[Ginder Ale]] || high fermentation, amber || 5.1% || [[InBev]]
+|-
+| [[Glutaner]] || glutenvrij pilsener || 5.2% || [[Brewery Huyghe]]
+|-
+| [[Goeie Koffe]] || stout || 9.5% || [[Brewery DijkWaert]]
+|-
+| [[Goliath (bier)|Goliath Blonde]] || high fermentation, blond || 5.5% || [[Brasserie des Légendes]]
+|-
+| [[Goliath (bier)|Goliath Triple]] || high fermentation, tripel || 9% || Brasserie des Légendes
+|-
+| [[Golden Kenia]] || pils || 5.1% || Brewery Huyghe
+|-
+| [[Golding Campina]] || pils || 4.8% || [[Alken-Maes]] (Heineken)
+|-
+| [[Gold Pils]] || pils || 5% || [[Brewery Bavik]]
+|-
+| [[Gordon 0.00]] || alcoholvrij || 0% || Group John Martin
+|-
+| [[Gordon Finest|Gordon Finest Chrome]] || high fermentation || 10.5% || [[John Martin (brouwerij)|Group John Martin]]
+|-
+| [[Gordon Finest|Gordon Finest Copper]] || high fermentation || 6.6% || Group John Martin
+|-
+| [[Gordon Finest|Gordon Finest Gold]] || high fermentation || 10% || Group John Martin
+|-
+| [[Gordon Finest|Gordon Finest Platinum]] || high fermentation || 12% || Group John Martin
+|-
+| [[Gordon Finest|Gordon Finest Red]] || high fermentation, rood || 8.4% || Group John Martin
+|-
+| [[Gordon Finest|Gordon Finest Scotch]] || scotch || 8.6% || Group John Martin
+|-
+| [[Gordon Finest|Gordon Finest Silver]] || high fermentation || 7.7% || Group John Martin
+|-
+| [[Gordon Finest|Gordon Finest Zero]] || alcoholvrij || 0% || Group John Martin
+|-
+| [[Gordon Five]] || pils || 5% || Group John Martin
+|-
+| [[Gordon Xmas]] || kerstbier || 8.8% || [[Brewery Palm]] voor Group John Martin
+|-
+| [[Goud Vuur]] || amber, tripel || 9% || Brewery DijkWaert
+|-
+| ''[[Arend (bier)|Gouden Arend 125]]'' || goudblond || 8.5% || [[Brewery De Ryck]]
+|-
+| [[Gouden Carolus (bier)|Gouden Carolus Ambrio]] || amber || 8% || [[Brewery Het Anker (Mechelen)|Brewery Het Anker]]
+|-
+| [[Gouden Carolus (bier)|Gouden Carolus Christmas]] || donker speciaalbier || 10.5% || Brewery Het Anker
+|-
+| [[Gouden Carolus (bier)|Gouden Carolus Classic]] || donker speciaalbier || 8.5% || Brewery Het Anker
+|-
+| [[Gouden Carolus (bier)|Gouden Carolus Easter]] || donker speciaalbier || 10% || Brewery Het Anker
+|-
+| [[Gouden Carolus (bier)|Gouden Carolus Hopsinjoor]] || blond speciaalbier || 8% || Brewery Het Anker
+|-
+| [[Gouden Carolus (bier)|Gouden Carolus Tripel]] || tripel || 9% || Brewery Het Anker
+|-
+| [[Gouden Pier Kloeffe]] || high fermentation, tripel || 8.1% || [[De Proefbrouwerij]] voor [[Brewery Slaapmutske]]
+|-
+| [[Gouyasse|Gouyasse Tradition]] || high fermentation, blond || 6% || Brasserie des Géants
+|-
+| [[Gouyasse|Gouyasse Triple]] || triple || 9% || [[Brasserie des Géants]]
+|-
+| [[Grand Cru Bruocsella]] || lambiek || 5% || Brasserie Cantillon
+|-
+| [[Green Buzz]] || biologisch || 6% || [[Brasserie Millevertus]]
+|-
+| [[Grelotte]] || kerstbier || 9% || [[Brasserie Grain d'Orge (Hombourg)|Brasserie Grain d'Orge]]
+|-
+| [[Gribousine|Gribousine Blonde]] || high fermentation || 8.5% || [[Brasserie La Binchoise]] (voor [[Brasserie de Malonne]])
+|-
+| [[Gribousine|Gribousine Brune]] || high fermentation || 8% || Brasserie La Binchoise (voor Brasserie de Malonne)
+|-
+| [[Gribousine|Gribousine Hiver]] || winterbier || 8.5% || Brasserie La Binchoise (voor Brasserie de Malonne)
+|-
+| ''Griboval'' || high fermentation || 6.5% || [[Brewery Van Den Bossche]] voor Scouts Moen 50 jaar (2011)
+|-
+| [[Grimbergen (bier)|Grimbergen Blond]] || [[Abbey beer#Abbey beers|Abbey Beer]] high fermentation || 6.7% || [[Alken-Maes]] (Heineken - Carlsberg)
+|-
+| [[Grimbergen (bier)|Grimbergen Cuvée de l'Ermitage]] || high fermentation || 7.5% || Alken-Maes (Heineken - Carlsberg) 
+|-
+| [[Grimbergen (bier)|Grimbergen Dubbel]] || high fermentation || 6.5% || Alken-Maes (Heineken - Carlsberg)
+|-
+| [[Grimbergen (bier)|Grimbergen Goud 8°]] || high fermentation, blond || 8% || Alken-Maes (Heineken - Carlsberg)
+|-
+| [[Grimbergen (bier)|Grimbergen Optimo Bruno]] || high fermentation || 10% || Alken-Maes (Heineken - Carlsberg)
+|-
+| [[Grimbergen (bier)|Grimbergen Selection]] || donker, dubbel || 7% || Alken-Maes (Heineken - Carlsberg)
+|-
+| [[Grimbergen (bier)|Grimbergen Tripel]] || tripel || 9% || Alken-Maes (Heineken - Carlsberg)
+|-
+| Grisette Ambrée || amber || 5% || Brewery St-Feuillien
+|-
+| Grisette Blanche || witbier || 5% || Brewery St-Feuillien
+|-
+| Grisette Blonde || blond || 4.5% || Brewery St-Feuillien
+|-
+| Grisette Cérise || fruitbier || 3.5% || Brewery St-Feuillien
+|-
+| Grisette Country Cool || || 3.5% || Brewery St-Feuillien
+|-
+| Grisette Fruits des Bois || fruitbier || 3.5% || Brewery St-Feuillien
+|-
+| [[Grottenbier|Grotten Flemish Ale]] || high fermentation, Belgian strong ale || 7.7% || [[Brewery St-Bernardus]]
+|-
+| [[Grottenbier]] || high fermentation || 6.5% || Brewery St-Bernardus
+|-
+| [[Gruut (bier)|Gruut Amber]] || amber || 6.6% || [[Stadsbrouwerij Gruut]]
+|-
+| [[Gruut (bier)|Gruut Blond]] || blond || 5.5% || Stadsbrouwerij Gruut
+|-
+| [[Gruut (bier)|Gruut Bruin]] || bruin || 8% || Stadsbrouwerij Gruut
+|-
+| [[Gruut (bier)|Gruut Inferno]] || goud || 9% || Stadsbrouwerij Gruut
+|-
+| [[Gruut (bier)|Gruut Wit]] || witbier || 5% || Stadsbrouwerij Gruut
+|-
+| ''Guido'' || high fermentation || 8% || [[Brewery De Regenboog]]
+|-
+| [[Gulden Delle]] || mengbier || 8.5% || [[Brewery De Vlier]]
+|-
+| [[Gulden Draak]] || high fermentation, donker || 10.5% || [[Brewery Van Steenberge]]
+|-
+| [[Guldenberg (bier)|Guldenberg]] || donkerblond [[Abbey beer#Abbey beers|Abbey Beer]] || 8.5% || [[Brewery De Ranke]]
+|-
+| [[Gypsy Rose]] || amber || 9% || [[Brasserie Sainte-Hélène]]
+|}
+
+==H==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Haanse Witte]] || witbier || 5.5% || [[Brewery Strubbe]] voor den Haene
+|-
+| [[Halleschelle]] || blond || 8.5% || [[Brewery Alvinne]]
+|-
+| [[Hanssens Lambic Experimental|Hanssens Lambic Experimental Cassis]] || lambiek, fruitbier || 4% || [[Brewery Hanssens]]
+|-
+| [[Hanssens Lambic Experimental|Hanssens Lambic Experimental Raspberry]] || lambiek, fruitbier || 4% || Brewery Hanssens
+|-
+| [[Hapkin]] || high fermentation, blond || 8.5% || [[Alken-Maes]] (Heineken)
+|-
+| ''[[Kapittel (bier)|Harelbekenaar van de abdijhoeve]]'' || roodbruin, etiketbier || 6% || [[Brewery Van Eecke]]
+|-
+| [[Hector (bier)|Hector]] || high fermentation, tripel || 8.2% || [[Brewery De Graal]]
+|-
+| [[Heksemiebier]] || high fermentation || 6.2% || [[Microbrouwerij Achilles]] 
+|-
+| [[Hellekapelle]] || blond || 5% || [[Brewery De Bie]]
+|-
+| [[Helleketelbier]] || amber || 7% || Brewery De Bie
+|-
+| [[Hercule (bier)|Hercule Stout]] || [[Stout (bier)|stout]] || 9% || [[Brasserie des Légendes]]
+|-
+| [[Herkenrode (bier)|Herkenrode Bruin]] || [[Abbey beer#Abbey beers|Abbey Beer]], bruin || 7% || [[Brewery Sint-Jozef (Opitter)|Brewery Sint-Jozef]]
+|-
+| [[Herkenrode (bier)|Herkenrode Tripel]] || [[Abbey beer#Abbey beers|Abbey Beer]], tripel || 7% || Brewery Sint-Jozef
+|-
+| ''Hertalse Poorter'' || high fermentation, blond || 6.5% || [[Brewery Slaghmuylder]]
+|-
+| [[Hertenheer]] || high fermentation, amber || 6.5% || [[Scheldebrouwerij]] voor [[Brewery Het Nest]]
+|-
+| [[Hervoise]] || high fermentation || 8.2% || [[Brasserie Grain d'Orge (Hombourg)|Brasserie Grain d'Orge]]
+|-
+| [[Hik (bier)|Hik Blond]] || high fermentation, ale || 6.5% || [[Brewery Het Alternatief]] bij Brewery De Graal
+|-
+| [[Hik (bier)|Hik Bruin]] || high fermentation || 6.5% || Brewery Het Alternatief bij Brewery De Graal
+|-
+| [[Himelein]] || high fermentation || 6% || [[Brewery Vissenaken]]
+|-
+| [[Hoegaarden (bier)|Hoegaarden]] || high fermentation, witbier || 4.9% || [[De Kluis (bier)|Brewery De Kluis]] (InBev)
+|-
+| [[Hoegaarden 0.0]] || alcoholvrij witbier || 0% || [[De Kluis (bier)|Brewery De Kluis]] (InBev)
+|-
+| [[Hoegaarden 0.0|Hoegaarden 0.0 Rosée]] || alcoholvrij fruitbier || 0% || [[De Kluis (bier)|Brewery De Kluis]] (InBev)
+|-
+| [[Hoegaarden Fruitbier|Hoegaarden Citron]] || fruitbier ||3% || Brewery De Kluis (InBev)
+|-
+| [[Hoegaarden Grand Cru]] || high fermentation || 8.5% || Brewery De Kluis (InBev)
+|-
+| [[Hoegaarden Fruitbier|Hoegaarden Rosée]] || fruitbier || 3% || Brewery De Kluis (InBev)
+|-
+| [[Hoegaarden Spéciale]] || high fermentation, goudblond || 5.7% || Brewery De Kluis (InBev)
+|-
+| [[Hoegaarden (bier)|Hoegaarden Verboden Vrucht]] || fruitbier || 8.8% || Brewery De Kluis (InBev)
+|-
+| [[Hof Korvatunturi]] || high fermentation, bruin || 11% || [['t Hofbrouwerijke]]
+|-
+| [[Hof ten Dormaal|Hof ten Dormaal Amber]] || high fermentation || 7.5% || [[Brewery Hof ten Dormaal]]
+|-
+| [[Hof ten Dormaal|Hof ten Dormaal Blond]] || high fermentation || 8% || Brewery Hof ten Dormaal
+|-
+| [[Hof ten Dormaal|Hof ten Dormaal Donker]] || high fermentation || 8.5% || Brewery Hof ten Dormaal
+|-
+| [[Hofblues]] || [[Stout (bier)|stout]] || 5.5% || 't Hofbrouwerijke
+|-
+| [[Hofdraak]] || bruin || 6.5% || 't Hofbrouwerijke
+|-
+| [[Hofelf]] || tarwetripel || 7.5% || 't Hofbrouwerijke
+|-
+| [[Hofnar (bier)|Hofnar]] || amber || 9% || 't Hofbrouwerijke
+|-
+| ''Hofpint'' || high fermentation, pils || 5.5% || 't Hofbrouwerijke
+|-
+| [[Hoftrol]] || amber || 6.2% || 't Hofbrouwerijke
+|-
+| Holger || pils || 5% || [[Brewery Martens (Bocholt)|Brewery Martens]]
+|-
+| [[Holsbeek Lentetripel]] || tripel || 8.5% || [[Brewery De Vlier]]
+|-
+| [[Hommelbier]] || goudkleurig, high fermentation || 7.5% || [[Brewery Van Eecke]]
+|-
+| [[Hop Harvest]] || sterk donker || 8% || [[Brewery De Ranke]]
+|-
+| [[Hop Ruiter]] || tripel || 8% || [[Scheldebrouwerij]]
+|-
+| [[Hopjutters Triple Hop]] || India Pale Ale|| 7.3% || [[Brewery De Graal]] voor [[De Hopjutters]]
+|-
+| [[Hoppa Hontas]] || India Pale Ale || 6.5% || [[Brewery Maenhout]]
+|-
+| Hoppe || pils || 5% || [[Brewery Van Steenberge]]
+|-
+| [[Hopus]] || high fermentation, goudblond || 8.3% || [[Brewery Lefebvre]]
+|-
+| [[Hopverdomme]] || || 7.5% || [[De Struise Brouwers]]
+|-
+| [[Horal's Oude Geuze Mega Blend]] || geuze || 7% || 3 Fonteinen, Brewery Boon, Timmermans, Oud Beersel, Lindemans, De Troch, De Cam, Hanssens
+|-
+| [[Horse Ale]] || || 4.5% || Inbev Belgium
+|-
+| [[Horst bier]] || lage gisting, blond || 6.5% || [[Brewery Haacht]]
+|-
+| [[Hotteuse Grand Cru]] || donker || 8% || [[Affligem Brewery]]
+|-
+| [[Houblon Chouffe]] Dobbelen IPA Tripel || India Pale Ale || 9% || [[Brewery d'Achouffe]] (Duvel-Moortgat)
+|-
+| ''[[Hougaerdse Das]]'' || high fermentation, amber || 5.1% || [[Brewery De Kluis]] (InBev)
+|-
+| [[Houten Kop]] || speciaalbier || 6.5% || [[Brewery Strubbe]]
+|-
+| [[Huardis]] || [[witbier]] || 5.2% || [[Brewery Nieuwhuys]]
+|}
+
+==I==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Ichtegem's|Ichtegem’s grand cru]] || || 6.5% || [[Brewery Strubbe]]
+|-
+| [[Ichtegem's|Ichtegem's Oud Bruin]] || roodbruin, high fermentation || 5% || Brewery Strubbe
+|-
+| [[Ignis & Flamma]] || IPA || 7% || [[De Struise Brouwers]] bij [[Brewery Deca]]
+|-
+| [[IPA (Strubbe)|IPA]] || IPA || 7.9% || Brewery Strubbe
+|-
+| [[Iris (bier)|Iris]] || spontane gisting, amber || 6% || [[Brewery Cantillon]]
+|-
+| [[Irma (bier)|Irma]] || fruitbier || 6% || voor bierfirma Vacas
+|-
+| [[Itters Bruin]] || tafelbier || 1.3% || [[Brewery Sint-Jozef (Opitter)|Brewery Sint-Jozef]]
+|}
+
+==J==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Jack’Ouille]] || blond || 5.5% || [[Brasserie de Bouillon]]
+|-
+| [[Jack-Op]] || gemengde gisting || 5.5% || [[Brewery Boon]]
+|-
+| [[Jaded Stillwater Artisanal]] || Belgo/American ale || 10% || [[De Struise Brouwers]] bij [[Brewery Deca]]
+|-
+| [[Jambe-de-bois]] || tripel || 8% || [[Brewery De Ranke]] voor [[Brasserie de la Senne]]
+|-
+| [[Katje Special|Jan Buuc]] || etiketbier || 7.5% || [[Brewery Het Sas]]
+|-
+| [[Jan De Lichte (bier)|Jan De Lichte]] || witbier || 7% || [[Brewery De Glazen Toren]]
+|-
+| ''Jan van Gent'' || blond || 5.5% || [[Brewery Liefmans]]
+|-
+| ''[[Jan van Oudenaarde (bier)|Jan van Oudenaarde]]'' || blond || 8% || [[Brewery Slaapmutske]]
+|-
+| [[Jean Nicot (bier)|Jean Nicot]] || tripel, tabaksbier || 8.5% || [[Brewery De Graal]]
+|-
+| [[Jeanke]] || Blonde ||  || Brasserie St. Jean
+|-
+| [[Jessenhofke|Jessenhofke Bruin]] || high fermentation, biologisch || 7% || [[De Proefbrouwerij]] voor [[Brewery Jessenhofke]]
+|-
+| [[Jessenhofke|Jessenhofke Maya]] || high fermentation, biologisch || 6% || De Proefbrouwerij voor Brewery Jessenhofke
+|-
+| [[Jessenhofke|Jessenhofke Tripel]] || high fermentation, biologisch, tripel || 8% || De Proefbrouwerij voor Brewery Jessenhofke
+|-
+| ''[[Jezuwiet]]'' || high fermentation, tripel || 8.5% || [[Brewery Boelens]]
+|-
+| [[Johannes (bier)|Johannes]] || [[streekbier]] || 6.5% || Brewery De Graal voor bierfirma Johannes
+|-
+| [[Joseph (bier)|Joseph]] || high fermentation, blond, spelt || 5.4% || [[Brasserie de Silenrieux]]
+|-
+| [[Joseph (bier)|Joseph Bio]] || high fermentation, blond, spelt || 5.4% || Brasserie de Silenrieux
+|-
+| [[Joup]] || high fermentation || 7.5% || [[Brasserie Grain d'Orge (Hombourg)|Brasserie Grain d'Orge]]
+|-
+| [[Hoegaarden Julius|Julius]] || high fermentation, bruin || 8.7% || [[De Kluis (bier)|Brewery De Kluis]] (InBev)
+|-
+| [[Judas (bier)|Judas]] || high fermentation, okerblond || 8.5% || [[Alken-Maes]] (Heineken)
+|-
+| [[Jules (bier)|Jules de Bananes]] || fruitbier, wit || 4.9% || [[Brewery De Ryck]]
+|-
+| [[Jules (bier)|Jules de Kriek]] || fruitbier, robijnrood || 4.9% || Brewery De Ryck
+|-
+| [[Jupiler]] || pils || 5.2% || [[Brewery Piedbœuf]] 
+|-
+| [[Jupiler|Jupiler Blue]] || lage gisting, pils || 3.3% || Brewery Piedbœuf (InBev)
+|-
+| [[Jupiler|Jupiler NA]] || alcoholarm || 0.5% || Brewery Piedbœuf (InBev)
+|-
+| [[Jupiler Tauro|Jupiler New Tauro]] || lage gisting || 6.2% || [[Inbev]]
+|-
+| [[Jupiler Tauro]] || lage gisting || 8.3% || [[Inbev]]
+|}
+
+==K==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Kalle (bier)|Kalle]] || tripel || 8% || [[Brewery Gulden Spoor]]
+|-
+| [[Kameleon (bier)|Kameleon Amber]] || biologisch || 6.5% || [[Brewery Den Hopperd]]
+|-
+| [[Kameleon (bier)|Kameleon Donker]] || biologisch || 6% || Brewery Den Hopperd
+|-
+| [[Kameleon (bier)|Kameleon Ginseng]] || biologisch || 6.5% || Brewery Den Hopperd
+|-
+| [[Kamil (bier)|Kamil]] || high fermentation || 6.5% || [[De Proefbrouwerij]] voor bierfirma BVG
+|-
+| [[Kameleon (bier)|Kameleon Tripel]] || biologisch, tripel || 8.5% || Brewery Den Hopperd
+|-
+| ''[[Viven (bier)|Kapel van Viven Blond]]'' || blond || 6.8% || [[De Proefbrouwerij]] voor [[Beerdevelopment Viven]]
+|-
+| ''[[Viven (bier)|Kapel van Viven Bruin]]'' || bruin || 6.6% || De Proefbrouwerij voor Beerdevelopment Viven
+|-
+| ''[[Kapittel (bier)|Kapittel Abt]]'' || bruin || 10% || [[Brewery Van Eecke]]
+|-
+| [[Kapittel (bier)|Kapittel Blond]] || blond || 6.5% || Brewery Van Eecke
+|-
+| [[Kapittel (bier)|Kapittel Dubbel]] || bruin || 7.5% || Brewery Van Eecke
+|-
+| [[Kapittel (bier)|Kapittel Pater]] || bruin || 6% || Brewery Van Eecke
+|-
+| [[Kapittel (bier)|Kapittel Prior]] || bruin || 9% || Brewery Van Eecke
+|-
+| [[Kapittel (bier)|Kapittel Tripel Abt]] || tripel || 10% || Brewery Van Eecke
+|-
+| [[Karlsquell]] || pils || 4.6% || [[Brewery Martens (Bocholt)|Brewery Martens]]
+|-
+| [[Kastaar]] || blond || 6% || [[Brewery De Block]]
+|-
+| [[Kasteelbier|Kasteel Blond]] || blond, high fermentation || 7% || [[Brewery Van Honsebrouck]]
+|-
+| [[Kasteel (bier)|Kasteel Cuvée du Chateau]] || donker || 11% || Brewery Van Honsebrouck
+|-
+| [[Kasteel (bier)|Kasteel Donker]] || donker || 11% || Brewery Van Honsebrouck
+|-
+| [[Kasteel (bier)|Kasteel Rouge]] || kriek || 8% || Brewery Van Honsebrouck
+|-
+| [[Kasteel (bier)|Kasteel Tripel]] || tripel || 11% || Brewery Van Honsebrouck
+|-
+| ''[[Kasteel (bier)|Kasteelbier Blond]]'' || blond || 11% || Brewery Van Honsebrouck
+|-
+| ''[[Kasteel (bier)|Kasteelbier Bruin]]'' || bruin || 11% || Brewery Van Honsebrouck
+|-
+| ''[[Kasteel (bier)|Kasteelbier Ooidonk]]'' || etiketbier || 11% || Brewery Van Honsebrouck
+|-
+| [[Kastel (bier)|Kastel]] || amber || 7% || [[De Proefbrouwerij]] in opdracht van [[De Kastelse Biervereniging]]
+|-
+| [[Kastels pompoenbier]] ||tarwebier, seizoensgebonden, met pompoen || || De Proefbrouwerij in opdracht van De Kastelse Biervereniging
+|-
+| [[Katje Special]] || high fermentation, ale || 6% || [[Brewery Het Sas]]
+|-
+| [[Keikoppenbier]] || blond, biologisch || 6.1% || [[Brewery De Plukker]]
+|-
+| [[Keizer Karel (bier)|Keizer Karel Robijn Rood]] || robijnrood || 8.5% || [[Brewery Haacht]]
+|-
+| [[Keizer Karel (bier)|Keizer Karel Goud Blond]] || blond || 8.5% || Brewery Haacht
+|-
+| [[Keizersberg]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 9% || [[Brewery Van Steenberge]]
+|-
+| [[Kempisch Vuur|Kempisch Vuur 3-Dubbel]] || bruin || 7.5% || [[De Proefbrouwerij]] in opdracht van [[Brewery Pirlot]]
+|-
+| [[Kempisch Vuur|Kempisch Vuur Tripel]] || tripel || 7.5% || De Proefbrouwerij in opdracht van Brewery Pirlot
+|-
+| [[Kerasus]] || donkerrood || 5.5% || [[Brewery Alvinne]]
+|-
+| [[Katje Special|Kerelsbier Donker]] || etiketbier || 6.4% || [[Brewery Het Sas]]
+|-
+| [[Sasbräu|Kerelsbier Licht]] || etiketbier || 6.4% || [[Brewery Het Sas]]
+|-
+| [[Kerkomse Tripel]] || tripel || 9% || [[Brewery Kerkom]] bij [[Brewery Sint-Jozef (Opitter)|Brewery Sint-Jozef]]
+|-
+| [[Pater Lieven|Kerstpater]] || high fermentation, kerstbier || 9% || [[Brewery Van Den Bossche]]
+|-
+| [[Kerstbie]] || donker, kerstbier || 8% || [[Brewery De Bie]]
+|-
+| ''[[KerstSmiske]]'' || donker, kerstbier || 11% || [[Brewery Smisje]]
+|-
+| [[Kerstvuur]] || kerstbier || 8% || [[De Proefbrouwerij]] voor [[Brewery Pirlot]] 
+|-
+| [[Kessel (bier)|Kessel 69]] || high fermentation || 6.9% || [[Brewery De Vlier]]
+|-
+| [[Kessel (bier)|Kessel Blond]] || high fermentation || 7.5% || Brewery De Vlier
+|-
+| [[Keyte]] || blond, high fermentation || 7.5% || [[Brewery Strubbe]]
+|-
+| [[Keyte|Keyte-Dobbel-Tripel]] || robijnrood, high fermentation || 9.2% || Brewery Strubbe
+|-
+| [[Kleveretien]] || high fermentation, winterbier || 10% || [[De Scheldebrouwerij]] voor [[Brewery Het Nest]]
+|-
+| [[Augustijn (bier)|Klingse Kalsei]] || high fermentation, streekbier || 8% || Brewery Van Steenberge
+|-
+| [[Kloeke Blonde]] || high fermentation, Belgische blonde ale || 6% || [[De Struise Brouwers]]
+|-
+| [[Klokke Roeland (bier)|Klokke Roeland]] || donker || 11.5% || [[Brewery Van Steenberge]]
+|-
+| ''[[Viven (bier)|Klooster van Viven]]'' || bruin || 6.6% || [[De Proefbrouwerij]] voor [[Beerdevelopment Viven]]
+|-
+| [[Koantjesbier]] || high fermentation || 7% || De Proefbrouwerij voor Bierfirma Vacas 
+|-
+| [[Koekelaring]] || high fermentation || 6.5% || [[Brewery De Graal]] voor [[De Hoevebrouwers]] 
+|-
+| [[Koeketiene]] || tripel || 8.5% || [[Brewery Maenhout]]
+|-
+| [[Koerseklakske]] || high fermentation || 5.5% || [[Brewery 't Gaverhopke]]
+|-
+| [[Korsakoff (bier)|Korsakoff]] || ongefilterd blond bier || 6.5% || [['t Hofbrouwerijke]]
+|-
+| [[Kortrijk-d’Utsel]] || brutbier || 8.5% || [[Brewery Kortrijk-d’Utsel]]
+|-
+| [[Kriek Belgique]] || fruitbier || 3.5% || [[Brasserie du Bocq]]
+|-
+| [[Kriek Boon]] || lambiek || 4.5% || [[Brewery Boon]]
+|-
+| [[Kriek Cantillon 100% Lambic]] || lambiek || 5.5% || [[Brewery Cantillon]]
+|-
+| [[Kriek De Ranke]] || fruitbier || 4.5% || [[Brewery De Ranke]]
+|-
+| [[Kriek de Silenrieux]] || fruitbier || 4.5% || [[Brasserie de Silenrieux]]
+|-
+| [[Kriek Fantastiek]] || fruitbier, roodbruin || 4.9% || [[Brewery De Ryck]]
+|-
+| [[Kriek Girardin]] || lambiek || 5% || [[Brewery Girardin]]
+|-
+| [[Kriek Jacobins]] || lambiek || 4.5% || [[Brewery Bockor]]
+|-
+| [[Kriek Lindemans]] || lambiek || 3.5% || [[Brewery Lindemans]]
+|-
+| [[Kriek Mariage Parfait]] || lambiek || 8% || Brewery Boon
+|-
+| [[Kriekedebie]] || fruitbier || 4.4% || [[Brewery De Bie]]
+|-
+| [[Kriekenbier (Sint-Jozef)|Kriekenbier]] || fruitbier, lage gisting || 4% || [[Brewery Sint-Jozef (Opitter)|Brewery Sint-Jozef]]
+|-
+| [[Kriekenbier (Strubbe)|Kriekenbier]] || fruitbier || 4.5% || [[Brewery Strubbe]]
+|-
+| [[Max (bier)|Kriek Max]] || fruitbier || 3.2% || [[Brewery Bockor]]
+|-
+| [[Kwaremont (bier)|Kwaremont]] || blond, high fermentation || 6.6% || [[Brewery Bavik]]
+|-
+| [[Kwets (bier)|Kwets]] || blond tarwebier || 6.8% || [[Brewery De Graal]] voor [[Microbrouwerij Paeleman]] in opdracht van Kwets vzw
+|-
+| [[Kwibus (bier)|Kwibus Blond]] || blond, high fermentation || 6.4% || [[Brewery Danny]]
+|-
+| [[Kwibus (bier)|Kwibus Donker]] || high fermentation || 6.4% || Brewery Danny
+|}
+
+==L==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[La Barbiot|La Barbiot Ambrée]] || high fermentation || 9.5% || [[Brasserie la Barbiot]]
+|-
+| [[La Barbiot|La Barbiot Blonde]] || high fermentation || 8% || Brasserie la Barbiot
+|-
+| [[La Binchoise|La Binchoise Blonde]] || high fermentation, blond || 6.2% || [[Brewery La Binchoise]]
+|-
+| [[La Binchoise|La Binchoise Brune]] || high fermentation || 7.7% || Brewery La Binchoise
+|-
+| [[La Binchoise Organic|La Binchoise Organic’ Brune]] || high fermentation, biologisch || 7% || Brewery La Binchoise
+|-
+| [[La Binchoise Organic|La Binchoise Organic’ Miel ]] || high fermentation, biologisch, honingbier || 8.5% || Brewery La Binchoise
+|-
+| [[La Binchoise Organic|La Binchoise Organic’ Triple]] || high fermentation, biologisch, tripel || 8.5% || Brewery La Binchoise
+|-
+| [[La Binchoise|La Binchoise Spéciale Noël]] || high fermentation, kerstbier || 9% || Brewery La Binchoise
+|-
+| [[La Binchoise|La Binchoise Triple]] || high fermentation, tripel || 8.5% || Brewery La Binchoise
+|-
+| [[La Binchoise|La Binchoise XO]] || high fermentation || 12% || Brewery La Binchoise
+|-
+| [[La Botteresse|La Botteresse Ambrée]] || high fermentation || 8.5% || [[Brasserie la Botteresse de Sur-les-bois]]
+|-
+| [[La Botteresse|La Botteresse de Noël]] || high fermentation, kerstbier || 10.5% || Brasserie la Botteresse de Sur-les-bois
+|-
+| [[La Botteresse|La Botteresse Blonde]] || high fermentation || 7.5% || Brasserie la Botteresse de Sur-les-bois
+|-
+| [[La Botteresse|La Botteresse Brune]] || high fermentation || 9.5% || Brasserie la Botteresse de Sur-les-bois
+|-
+| [[La Botteresse|La Botteresse aux cerises]] || high fermentation, fruitbier || 5.5% || Brasserie la Botteresse de Sur-les-bois
+|-
+| [[La Botteresse|La Botteresse Ambrée au miel]] || high fermentation, honingbier || 8.5% || Brasserie la Botteresse de Sur-les-bois
+|-
+| [[La Botteresse|La Botteresse aux pommes]] || high fermentation, fruitbier || 5.4% || Brasserie la Botteresse de Sur-les-bois
+|-
+| [[La Blanche des Saisis]] || witbier || 6.2% || [[Brasserie Ellezelloise]]
+|-
+| [[La Bouillonnaise]] || bruin, high fermentation || 7% || [[Brasserie de Bouillon]]
+|-
+| [[La Chérie]] || fruitbier || 5% || [[Brasserie Val de Sambre]]
+|-
+| [[La Chèvenis]] || high fermentation || 6% || Brasserie de Bouillon
+|-
+| [[La Chouffe]] || blond, high fermentation || 8% || [[Brewery d'Achouffe]] (Duvel-Moortgat)
+|-
+| [[La Corne du Bois des Pendus|La Corne du Bois des Pendus Blonde]] || high fermentation, blond || 5.9% || [[Brasserie d'Ebly]]
+|-
+| [[La Corne du Bois des Pendus|La Corne du Bois des Pendus Triple]] || high fermentation, triple || 7% || Brasserie d'Ebly
+|-
+| [[La Cré Tonnerre]] || high fermentation, tripel || 7% || [[Brasserie de Silly]]
+|-
+| [[La Divine]] || high fermentation, amber || 9.5% || Brasserie de Silly
+|-
+| [[La Douce Vertus]] || high fermentation, ale || 7% || [[Brasserie Millevertus]]
+|-
+| [[La Fumette]] || high fermentation, Rauchbier || 6.5% || Brasserie Millevertus
+|-
+| [[La Grognarde]] || high fermentation || 5.5% || [[Brasserie Sainte-Hélène]]
+|-
+| [[La Guillotine]] || sterk blond || 8.5% || [[Brewery Huyghe]]
+|-
+| [[La Jamboise de Bister]] || bleek blond || 6.5% || [[Brewery Lefebvre]]
+|-
+| [[La Loubécoise]] || donker, high fermentation || 8% || [[Brasserie d'Ecaussinnes]]
+|-
+| [[La Mac Vertus]] || stout || 4.8% || Brasserie Millevertus
+|-
+| [[La Médiévale]] || amber, high fermentation || 6% || Brasserie de Bouillon
+|-
+| [[La Mère Vertus]] || tripel || 7% || Brasserie Millevertus
+|-
+| [[La Moneuse]] || saison, amber || 8% || [[Brasserie de Blaugies]]
+|-
+| [[La Moneuse|La Moneuse Spéciale Noël]] || saison, bruin, high fermentation || 8% || Brasserie de Blaugies
+|-
+| [[La Moraipire]] || tripel || 8.5% || Brasserie Millevertus
+|-
+| [[La Namuroise]] || high fermentation || 7% || [[Les Artisans Brasseurs]]
+|-
+| [[La Noire Fontaine]] || high fermentation || 8% || Brasserie de Bouillon
+|-
+| [[La Penneffoise]] || fruitbier || 8% || Brasserie d'Ecaussinnes
+|-
+| [[La Pils des 3 Canaux]] || pils || 4.5% || [[Authentique Brasserie]]
+|-
+| [[La Poiluchette|La Poiluchette Blonde Cuvéé du Château]] || high fermentation || 7.5% || Brewery Huyghe
+|-
+| [[La Poiluchette|La Poiluchette Brune]] || high fermentation || 7.5% || Brewery Huyghe
+|-
+| [[La Poirette de Fontaine]] || high fermentation, fruibier || 8.5% || Brasserie la Botteresse de Sur-les-bois
+|-
+| [[La Prime]] || high fermentation, winterbier || 8.5% || Brasserie Sainte-Hélène
+|-
+| [[La Rulles Blonde]] || high fermentation || 7% || [[Brasserie Artisanale de Rulles]]
+|-
+| [[La Rulles Brune]] || high fermentation || 6.5% || Brasserie Artisanale de Rulles
+|-
+| [[La Rulles Cuvée Meilleurs Vœux]] || high fermentation, winterbier || 7.3% || Brasserie Artisanale de Rulles
+|-
+| [[La Rulles Estivale]] || high fermentation || 5.2% || Brasserie Artisanale de Rulles
+|-
+| [[La Rulles La Grande 10]] || high fermentation, Belgian strong pale ale || 10% || Brasserie Artisanale de Rulles
+|-
+| [[La Rulles Triple]] || high fermentation, tripel || 8.4% || Brasserie Artisanale de Rulles
+|-
+| [[La Safranaise]] || high fermentation, kruidenbier || 7% || Brasserie Millevertus
+|-
+| [[La Saison de Pipaix]] || || 6% || [[Brasserie à Vapeur]]
+|-
+| [[La Saison des Chasses|La Saison des Chasses Ambrée]] || saison || 7% || [[Brasserie de Bouillon]]
+|-
+| [[La Saison des Chasses|La Saison des Chasses Blonde]] || saison || 6% || Brasserie de Bouillon
+|-
+| [[La Sambresse|La Sambresse Blonde]] || high fermentation || 8% || [[Brewery Brootcoorens]]
+|-
+|| [[La Spéciale Fêtes]] ||winterbier || 8.5% || Brasserie de Bouillon
+|-
+| [[La Trompeuse]] || high fermentation || 6.9% || [[Brasserie Jean Tout Seul]]
+|-
+| [[La Troufette|La Troufette Belle d'été]] || high fermentation || 6% || [[Brasserie de Bastogne]]
+|-
+| [[La Troufette|La Troufette Blonde]] || high fermentation || 6% || Brasserie de Bastogne
+|-
+| [[La Troufette|La Troufette Brune]] || high fermentation, winterbier || 6.8% || Brasserie de Bastogne
+|-
+| [[La Troufette|La Troufette Givrée]] || high fermentation || 8% || Brasserie de Bastogne
+|-
+| [[La Troufette|La Troufette Rousse]] || high fermentation || 7.8% || Brasserie de Bastogne
+|-
+| [[La Vauban]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 6% || Brasserie de Bouillon
+|-
+| [[La Vapeur|La Vapeur en Folie]] || || 8% || Brasserie à Vapeur
+|-
+| [[La Vapeur|La Vapeur Légère]] || || 5% || Brasserie à Vapeur
+|-
+| [[La Waterlootoise]] || tripel || 9% || [[Brewery Van Steenberge]]
+|-
+| [[Lam Gods (bier)|Lam Gods]] || bruin dubbel || 6.8% || [[Brewery Van Steenberge]] voor [[Brewery Paeleman]]
+|-
+| [[L’Amarante]] || high fermentation, kruidenbier || 8% || Brasserie Millevertus
+|-
+| [[Lambinus]] || high fermentation, honingbier || 8% || [[De Proefbrouwerij]] voor bierfirma Lesage
+|-
+| [[Lamme Goedzak (bier)|Lamme Goedzak]] || high fermentation || 7% || [[De Scheldebrouwerij]]
+|-
+| [[Lamoral Degmont]] || high fermentation, amberblond || 8% || [[Brewery Van Den Bossche]]
+|-
+| [[Le Pavé de l'Ours]] || high fermentation, speciale belge || 7.5% || Brasserie de Silenrieux
+|-
+| [[Leeuw Pilsener]] || pilsener || 5% || [[Brewery Haacht]]
+|-
+| [[Leeuwse Witte]] || witbier || 5% || [[Affligem Brewery]] ([[Brewery De Smedt]])
+|-
+| [[Leffe (bier)|Leffe Blond]] || blond, [[Abbey beer#Abbey beers|Abbey Beer]] || 6.6% || [[AB InBev]]
+|-
+| [[Leffe (bier)|Leffe Bruin]] || bruin, [[Abbey beer#Abbey beers|Abbey Beer]] || 6.5% || AB InBev
+|-
+| [[Leffe (bier)|Leffe Kerst]] || kerstbier, [[Abbey beer#Abbey beers|Abbey Beer]] || 6.5% || AB InBev
+|-
+| [[Leffe (bier)|Leffe Lente]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 6.5% || AB InBev
+|-
+| [[Leffe (bier)|Leffe Radieuse]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 8.2% || AB InBev
+|-
+| [[Leffe (bier)|Leffe Royale]] || blond, [[Abbey beer#Abbey beers|Abbey Beer]] || 7.5% || AB InBev
+|-
+| [[Leffe (bier)|Leffe Ruby]] || fruitbier, [[Abbey beer#Abbey beers|Abbey Beer]] || 6.5% || AB InBev
+|-
+| [[Leffe (bier)|Leffe Tripel]] || tripel, [[Abbey beer#Abbey beers|Abbey Beer]] || 8.4% || AB InBev
+|-
+| [[Leffe (bier)|Leffe Vieille Cuvée]] || Amber || 8.2% || AB InBev
+|-
+| [[Leffe (bier)|Leffe 9°]] || high fermentation || 9% || AB InBev
+|-
+| [[Leireken (bier)|Leireken Boekweit Blond]] || amber, high fermentation, boekweit, biologisch || 6% || [[Brewery Strubbe]] voor Guldenboot nv
+|-
+| [[Leireken (bier)|Leireken Boekweit Bruin]] || bruin, high fermentation, boekweit, biologisch || 6% || Brewery Strubbe voor Guldenboot nv
+|-
+| [[Leireken Lager Bio]] || pils, biologisch || 5.2% || Brewery Strubbe voor Guldenboot nv
+|-
+| [[Leireken (bier)|Leireken Wilde Vruchten]] || fruitbier, high fermentation, biologisch || 5.2% || Brewery Strubbe voor Guldenboot nv
+|-
+| [[Leireken (bier)|Leireken Witte Spelt]] || blond, high fermentation, spelt || 5% || Brewery Strubbe voor Guldenboot nv
+|-
+| [[L'Enfant Terrible]] || high fermentation, oak aged || 7% || [[Brewery De Dochter van de Korenaar]]
+|-
+| [[Lesage (bier)|Lesage Blond]] || high fermentation, tripel || 7% || [[De Proefbrouwerij]] voor bierfirma Lesage
+|-
+| [[Lesage (bier)|Lesage Dubbel]] || high fermentation || 7.5% || De Proefbrouwerij voor bierfirma Lesage
+|-
+| [[Leute Bokbier]] || roodbruin, high fermentation || 7.5% || [[Brewery Van Steenberge]]
+|-
+| [[Li Berwette]] || amber, high fermentation || 8% || [[Brasserie Saint-Monon]] voor Confrérie du Busson
+|-
+| [[Li Berwette di Noyè]] || donker kerstbier || 8.5% || [[Brasserie Saint-Monon]] voor Confrérie du Busson
+|-
+| [[Liefmans (bier)|Liefmans Cuvée-Brut]] || fruitbier || 6% || [[Brewery Liefmans]]
+|-
+| ''[[Liefmans (bier)|Liefmans Frambozenbier]]'' || fruitbier || 5.4% || Brewery Liefmans
+|-
+| [[Liefmans (bier)|Liefmans Fruitesse Rood]] || fruitbier || 4.2% || Brewery Liefmans
+|-
+| [[Liefmans (bier)|Liefmans Goudenband]] || bruin || 8% || Brewery Liefmans
+|-
+| [[Liefmans (bier)|Liefmans Oud Bruin]] || oud bruin || 5% || Brewery Liefmans
+|-
+| [[Liene]] || amber, tripel || 7% || [['t Hofbrouwerijke]] in opdracht van [[Brewery Het Nest]]
+|-
+| [[Liers Kerstbier]] || amber, kerstbier || 6% || [[Brewery Strubbe]] voor stad [[Lier (België)|Lier]]
+|-
+| [[Lily Blue]] || high fermentation || 7.5% || Brasserie Sainte-Hélène
+|-
+| [[Limburgse Witte]] || high fermentation || 5%|| [[Brewery Sint-Jozef (Opitter)|Brewery Sint-Jozef]]
+|-
+| [[Limerick (bier)|Limerick]] || blond || 8% || De Proefbrouwerij voor bierfirma Bas-bieren
+|-
+| [[Lindemans fruitbier|Lindemans Apple]] || lambiek || 3.5% || [[Brewery Lindemans]]
+|-
+| [[Lindemans fruitbier|Lindemans Cassis]] || Fruitbier || 3.5% || Brewery Lindemans
+|-
+| [[Lindemans fruitbier|Lindemans Framboise]] || lambiek || 2.5% || Brewery Lindemans
+|-
+| [[Lindemans fruitbier|Lindemans Kriek]] || kriek || 4% || Brewery Lindemans
+|-
+| [[Pêcheresse|Lindemans Pêcheresse]] || fruitbier || 2.5% || Brewery Lindemans
+|-
+| [[Liter van Pallieter]] || tripel || 8% || [[Microbrouwerij Achilles]]
+|-
+| [[Living Tripel]] || tripel || 9% || De Proefbrouwerij
+|-
+| [[Livinus (bier)|Livinus]] || blond, high fermentation || 10% || [[Brewery Van den Bossche]]
+|-
+| [[Kapittel (bier)|Livinus Blonde]] || tripel || 10% || [[Brewery Van Eecke]]
+|-
+| [[Kapittel (bier)|Livinus Brune]] || donker || 9% || [[Brewery Van Eecke]]
+|-
+| [[Yperman|Lokernaere]] || etiketbier || 5.5% || [[Brewery Het Sas]]
+|-
+| [[Loterbol|Loterbol 6°]] || high fermentation || 6% || [[Brewery Loterbol]]
+|-
+| [[Loterbol|Loterbol Blond]] || high fermentation || 8% || Brewery Loterbol
+|-
+| [[Loterbol|Loterbol Bruin]] || high fermentation || 8% || Brewery Loterbol
+|-
+| [[Lou Pepe]] || geuze || 5% || [[Brasserie Cantillon]]
+|-
+| [[Louwaege (bier)|Louwaege Dubbel Blond]] || tafelbier || 1.4% || [[Brewery Louwaege]]
+|-
+| [[Louwaege (bier)|Louwaege Faro]] || tafelbier || 1.4% || Brewery Louwaege
+|-
+| ''[[Mort Subite|Louwaege's Kriek]]'' || kriek || 4.3% || [[Breweryen Alken-Maes]]
+|-
+| [[Louwaege (bier)|Louwaege Stout]] || stout || 4.8% || Brewery Louwaege
+|-
+| [[Lozen Boer]] || high fermentation, quadrupel || 10% || [[De Proefbrouwerij]] voor de familie Neyt
+|-
+| [[Lucifer (bier)|Lucifer]] || blond, high fermentation || 8.4% || [[Brewery Het Anker (Mechelen)|Brewery Het Anker]] (vroeger in [[Brewery Riva]] en [[Brewery Liefmans]])
+|-
+| [[Lupulus|Lupulus Blonde]] || high fermentation || 8.5% || [[Brasserie les 3 Fourquets]]
+|-
+| [[Lupulus|Lupulus Brune]] || tripel || 8.5% || Brasserie les 3 Fourquets
+|-
+| [[Lustem]] || tarwebier || 7% || [[‘t Hofbrouwerijke]] voor [[De Verhuisbrouwerij]]
+|}
+
+==M==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Ma Mère Spéciale]] || donkerblond || 6% || [[Brewery De Leite]]
+|-
+| [[Maerlant (bier)|Maerlant]] || tripel || 9% || [[Brewery Van Steenberge]]
+|-
+| [[Maes (bier)|Maes]] || pils || 5.2% || [[Alken-Maes]] 
+|-
+| [[Maes (bier)|Maes Nature]] || tafelbier || 1.5% || Alken-Maes (Heineken)
+|-
+| [[Mageleno]] || blond || 7.5% || [[Huisbrouwerij Sint Canarus]]
+|-
+| [[Malheur (bier)|Malheur 6]] || goudblond || 6% || [[Brewery De Landtsheer]]
+|-
+| [[Malheur (bier)|Malheur 8]] || blond || 8% || Brewery De Landtsheer
+|-
+| [[Malheur (bier)|Malheur 10]] || blond || 10% || Brewery De Landtsheer
+|-
+| [[Malheur (bier)|Malheur 12]] || roodbruin || 12% || Brewery De Landtsheer
+|-
+| [[Malheur (bier)|Malheur Bière Brut]] || blond || 11% || Brewery De Landtsheer
+|-
+| [[Malheur (bier)|Malheur Dark Brut]] || donkerbruin || 12% || Brewery De Landtsheer
+|-
+| [[Malheur (bier)|Malheur Cuvée Royale]] || blond || 9% || Brewery De Landtsheer
+|-
+| [[Maltosa]] || bruin, tafelbier || 1.2% || [[Brewery Haacht]]
+|-
+| [[Mamouche]] || lambiek || 5% || [[Brewery Cantillon]]
+|-
+| [[Maneblusser (bier)|Maneblusser]] || blond || 6% || [[Brewery Het Anker (Mechelen)|Brewery Het Anker]]
+|-
+| [[Manneke Pils]] || pils || 5.2% || [[Brewery Lefebvre]]
+|-
+| [[Mano Negra (bier)|Mano Negra]] || imperial stout || 10% || [[Brewery Alvinne]]
+|-
+| [[Manten (bier)|Manten]] || high fermentation || 6% || [[Brewery Gulden Spoor]]
+|-
+| [[Marckloff]] || high fermentation || 6.5% || [[Brasserie La Ferme au Chêne]]
+|-
+| [[Maredsous (bier)|Maredsous blond]] || blond || 6% || [[Brewery Duvel Moortgat]]
+|-
+| [[Maredsous (bier)|Maredsous bruin]] || bruin || 8% || Brewery Duvel Moortgat
+|-
+| [[Maredsous (bier)|Maredsous tripel]] || tripel || 10% || Brewery Duvel Moortgat
+|-
+| ''[[Anker Blond|Margriet]]'' || etiketbier || 6.5% || [[Brewery Het Anker (Mechelen)|Brewery Het Anker]]
+|-
+| [[Martens Pils]] || pils || 5% || [[Brewery Martens (Bocholt)]]
+|-
+| [[Martin’s|Martin’s Blond]] || high fermentation || 6% || [[John Martin (brouwerij)|Group John Martin]]
+|-
+| [[Martin’s|Martin’s Pale Ale]] || high fermentation || 5.5% || Group John Martin
+|-
+| [[Mater Witbier]] || tarwebier || 5% || [[Brewery Roman]]
+|-
+| [[Mc Chouffe]] || donker || 8.0% || [[Brasserie d'Achouffe]] (Duvel-Moortgat)
+|-
+| [[Mc Thals]] || blond, high fermentation || 9.5% || [[Brewery DijkWaert]]
+|-
+| [[Melchior (bier)|Melchior]] || amber || 11% || Brewery Alvinne
+|-
+| [[Melchior (bier)|Melchior Oak Aged]] || oak aged || 11% || Brewery Alvinne
+|-
+| [[Melse God]] || blond || 6.5% || [[Brewery Huyghe]]
+|-
+| ''[[Merck toch hoe sterck (bier)|Merck toch hoe sterck]]'' || gerstewijn || 9% || [[De Scheldebrouwerij]]
+|-
+| ''[[Métisse Saison]]'' || saison || 5.7% || De Lion à Plume bij [[Brasserie Sainte-Hélène]]
+|-
+| [[Meuuh!]] || witbier || 5.5% || [[Brasserie Saint-Monon]] voor Confrérie du Busson
+|-
+| [[Mistinguett (bier)|Mistinguett]] || high fermentation || 6.5% || Brasserie Sainte-Hélène
+|-
+| [[Modeste (bier)|Modeste Bruin]] || bruin, biologisch || 7.8% || [[Brewery Strubbe]] voor BioFresh
+|-
+| [[Modeste (bier)|Modeste Tripel]] || tripel, biologisch || 8.4% || [[Brewery Strubbe]] voor BioFresh
+|-
+| [[Moeder Overste]] || blond || 8% || [[Brewery Lefebvre]]
+|-
+| [[Moinette|Moinette Blonde]] || blond || 8% || [[Brasserie Dupont]]
+|-
+| [[Moinette|Moinette Brune]] || bruin || 8.5% || Brasserie Dupont
+|-
+| [[Moinette|Moinette Biologique]] || blond, biologisch || 7.5% || Brasserie Dupont
+|-
+| [[Molse Tripel]] || tripel || 8.3% || [[Scheldebrouwerij]]
+|-
+| [[Mongozo|Mongozo Banana]] || fruitbier || 4.5% || [[Brewery Huyghe]]
+|-
+| [[Mongozo|Mongozo Coconut]] || fruitbier || 3.5% || Brewery Huyghe
+|-
+| [[Mongozo|Mongozo Mango]] || fruitbier || 3.6% || Brewery Huyghe
+|-
+| [[Mongozo|Mongozo Palmnut]] || fruitbier || 7% || Brewery Huyghe
+|-
+| [[Mongozo|Mongozo Premium Pilsener]] || pils, biologisch || 5% || Brewery Huyghe
+|-
+| [[Mongozo|Mongozo Quinua]] || fruitbier || 5.9% || Brewery Huyghe
+|-
+| [[Monk's Stout]] || stout || 5.2% || Brasserie Dupont
+|-
+| [[Mont-Saint-Aubert (bier)|Mont-Saint-Aubert]] || tripel || 8% || [[Brasserie de Brunehaut]]
+|-
+| [[Montagnarde (bier)|Montagnarde]] || amber || 9% || [[Brasserie de l'Abbaye des Rocs]]
+|-
+| ''[[Montagnarde Altitude 6]]'' || blond || 6% || Brasserie de l'Abbaye des Rocs
+|-
+| [[Morpheus Dark]] || high fermentation || 10.2% || Brewery Alvinne
+|-
+| [[Morpheus Extra RA]] || high fermentation || 7.1% || Brewery Alvinne
+|-
+| [[Morpheus Tripel]] || high fermentation, tripel || 8.7% || Brewery Alvinne
+|-
+| [[Morpheus Wild]] || Vlaams oud bruin || 5.9% || Brewery Alvinne
+|-
+| ''[[Mort Subite|Mort Subite Cassis]]'' || fruitbier || 4.5% || [[Breweryen Alken-Maes]]
+|-
+| [[Mort Subite|Mort Subite Faro]] || faro || 4% || Alken-Maes
+|-
+| ''[[Mort Subite|Mort Subite Framboise]]'' || fruitbier || 5% || Alken-Maes
+|-
+| ''[[Mort Subite|Mort Subite Gueuze]]'' || geuze || 4.5% || Alken-Maes
+|-
+| ''[[Mort Subite|Mort Subite Kriek]]'' || fruitbier || 4.5% || Alken-Maes
+|-
+| [[Mort Subite|Mort Subite Original Gueuze]] || geuze || 4.5% || Alken-Maes
+|-
+| [[Mort Subite|Mort Subite Original Kriek]] || fruitbier || 4.5% || Alken-Maes
+|-
+| [[Mort Subite|Mort Subite Oude Gueuze]] || oude geuze || 7% || Alken-Maes
+|-
+| [[Mort Subite|Mort Subite Oude Kriek]] || oude kriek || 6.5% || Alken-Maes
+|-
+| ''[[Mort Subite|Mort Subite Pêche]]'' || fruibier || 4.5% || Alken-Maes
+|-
+| [[Mort Subite|Mort Subite Xtreme Framboise]] || fruitbier || 4.3% || Alken-Maes
+|-
+| [[Mort Subite|Mort Subite Xtreme Kriek]] || fruitbier || 4.3% || Alken-Maes
+|-
+| ''[[Mort Subite|Mort Subite Xtreme Manzana]]'' || fruitbier || 4.2% || Alken-Maes
+|-
+| [[Mort Subite|Mort Subite Witte Lambic]] || lambiek || 5% || Alken-Maes
+|-
+| [[Motuecha]] || high fermentation || 5% || [[De Struise Brouwers]]
+|-
+| [[Moulin de Hollange]] – Blonde d’Epeautre || high fermentation, speltbier || 6% || [[Brasserie Millevertus]]
+|-
+| [[Mouten Kop]] || koperkleurig India Pale Ale|| 6% || [[Brewery De Graal]] voor [[De Hopjutters]]
+|-
+| [[Mug (bier)|Mug]] || high fermentation || 5% || [[De Scheldebrouwerij]]
+|-
+| [[Silly Pils|Myn's Pils]] || pils || 5% || Brasserie de Silly
+|-
+| [[Mystic (bier)|Mystic Krieken]] || high fermentation, fruitbier || 3.5% || [[Brewery Haacht]]
+|-
+| [[Mystic (bier)|Mystic Limoen]] || high fermentation, fruitbier || 3.5% || Brewery Haacht
+|-
+| [[Mystic (bier)|Mystic Perzik]] || high fermentation, fruitbier || 3.7% || Brewery Haacht
+|}
+
+==N==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [['n Maurootje]] || donkerblond || 7% || [[Brewery Alvinne]]
+|-
+| [['n Peerdevisscher]] || bruin || 6.5% || [[Brewery Strubbe]]
+|-
+| ''[[Kapittel (bier)|'n Slypke]]'' || roodbruin, etiketbier || 6% || [[Brewery Van Eecke]]
+|-
+| [['n Toeback]] || high fermentation || 9.5% || [[Scheldebrouwerij]]
+|-
+| [[Naked Ladies]] || high fermentation || 4.4% || Brewery Alvinne
+|-
+| [[Napoleon (bier)|Napoleon]] || donker || 7% || [[Affligem Brewery]] ([[Brewery De Smedt]])
+|-
+| [[Ne Flierefluiter]] || tripel || 8.5% || [[Brewery De Smedt]] in opdracht van bierfirma Fisser
+|-
+| [[Ne Kopstoot]] || high fermentation, goudkleur || 7% || [[Brasserie de Brunehaut]]
+|-
+| [[Ne Snoeper]] || tripel || 10% || [['t Hofbrouwerijke]]
+|-
+| [[Nello (bier)|Nello's Blond]] || blond || 7% || [[Brewery De Arend]]
+|-
+| [[Nello (bier)|Nello's Tripel]] || tripel || || Brewery De Arend
+|-
+| [[Nen Bangelijke]] || sterk blond || 8% || [[Brewery 't Pakhuis]]
+|-
+| ''[[Nen Biskop]]'' || blond || 6.4% || [[Brewery Danny]] voor Stichting Marcel De Bisschop
+|-
+| [[Nen Kerstbal]] || kerstbier || 8% || voor bierfrima Vacas
+|-
+| [[Nen Uts]] || speciale belge|| 7% || [[Brewery De Graal]] voor [[De Hoevebrouwers]]
+|-
+| [[Netebuk]] || sterk blond || 6.5% || [[Brewery Gulden Spoor]]
+|-
+| [[Newton (bier)|Newton]] || fruitbier || 3.5% || [[Brewery Lefebvre]]
+|-
+| [[N'Ice Chouffe]] || donker seizoensbier || 10% || [[Brasserie d'Achouffe]] (Duvel-Moortgat)
+|-
+| [[Nivoo]] || tripel || 7% || [[Brewery Anders!]] voor ''GIBRIT''
+|-
+| [[Noblesse]] || high fermentation, blond || 5.5% || [[Brewery De Dochter van de Korenaar]]
+|-
+| [[Noblesse|Noblesse Extra]] || high fermentation, IPA || 7% || Brewery De Dochter van de Korenaar
+|-
+| [[Noël de Silenrieux]] || tripel, kerstbier || 9% || [[Brasserie de Silenrieux]]
+|-
+| [[Noir de Dottignies]] || high fermentation || 9% || [[Brewery De Ranke]]
+|-
+| [[Nondedju]] || tripel || 10.7% || ’t Hofbrouwerijke voor Montaigu
+|-
+| [[NOORderbierke]] || high fermentation, amberblond || 8.1% || [[Brewery Donum Ignis]]
+|-
+| [[Nostradamus (bier)|Nostradamus]] || high fermentation, bruin || 9% || [[Brasserie Caracole]]
+|-
+| [[Notre Passion]] || porter || 8% || ’t Hofbrouwerijke voor Montaigu
+|-
+| [[Nounnette]] || blond || 7.5% || [[Brasserie de l'Abbaye des Rocs]]
+|-
+| [[Nuits Blanches]] || || 7.5% || Brasserie de l'Abbaye des Rocs
+|}
+
+==O==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Odlo Blond]] || high fermentation || 6.7% || [[Brewery De Graal]] voor [[(T)Huisbrouwerij Odlo]]
+|-
+| [[Odlo Hivernum]] || winterbier, Belgian [[Imperial Stout]] || 8.7% || [[Brewery Lupus]] voor (T)Huisbrouwerij Odlo
+|-
+| [[Odlo Triviaal]] || [[tripel]] || 8.2% || Brewery De Graal voor (T)Huisbrouwerij Odlo
+|-
+| [[Oeral (bier)|Oeral]] || [[India Pale Ale]] || 6% || [[De Dolle Brouwers]]
+|-
+| [[Oerbier]] || high fermentation || 7.5% || [[De Dolle Brouwers]]
+|-
+| [[Oerbier|Oerbier special Reserva]] || high fermentation || 13.0% || De Dolle Brouwers
+|-
+| [[Oesterstout]] || stout || 8.5% || [[De Scheldebrouwerij]]
+|-
+| [[Omer.]] || high fermentation, blond || 8% || [[Brewery Bockor]]
+|-
+| [[Keizer Karel (bier)|Ommegang]] || strogeel, high fermentation || 8% || [[Brewery Haacht]]
+|-
+| [[Ondineke]] || tripel || 8.5% || [[Brewery De Glazen Toren]]
+|-
+| [[Op-Ale]] || ale || 5% || [[Affligem Brewery]] ([[Brewery De Smedt]])
+|-
+| [[Opitter (bier)|Opitter]] || export || || [[Brewery Sint-Jozef (Opitter)|Brewery Sint-Jozef]]
+|-
+| [[Ops-Ale]] || blond || 5.5% || Brewery Sint-Jozef
+|-
+| [[Orval (bier)|Orval]] || trappist || 6.2% || [[Abdij Notre-Dame d'Orval]]
+|-
+| [[Orvélo]] || tripel || 7.5% || [[De Proefbrouwerij]] voor bierfirma Half Zeven
+|-
+| [[Oudbeitje]] || aardbeienlambiek || 6% || [[Hanssens Artisanaal]]
+|-
+| [[Oud Bier]] || tafelbier || 2.1% || [[Brewery Strubbe]]
+|-
+| [[Oud Tassels]] || tripel || 8.5% || [[Brewery Boelens]] voor Bier- en Wijnhandel De Neys-Asselman
+|-
+| [[Oud Kriekenbier]] || fruitbier || 6% || [[Brewery Strubbe]]
+|-
+| [[Oud Zottegems Bier]] || high fermentation || 6.5% || Brewery Strubbe
+|-
+| [[Oude Geuze 3 Fonteinen]] || geuze || 7% || [[Geuzestekerij 3 Fonteinen]]
+|-
+| [[Oude Geuze 3 Fonteinen|Oude Geuze Vintage 3 Fonteinen]] || geuze || 6% || Geuzestekerij 3 Fonteinen
+|-
+| [[Geuze Boon|Oude Geuze Boon]] || geuze || 6.5% || [[Brewery Boon]]
+|-
+| [[Oude Geuze De Cam]] || geuze || 6% || [[Geuzestekerij De Cam]]
+|-
+| [[Oude Geuze Oud Beersel]] || geuze || 6% || [[Brewery Oud Beersel]]
+|-
+| [[Oude Gueuze Hanssens]] || geuze || 6% || [[Hanssens Artisanaal]]
+|-
+| [[Oude Gueuze Tilquin à l'ancienne]] || geuze || 6.0% || [[Gueuzerie Tilquin]]
+|-
+| [[Oude Kriek 3 Fonteinen]] || lambiek/kriek || 6% || Geuzestekerij 3 Fonteinen
+|-
+| [[Kriek Boon|Oude Kriek Boon]] || lambiek || 6.5% || Brewery Boon
+|-
+| [[Oude Kriek De Cam]] || lambiek/kriek || 6.5% || Geuzestekerij De Cam
+|-
+| [[Oude Kriek Hanssens]] || lambiek/kriek || 6% || Hanssens Artisanaal
+|-
+| [[Oude Kriek Oud Beersel]] || lambiek || 6.5% || Brewery Oud Beersel
+|-
+| [[Oude Lambiek De Cam]] || lambiek || 5% || Geuzestekerij De Cam
+|-
+| [[Oude Quetsche Tilquin à l'ancienne]] || lambiek || 6.4% || Gueuzerie Tilquin
+|-
+| [[Outblack]] || Belgian Strong Ale || 10% || [[De Struise Brouwers]]
+|-
+| [[Oxymore]] || amber, high fermentation || 5% || [[Brasserie Oxymore]]
+|}
+
+==P==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Paasei]] || bruin || 7.8% || voor bierfirma Vacas
+|-
+| ''[[Dubbel Klok|Pa-Gijs]]'' || bruin || 8.5% || [[Brewery Boelens]]
+|-
+| [[Paix-Dieu]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 10% || [[Brasserie Caulier (Péruwelz)|Brasserie Caulier]]
+|-
+| [[Palm (bier)|Palm]] || spéciale belge || 5.4% || [[Brewery Palm]]
+|-
+| [[Palm (bier)|Palm Dobbel]] || kerstbier || 6% || Brewery Palm
+|-
+| [[Palm (bier)|''Palm Green'']] || alcoholarm || 0.25% || Brewery Palm
+|-
+| [[Palm (bier)|Palm Hopper]] || high fermentation || 6% || Brewery Palm
+|-
+| [[Palm (bier)|Palm N.A]] || alcoholarm || 0.25% || Brewery Palm
+|-
+| [[Palm (bier)|Palm Royale]] || high fermentation || 7.5% || Brewery Palm
+|-
+| [[Palm (bier)|Palm Sauvin]] || high fermentation || 4.9% || Brewery Palm
+|-
+| ''[[Palm (bier)|Palm Speciale]]'' || spéciale belge || 5.2% || Brewery Palm
+|-
+| [[Pandreitje (bier)|Pandreitje]] || donkerblond || 7% || [[Brewery De Regenboog]]
+|-
+| [[Pannepot]] || high fermentation || 10% || [[De Struise Brouwers]] bij [[Brewery Deca]]
+|-
+| [[Pannepot|Pannepot Reserva]] || high fermentation, bruin || 10% || De Struise Brouwers bij Brewery Deca
+|-
+| [[Pannepot|Pannepot Grand Reserva Vintage]] || high fermentation, bruin || 10% || De Struise Brouwers bij Brewery Deca
+|-
+| [[Pannepot|Pannepeut]] || high fermentation || 10% || De Struise Brouwers bij Brewery Deca
+|-
+| [[Papegaei]] || high fermentation || 8% || Brewery Deca voor Verstraete
+|-
+| [[Passendale (bier)|Passendale]] || amber || 6% || [[Brewery Duvel Moortgat]]
+|-
+| [[Pater (bier)|Pater]] || streekbier || 6% || [[De Scheldebrouwerij]] voor De Lelie
+|-
+| [[Pater Lieven|Pater Lieven Blond]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 6.5% || [[Brewery Van Den Bossche]]
+|-
+| [[Pater Lieven|Pater Lieven Bruin]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 6.5% || Brewery Van Den Bossche
+|-
+| [[Pater Lieven|Pater Lieven Tripel]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 8% || Brewery Van Den Bossche
+|-
+| [[Pater Lieven|Pater Lieven Wit]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 8% || Brewery Van Den Bossche
+|-
+| [[Pater Verbiest|Pater Verbiest Blond]] || biologisch, blond || 6.5% || De Proefbrouwerij
+|-
+| [[Pater Verbiest|Pater Verbiest Donker]] || biologisch, donker || 9% || De Proefbrouwerij
+|-
+| [[Paternoster (bier)|Paternoster Dubbel]] || bruin dubbel || 8% || [[Microbrouwerij Achilles]] in [[De Proefbrouwerij]] in opdracht van Paters en Prinsen
+|-
+| [[Paternoster (bier)|Paternoster Tripel]] || tripel || 8% || [[Brewery Lupus]] in opdracht van Paters en Prinsen
+|-
+| [[Patrasche dubbel]] || donkerbruin || 8% || [[Brewery De Arend]]
+|-
+| [[Paulus (bier)|Paulus]] || oud bruin || 6% || [[Brewery Het Sas]]
+|-
+| [[Paus (bier)|Paus]] || streekbier || 8.5% || De Scheldebrouwerij voor De Lelie
+|-
+| [[Pauwel Kwak]] || speciaalbier || 8.4% || [[Brewery Bosteels]]
+|-
+| [[Pax Pils]] || pils || 4.6% || [[Brewery Sint-Jozef (Opitter)|Brewery Sint-Jozef]]
+|-
+| [[Bush (bier)|Pêche Mel Bush]] || fruitbier || 8.5% || [[Brewery Dubuisson]]
+|-
+| [[Zottegemse Grand Cru|Pee Klak Grand Cru]] || etiketbier || 8.4% || [[Brewery Strubbe]] voor [[Brewery Crombé]]
+|-
+| [[Père Abbé]] || tripel || 7.3% || [[Brasserie Du Bocq]]
+|-
+| [[Père Noël]] || kerstbier || 7% || [[Brewery De Ranke]]
+|-
+| [[Katje Special|Peter Benoit]] || etiketbier || 5% || [[Brewery Het Sas]]
+|-
+| [[Petrus (bier)|Petrus Aged Pale]] || aged pale || 7.3% || [[Brewery Bavik]]
+|-
+| [[Petrus (bier)|Petrus Blond]] || high fermentation, blond || 6.6% || Brewery Bavik
+|-
+| [[Petrus (bier)|Petrus Dubbel Bruin]] || bruin || 6.5% || Brewery Bavik
+|-
+| [[Petrus (bier)|Petrus Gouden Tripel]] || tripel || 7.5% || Brewery Bavik
+|-
+| [[Petrus (bier)|Petrus Oud Bruin]] || oud bruin || 5.5% || Brewery Bavik
+|-
+| [[Petrus (bier)|Petrus Speciale]] || speciaalbier || 5.5% || Brewery Bavik
+|-
+| [[Petrus (bier)|Petrus Winterbier]] || winterbier || 6.5% || Brewery Bavik
+|-
+| Pick-Up || pils || 5% || [[Brewery Walrave]]
+|-
+| [[Piedbœuf (bier)|Piedbœuf Blonde]] || tafelbier || 1.5% || [[Brewery Piedbœuf]] (InBev)
+|-
+| [[Piedbœuf (bier)|Piedbœuf Brune]] || tafelbier || 1.5% || Brewery Piedbœuf (InBev)
+|-
+| ''[[Piedbœuf (bier)|Piedbœuf Excellence]]'' || tafelbier || 2% || Brewery Piedbœuf (InBev)
+|-
+| ''[[Piedbœuf (bier)|Piedbœuf Foncée]]'' || tafelbier || 1.5% || Brewery Piedbœuf (InBev)
+|-
+| [[Piedbœuf (bier)|Piedbœuf Triple]] || tafelbier || 3.8% || Brewery Piedbœuf (InBev)
+|-
+| [[Pierewietje]] || || 6% || [[Brewery De Regenboog]]
+|-
+| [[Piet-Agoras]] || high fermentation || 9% || [[Brewery Het Alternatief]] bij [[Brewery De Graal]]
+|-
+| [[Pikkeling (bier)|Pikkeling]] || amber, high fermentation || 6.2% || [[Brewery Slaghmuylder]] in opdracht van VVV De Faluintjesstreek
+|-
+| ''[[Pikkeling (bier)|Pikkeling Tripel]]'' || tripel || 8% || [[Brewery Boelens]] in opdracht van VVV De Faluintjesstreek
+|-
+| [[Pilaarbijter|Pilaarbijter Blond]] || high fermentation || 7.2% || [[Brewery Bavik]]
+|-
+| [[Pilaarbijter|Pilaarbijter Bruin]] || high fermentation || 6.5% || Brewery Bavik
+|-
+| [[Pils de Brabant]] || pils || 4.9% || [[John Martin (brouwerij)|Groep John Martin]]
+|-
+| [[Pimpernelle]] || tripel, biologisch || 8% || [[Brewery Jessenhofke]]
+|-
+| [[Pink Killer]] || high fermentation, fruitig witbier || 5% || [[Brasserie de Silly]]
+|-
+| Pipedream || IPA || 7.8% || [[Brewery Alvinne]]
+|-
+| [[Piraat (bier)|Piraat]] || high fermentation || 10.5% || [[Brewery Van Steenberge]]
+|-
+| [[Pissenlit]] || saison || 8% || [[Brasserie Fantôme]]
+|-
+| [[Plezir|Plezir Blond]] || pils || 5.5% || [[Brewery Sint-Jozef (Opitter)|Brewery Sint-Jozef]] in opdracht van Zirvest Cvba
+|-
+| [[Plezir|Plezir Brown]] || high fermentation || 7.1% || [[Brewery Sint-Jozef (Opitter)|Brewery Sint-Jozef]] in opdracht van Zirvest Cvba
+|-
+| [[Plezir|Plezir D Lux Blond]] || blond aperitiefbier || 6.7% || [[Brewery Sint-Jozef (Opitter)|Brewery Sint-Jozef]] in opdracht van Zirvest Cvba
+|-
+| [[Plezir|Plezir D Lux Rosé]] || rosébier || 5.2% || [[Brewery Sint-Jozef (Opitter)|Brewery Sint-Jozef]] in opdracht van Zirvest Cvba
+|-
+| [[Ploegsteert (bier)|Ploegsteert]] || || 5.4% || [[Brewery Verhaeghe Vichte]]
+|-
+| [[Plokkersbier]] || amber || 7% || [[Brewery De Bie]]
+|-
+| [[PMPRNL]] || tripel, biologisch || 8% || [[Brewery Jessenhofke]]
+|-
+| [[Podge Belgian Imperial Stout]] || stout || 10.5% || Brewery Alvinne
+|-
+| [[Podge Belgian Stout|Podge Oak Aged Stout]] || stout || 11% || Brewery Alvinne
+|-
+| ''[[Kapittel (bier)|Polygonneke]]'' || roodbruin, etiketbier || 6% || [[Brewery Van Eecke]]
+|-
+| [[Postel (bier)|Postel Blond]] || blond, [[Abbey beer#Abbey beers|Abbey Beer]] || 7% || [[Affligem Brewery]] ([[Brewery De Smedt]])
+|-
+| [[Postel (bier)|Postel Christmas]] || roodbruin [[Abbey beer#Abbey beers|Abbey Beer]] || 9% || [[Breweryen Alken-Maes]]
+|-
+| [[Postel (bier)|Postel Dubbel]] || bruin, [[Abbey beer#Abbey beers|Abbey Beer]] || 7% || Affligem Brewery
+|-
+| [[Postel (bier)|Postel Tripel]] || blonde tripel, [[Abbey beer#Abbey beers|Abbey Beer]] || 8.5% || Affligem Brewery
+|-
+| [[Potteloereke]] || bruin || 8% || [[Huisbrouwerij Sint-Canarus]]
+|-
+| [[Poorter]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 6.5% || [[Brasserie du Bocq]] voor Brewery Sterkens
+|-
+| [[Poperings Hommelbier]] || high fermentation || 7.5% || [[Brewery Van Eecke]]
+|-
+| [[Poperings Nunnebier]] || high fermentation || 7.2% || [[Brewery Verhaeghe]]
+|-
+| [[Préaris Blond]] || high fermentation || 6% || De Proefbrouwerij voor Vliegende Paard Brouwers
+|-
+| [[Préaris Quadrupel]] || Belgian Strong Ale || 10% || De Proefbrouwerij voor Vliegende Paard Brouwers
+|-
+| [[Prima Leroy]] || tafelbier || 3.25% || [[Brewery Het Sas]]
+|-
+| [[Primus (pils)|Primus]] || pils || 5.2% || [[Brewery Haacht]]
+|-
+| [[Prinsesken]] || licht rood, fruitbier || 6.5% || [[Brewery Boelens]]
+|}
+
+==Q==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Qantelaar]] || quadrupel || 8% || [[Brewery Maenhout]] voor bierfirma ''Proefbrouwerij d'oude maalderij''
+|-
+| [[Quadrigenti]] || blond || 5.6% || [['t Hofbrouwerijke]] voor bierfirma ''Montaignu''
+|-
+| [[Quest (bier)|Quest]] || blond || 9% || [[Brewery De Graal]]
+|-
+| [[Queue de Charrue|Queueu de Charrue Ambrée]] || amber || 5.6% || [[Brasserie du Bocq]] in opdracht van [[Brewery Vanuxeem]]
+|-
+| [[Queue de Charrue|Queueu de Charrue Blonde]] || blond, high fermentation || 6.6% || Brasserie du Bocq in opdracht van Brewery Vanuxeem
+|-
+| [[Queue de Charrue|Queueu de Charrue Brune]] || oud bruin || 5.4% || [[Brewery Verhaeghe Vichte]] in opdracht van Brewery Vanuxeem
+|-
+| [[Queue de Charrue|Queueu de Charrue Triple]] || tripel || 9% || [[Brewery Van Steenberge]] in opdracht van Brewery Vanuxeem
+|-
+| [[Quackelbeens Donker]] || high fermentation, chocoladebier || 7.1% || [[Brewery Gulden Spoor]] voor Alain Quackelbeen
+|-
+| [[Quintine|Quintine Ambrée]] || high fermentation || 8.5% || [[Brasserie Ellezelloise]]
+|-
+| [[Quintine|Quintine Bio Organic]] || high fermentation, biologisch || 5.9% || Brasserie Ellezelloise
+|-
+| [[Quintine|Quintine Blonde]] || high fermentation || 8% || Brasserie Ellezelloise
+|}
+
+==R==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Rader|Rader Ambrée]] || amber || 10.5% || [[Brasserie de l'Abbaye du Val-Dieu]] voor [[Radermacher Distillerie]]
+|-
+| [[Rader|Rader Blonde]] || blond || 6.5% || Brasserie de l'Abbaye du Val-Dieu voor Radermacher Distillerie
+|-
+| [[Ramée|Ramée Amber]] || [[Abbey beer#Abbey beers|Abbey Beer]], amber || 7.5% || [[Brasserie de Brunehaut]]
+|-
+| [[Ramée|Ramée Triple Blond]] || tripel, blond || 8% || Brasserie de Brunehaut
+|-
+| [[Rebel Local]] || IPA || 8.5% || [[Brouwersverzet]] bij [[Brewery Gulden Spoor]]
+|-
+| [[Rodenbach (bier)|Redbach]] || fruitbier (kriekensap) || 3.5% || [[Rodenbach (brouwerij)|Brewery Rodenbach]]
+|-
+| [[Redbocq]] || fruitbier || 3.1% || [[Brasserie Du Bocq]]
+|-
+| [[Redor]] || pils || 5% || [[Brasserie Dupont]]
+|-
+| [[Regal Christmas]] || bruin || 8.1% || Brasserie Du Bocq
+|-
+| [[Reinaert (bier)|Reinaert Blond]] || amber || 7% || [[De Proefbrouwerij]]
+|-
+| [[Reinaert (bier)|Reinaert Grand Cru]] || amber || 9.5% || [[De Proefbrouwerij]]
+|-
+| [[Reinaert (bier)|Reinaert Tripel]] || blond || 9% || [[De Proefbrouwerij]]
+|-
+| [[Revolucion Mexicana’10]] || lage gisting || 5% || [[John Martin (brouwerij)|Group John Martin]]
+|-
+| [[Ridder (bier)|Ridder]] || alcoholarm || 2.25% || [[Brewery Het Sas]]
+|-
+| [[Riebedebie]] || tripel || 9% || [[Brewery De Bie]]
+|-
+| [[Dentergems Wit|Riva Blanche]] || witbier || 5% || [[Brewery Riva]]
+|-
+| [[Robustus (bier)|Robustus]] || quadrupel || 10% || Brewery Het Gulden Spoor
+|-
+| [[Rochefort (bier)|Rochefort 6]] || trappist || 7.5% || [[Abdij Notre-Dame de Saint-Rémy]]
+|-
+| [[Rochefort (bier)|Rochefort 8]] || trappist || 9.2% || Abdij Notre-Dame de Saint-Rémy
+|-
+| [[Rochefort (bier)|Rochefort 10]] || trappist || 11.3% || Abdij Notre-Dame de Saint-Rémy
+|-
+| [[Rodenbach (bier)|Rodenbach]] || oud bruin || 5.2% || [[Rodenbach (brouwerij)|Brewery Rodenbach]]
+|-
+| [[Rodenbach (bier)|Rodenbach Alexander]] || oud bruin || 6% || Brewery Rodenbach
+|-
+| [[Rodenbach (bier)|Rodenbach Caractère Rouge]] || oud bruin || 7% || Brewery Rodenbach
+|-
+| [[Rodenbach (bier)|Rodenbach Grand Cru]] || oud bruin || 6% || Brewery Rodenbach
+|-
+| [[Rodenbach (bier)|Rodenbach Vintage]] || oud bruin || 7% || Brewery Rodenbach
+|-
+| [[Rogier (bier)|Rogier]] || speciale belge || 6.5% || [[Brewery De Graal]] voor Traagwater
+|-
+| [[Romy Pils]] || pils || 5.1% || [[Brewery Roman]]
+|-
+| [[Ronsischen Dubbel]] || winterbier || 7.4% || [[De Proefbrouwerij]] voor bierfirma Slaapmutske
+|-
+| [[Ronsischen Tripel]] || tripel || 8% || De Proefbrouwerij voor bierfirma Slaapmutske
+|-
+| [[Roodebol]] || fruitbier || 6.6% || [[Brewery Loterbol]]
+|-
+| [[Rosdel]] || amber || 5.8% || [[Brewery Nieuwhuys]]
+|-
+| [[Rosé de Gambrinus]] || fruitbier, lambiek || 5.5% || [[Brasserie Cantillon]]
+|-
+| [[Rose des Remparts]] || fruitbier || 4.5% || [[Brasserie La Binchoise]]
+|-
+| [[Max (bier)|Rosé Max]] || fruitbier || 4.5% || [[Brewery Bockor]]
+|-
+| [[Roste Jeanne]] || Belgian ale || 7% || [[De Struise Brouwers]] bij [[Brewery Deca]]
+|-
+| [[Bière de Brabant|Rousse de Brabant]] || koper-amber || 5.2% || [[John Martin (brouwerij)|Groep John Martin]]
+|-
+| [[RSRV]] || biologisch, roodbruin || 10% || [[Brewery Jessenhofke]] bij [[De Proefbrouwerij]]
+|}
+
+==S==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [['s Lands Souvenirs Du Terroir]] || bruin || 11% || [[Brewery De Landtsheer]]
+|-
+| [[Safir (bier)|Safir]] || pils || 5% || [[InBev]]
+|-
+| [[Saint-Benoît (bier)|Saint-Benoît Blonde]] || blond, high fermentation || 6.3% || [[Brasserie du Bocq]]
+|-
+| [[Saint-Benoît (bier)|Saint-Benoît Brune]] || donker, high fermentation || 6.5% || Brasserie du Bocq
+|-
+| [[Saint-Lamvinus]] || fruitbier, lambiek || 6% || [[Brewery Cantillon]]
+|-
+| [[Saint-Monon|Saint-Monon Ambrée]] || amber || 6.5% || [[Brasserie Saint-Monon]]
+|-
+| [[Saint-Monon|Saint-Monon au Miel]] || tripel, honingbier || 8% || Brasserie Saint-Monon
+|-
+| [[Saint-Monon|Saint-Monon Brune]] || dubbel || 7.5% || Brasserie Saint-Monon
+|-
+| [[Saison 1900]] || amber, saison || 5.2% || [[Brewery Lefebvre]]
+|-
+| [[Saison 2000]] || saison || 6.5% || [[Brasserie des Légendes]]
+|-
+| [[Saison Cazeau]] || saison || 5% || [[Brasserie de Cazeau]]
+|-
+| [[Saison de Dottignies]] || saison || 5.5% || [[Brewery De Ranke]]
+|-
+| ''[[Saison de la Senne]]'' || saison || 4.3% || [[Brewery De Ranke]] voor [[Brasserie de la Senne]]
+|-
+| [[Saison de Mai]] || saison || 8.3% || Brasserie Saint-Monon
+|-
+| [[Saison de Pipaix]] || saison || 6% || [[Brasserie à Vapeur]]
+|-
+| [[Saison d'Epeautre]] || blond, [[spelt]] || 6% || [[Brasserie de Blaugies]]
+|-
+| [[Saison d'Erpe-Mere]] || saison || 6.9% || [[Brewery De Glazen Toren]]
+|-
+| [[Saison de Silly]] || saison, amber || 5% || [[Brasserie de Silly]]
+|-
+| [[Saison Dupont]] || saison || 6.5% || [[Brewery Dupont (Tourpes)|Brewery Dupont]]
+|-
+| [[Saison Dupont|Saison Dupont Bio]] || saison, biologisch || 5.5% || Brewery Dupont
+|-
+| [[Saison Dupont|Saison Dupont Cuvée Dry Hopping]] || saison || 6.5% || Brewery Dupont
+|-
+| [[Saison Regal]] || saison, amber || 5.5% || Brasserie du Bocq
+|-
+| [[Saison St-Feuillien]] || saison, amber || 6.5% || [[Brasserie Saint-Feuillien]]
+|-
+| [[Saison Voisin]] || saison, amber || 5% || Brasserie des Légendes
+|-
+| [[Santa Bee]] || bruin kerstbier || 8.5% || [[Brewery Boelens]]
+|-
+| [[Sara (bier)|Sara Blond]] || blond, high fermentation, boekweit || 6% || [[Brasserie de Silenrieux]]
+|-
+| [[Sara (bier)|Sara Bruin]] || bruin, high fermentation, boekweit || 6% || Brasserie de Silenrieux
+|-
+| [[Sas Brune]] || high fermentation || 5.3% || [[Brewery Het Sas]]
+|-
+| [[Sas Export]] || export pils || 5% || Brewery Het Sas
+|-
+| [[Sas Pils]] || pils || 5% || Brewery Het Sas
+|-
+| [[Sasbräu]] || Dortmunder || 6.3% || Brewery Het Sas
+|-
+| [[Satan (bier)|Satan Gold]] || blond, high fermentation || 8% || [[Brewery De Block]]
+|-
+| [[Satan (bier)|Satan Red]] || Vlaams bruin || 8% || Brewery De Block
+|-
+| [[Saxo (bier)|Saxo]] || high fermentation || 8% || [[Brasserie Caracole]]
+|-
+| [[Schaarbeekse Oude Kriek 3 Fonteinen]] || fruitbier, lambiek || 5% || [[Geuzestekerij 3 Fonteinen]]
+|-
+| [[Scheldepils]] || pils || 5% || [[Brewery Huyghe]] voor de [[De Scheldebrouwerij]]
+|-
+| ''[[Schoenlappertje]]'' || zwarte-bessenbier || 5% || [[De Scheldebrouwerij]]
+|-
+| [[Schultenbräu]] || pils || 4.9% || [[Brewery Martens (Bocholt)|Brewery Martens]] voor Aldi
+|-
+| [[Schuppenboer]] || tripel || 8.5% || [[De Scheldebrouwerij]] voor Brewery Het Nest
+|-
+| [[Scotch C.T.S.]] || scotch || 7.2% || [[Inbev]]
+|-
+| [[Scotch Silly]] || high fermentation, scotch || 7.8% || Brasserie de Silly
+|-
+| [[Seef (bier)|Seefbier]] || high fermentation || 6.5% || Antwerpse Brouw Compagnie
+|-
+| [[Serafijn (bier)|Serafijn Blond]] || blond, high fermentation || 6.2% || [[De Proefbrouwerij]] voor [[Microbrouwerij Achilles]]
+|-
+| [[Serafijn (bier)|Serafijn Donker]] || bruin, high fermentation || 8% || De Proefbrouwerij voor Microbrouwerij Achilles
+|-
+| [[Serafijn (bier)|Serafijn Grand Cru]] || amber, high fermentation || 9% || De Proefbrouwerij voor Microbrouwerij Achilles
+|-
+| [[Serafijn (bier)|Serafijn Tripel]] || tripel || 8% || De Proefbrouwerij voor Microbrouwerij Achilles
+|-
+| [[Serafijn (bier)|Serafijn Kerstlicht]] || amber, kerstbier || 7% || De Proefbrouwerij voor Microbrouwerij Achilles
+|-
+| [[Scotch C.T.S.|Sernia Brune]] || scotch, etiketbier || 7.2% || [[Inbev]]
+|-
+| [[Sezoens|Sezoens Blond]] || high fermentation, blond || 6% || [[Brewery Martens (Bocholt)]]
+|-
+| [[Sezoens|Sezoens Quattro]] || high fermentation, amber || 8% || Brewery Martens (Bocholt)
+|-
+| [[Shark Pants]] || Double [[India Pale Ale|IPA]] || 9% || [[De Struise Brouwers]] bij [[Brewery Deca]]
+|-
+| [[Silly Pils]] || pils || 5% || Brasserie de Silly
+|-
+| [[Silly Pils|Silly Pils Bio]] || pils, biologisch || 5% || Brasserie de Silly
+|-
+| [[Sinpalsken|Sinpalsken Blond]] || high fermentation || 8.5% || [[Brewery De Cock]] bij [[Brewery Van Steenberge]]
+|-
+| [[Sinpalsken|Sinpalsken Donker]] || high fermentation || 8.5% || Brewery De Cock bij Brewery Van Steenberge
+|-
+| [[Sint-Adriaansbier|Sint-Adriaansbier Blond]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 6.5% || [[Brewery Van Steenberge]]
+|-
+| [[Sint-Adriaansbier|Sint-Adriaansbier Bruin]] || [[Abbey beer#Abbey beers|Abbey Beer]] || || Brewery Van Steenberge
+|-
+| [[Sint Canarus Tripel]] || tripel || 7.5% || [[Huisbrouwerij Sint Canarus]] bij De Proefbrouwerij
+|-
+| [[Sint-Gummarus Dubbel]] || || 7% || [[Brewery Sint-Jozef (Opitter)|Brewery Sint-Jozef]]
+|-
+| [[Sint-Gummarus Tripel]] || high fermentation, tripel || 8% || Brewery Sint-Jozef
+|-
+| [[Sint-Idesbald (bier)|Sint-Idesbald]] || high fermentation || 6.5% || [[Brewery Huyghe]]
+|-
+| [[Slaapmutske|Slaapmutske Blond]] || high fermentation, blond || 6.4% || De Proefbrouwerij voor [[Brewery Slaapmutske]]
+|-
+| [[Slaapmutske|Slaapmutske Bruin]] || high fermentation, bruin || 6% || De Proefbrouwerij voor Brewery Slaapmutske
+|-
+| [[Slaapmutske|Slaapmutske Bio Tripel]] || biologisch, tripel, goudblond || 8% || De Proefbrouwerij voor Brewery Slaapmutske
+|-
+| [[Slaapmutske|Slaapmutske Hop Collection ft. Kent Goldings]] || high fermentation, single hop || 10% || De Proefbrouwerij voor Brewery Slaapmutske
+|-
+| [[Slaapmutske|Slaapmutske Tripel]] || biologisch, tripel, goudblond || 8.1% || De Proefbrouwerij voor Brewery Slaapmutske
+|-
+| [[Slaapmutske|Slaapmutske Christmas]] || high fermentation, kerstbier || 7.4% || De Proefbrouwerij voor Brewery Slaapmutske
+|-
+| [[Slaapmutske Dry Hopped Lager]] || lage gisting, Dortmunder || 5.3% || De Proefbrouwerij voor Brewery Slaapmutske
+|-
+| [[Slaefke]] || tripel || 7.5% || [[Huisbrouwerij Sint Canarus]] voor [[De Verhuisbrouwerij]]
+|-
+| [[Slag Lager]] || pils || 5% || [[Brewery Slaghmuylder]]
+|-
+| [[Slaghmuylder's Kerstbier]] || lage gisting, blond || 5.2% || Brewery Slaghmuylder
+|-
+| [[Slaghmuylder's Paasbier]] || lage gisting, blond || 5.2% || Brewery Slaghmuylder
+|-
+| [[Sloeber (bier)|Sloeber]] || high fermentation || 7.5% || [[Brewery Roman]]
+|-
+| ''[[Smiske Winter|Smisje Kerst]]'' || donker amber || 11% || [[Brewery Smisje]]
+|-
+| [[Smiske]] || blond || 7% || Brewery Smisje
+|-
+| [[Smiske|Smiske Bruin]] || dubbel || 7% || Brewery Smisje
+|-
+| [[Smiske|Smiske Extra]] || tripel || 7% || Brewery Smisje
+|-
+| [[Smiske Winter]] || donker amber || 11% || [[Brewery Smisje]]
+|-
+| [[Snaaskerstbier]] || kerstbier || 8% || [[Brewery Deca]]
+|-
+| [[Snoek (bier)|Snoek Blond]] || high fermentation || 7.5% || [[Brewery Bavik]] voor “Mout- en Brouwhuis De Snoek”
+|-
+| [[Snoek (bier)|Snoek Bruin]] || high fermentation || 5.5% || [[Brewery Strubbe]] voor “Mout- en Brouwhuis De Snoek”
+|-
+| [[Snuffelbeer]] || goud, high fermentation || 6% || [[Brewery De Regenboog]]
+|-
+| [[Sparta Pils]] || pils || 5% || [[Brewery Van Steenberge]]
+|-
+| [[Special 6 Block]] || amber, high fermentation || 6% || [[Brewery De Block]]
+|-
+| [[Special De Ryck]] || high fermentation, amber || 5.5% || [[Brewery De Ryck]]
+|-
+| [[Special Extra Export Stout]] || stout || 9% || [[De Dolle Brouwers]]
+|-
+| [[Special Roman]] || bruin || 5.5% || [[Brewery Roman]]
+|-
+| [[Speciale 1900]] || amber || 5% || [[Brewery Haacht]]
+|-
+| [[Spéciale de Brabant]] || pils || 5.3% || [[John Martin (brouwerij)|Groep John Martin]]
+|-
+| [[Cookie Beer|Speculoos Bier]] || high fermentation (etiketbier) || 8% || [[Brasserie d'Ecaussinnes]]
+|-
+| [[Spelziale]] || ale || 4.5% || [[Brasserie Millevertus]]
+|-
+| [[Spioenkopje]] || fruitbier, witbier || 5% || [[Brewery Strubbe]] voor den Haene
+|-
+| [[Spitfire Oud Balegems]] || amber || 8.0% || [[Brewery Van Steenberge]]
+|-
+| [[Sint-Amatus (bier)|Sint-Amatus]] || quadrupel || 10.5% || [[De Struise Brouwers]] bij [[Brewery Deca]]
+|-
+| [[Sint Bernardus (bier)|St. Bernardus Abt 12]] || high fermentation || 10.5% || [[Brewery St. Bernardus]]
+|-
+| [[Sint Bernardus (bier)|St. Bernardus Christmas Ale]] || kerstbier || 10% || Brewery St. Bernardus
+|-
+| [[Sint Bernardus (bier)|St. Bernardus Pater 6]] || high fermentation || 6.7% || Brewery St. Bernardus
+|-
+| [[Sint Bernardus (bier)|St. Bernardus Prior 8]] || high fermentation || 8% || Brewery St. Bernardus
+|-
+| [[Sint Bernardus (bier)|St. Bernardus Tripel]] || high fermentation || 8% || Brewery St. Bernardus
+|-
+| [[Sint Bernardus (bier)|St. Bernardus Witbier]] || witbier || 5.5% || Brewery St. Bernardus
+|-
+| [[Sint-Idesbald (bier)|Sint-Idesbald Réserve Ten Duinen Blond]] || Erkend Belgisch [[Abbey beer#Abbey beers|Abbey Beer]] || 6.5% || [[Brewery Huyghe]]
+|-
+| [[Sint-Idesbald (bier)|Sint-Idesbald Réserve Ten Duinen Dubbel]] || Erkend Belgisch [[Abbey beer#Abbey beers|Abbey Beer]] || 8% || Brewery Huyghe
+|-
+| [[Sint-Idesbald (bier)|Sint-Idesbald Réserve Ten Duinen Rousse]] || Erkend Belgisch [[Abbey beer#Abbey beers|Abbey Beer]] || 7% || Brewery Huyghe
+|-
+| [[Sint-Idesbald (bier)|Sint-Idesbald Réserve Ten Duinen Tripel]] || Erkend Belgisch [[Abbey beer#Abbey beers|Abbey Beer]], tripel || 9% || Brewery Huyghe
+|-
+| [[St. Benoit|St. Benoit Blonde]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 6.3% || Brasserie du Bocq
+|-
+| [[St. Benoit|St. Benoit Brune]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 6.5% || Brasserie du Bocq
+|-
+| [[St-Feuillien|St. Feuillien Blonde]] ||[Erkend Belgisch [[Abbey beer#Abbey beers|Abbey Beer]] || 7.5% || [[Brewery St-Feuillien]]
+|-
+| [[St-Feuillien|St. Feuillien Brune Réserve]] || Erkend Belgisch [[Abbey beer#Abbey beers|Abbey Beer]] || 7.5% || Brewery St-Feuillien
+|-
+| [[St-Feuillien|Grand Cru St-Feuillien Grand Cru]] || Erkend Belgisch [[Abbey beer#Abbey beers|Abbey Beer]] || 9.5% || Brasserie Saint Feuillien
+|-
+| [[St-Feuillien|St. Feuillien Triple]] || Erkend Belgisch [[Abbey beer#Abbey beers|Abbey Beer]] || 8.5% || Brewery St-Feuillien
+|-
+| [[St-Feuillien|St. Feuillien Cuvée de Noël]] || Erkend Belgisch [[Abbey beer#Abbey beers|Abbey Beer]], kerstbier || 8.5% || Brewery St-Feuillien
+|-
+| [[St. Firminus|St. Firminus Blond]] || [[Abbey beer#Abbey beers|Abbey Beer]] || || [[Brasserie Du Bocq]]
+|-
+| [[St. Firminus|St. Firminus Bruin]] || [[Abbey beer#Abbey beers|Abbey Beer]] || || Brasserie Du Bocq
+|-
+| ''[[St. Louis Premium Cassis|St. Louis Cassis]]'' || fruitbier || 4.5% || Brewery Van Honsebrouck
+|-
+| ''[[St. Louis Premium Framboise|St. Louis Framboise]]'' || frambozenbier || 5 en 4.5% || [[Brewery Van Honsebrouck]]
+|-
+| ''[[St. Louis Premium Framboise|St. Louis Frambozen(bier)]]'' || frambozenbier || 5% || Brewery Van Honsebrouck
+|-
+| ''[[Geuze St. Louis|St. Louis Gueuze]]'' || geuze || 5 en 4.5% || Brewery Van Honsebrouck
+|-
+| [[Geuze St. Louis|St. Louis Gueuze Fond Tradition]] || geuze || 5% || Brewery Van Honsebrouck
+|-
+| [[St. Louis Kriek|St. Louis Kriek Lambic]] || kriek || 4.5% || Brewery Van Honsebrouck
+|-
+| ''[[St. Louis Premium Pêche|St. Louis Peche]]'' || fruitbier || 3.5% || Brewery Van Honsebrouck
+|-
+| ''[[St. Louis Premium Cassis]]'' || fruitbier || 3.2% || Brewery Van Honsebrouck
+|-
+| [[Geuze St. Louis|St. Louis Premium Faro]] || faro || 3.2% || Brewery Van Honsebrouck
+|-
+| [[St. Louis Premium Framboise]] || fruitbier || 2.8% || Brewery Van Honsebrouck
+|-
+| [[St. Louis Kriek|St. Louis Premium Kriek]] || kriek || 3.2% || Brewery Van Honsebrouck
+|-
+| [[St. Louis Premium Pêche]] || fruitbier || 2.6% || Brewery Van Honsebrouck
+|-
+| [[St. Paul (bier)|St. Paul Blond]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 5.3% || Brasserie du Bocq voor [[Brewery Sterkens]]
+|-
+| [[St. Paul (bier)|St. Paul Double]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 6.9% || Brasserie du Bocq voor Brewery Sterkens
+|-
+| [[St. Paul (bier)|St. Paul Speciale]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 5.5% || Brasserie du Bocq voor Brewery Sterkens
+|-
+| [[St. Paul (bier)|St. Paul Tripel]] || [[Abbey beer#Abbey beers|Abbey Beer]], tripel || 5% || Brasserie du Bocq voor Brewery Sterkens
+|-
+| [[St. Sebastiaan (bier)|St. Sebastiaan Dark]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 6.9% || Brasserie du Bocq voor Brewery Sterkens
+|-
+| [[St. Sebastiaan (bier)|St. Sebastiaan Grand Cru]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 7.6% || Brasserie du Bocq voor Brewery Sterkens
+|-
+| [[Star Blond]] || blond || 0.4% || [[Brewery Haacht]]
+|-
+| [[Steenbrugge (bier)|Steenbrugge Blond]] || [[Abbey beer#Abbey beers|Abbey Beer]], blond || 6.5% || [[Brewery Palm]]
+|-
+| [[Steenbrugge (bier)|Steenbrugge Dubbel Bruin]] || [[Abbey beer#Abbey beers|Abbey Beer]], tripel, bruin || 6.5% || Brewery Palm (vroeger in [[Brewery De Gouden Boom]])
+|-
+| [[Steenbrugge (bier)|Steenbrugge Tripel]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 8.7% || Brewery Palm (vroeger in Brewery De Gouden Boom)
+|-
+| [[Steenbrugge (bier)|Steenbrugge Wit]] || witbier || 5% || Brewery Palm
+|-
+| [[Steendonk]] || witbier || 4.5% || [[Brewery Duvel Moortgat]]
+|-
+| [[Steenuilke]] || high fermentation || 6.5% || [[Brewery De Rijck]]
+|-
+| [[Stella Artois]] || pils, lage gisting || 5.2% || [[InBev]]
+|-
+| [[Stepa (bier)|Stepa]] || tripel, suikervrij || 8% || De Proefbrouwerij voor Stepaja bvba
+|-
+| [[Stille Nacht (bier)|Stille Nacht]] || donker || 12% || [[De Dolle Brouwers]]
+|-
+| [[Stoeren Bonk]] || amber || 6.3% || [[Brewery Van Steenberge]]
+|-
+| [[Stoeren Bonk|Stoeren Bonk Blond]] || blond || 8% || Brewery Van Steenberge
+|-
+| [[Stout Leroy]] || zoete stout || 5% || Brewery Het Sas
+|-
+| [[Stoute Bie]] || donkerbruin || 5.5% || [[Brewery De Bie]]
+|-
+| [[Stouterik]] || stout || 4.5% || [[Brewery De Ranke]] voor [[Brasserie de la Senne]]
+|-
+| [[Straffe Hendrik]] || high fermentation, tripel || 9% || [[Brewery De Halve Maan (Brugge)|Brewery De Halve Maan]]
+|-
+| [[Straffe Hendrik|Straffe Hendrik Quadrupel]] || high fermentation, speciaalbier || 11% || Brewery De Halve Maan
+|-
+| ''[['n Toeback|Straffe Toeback]]'' || high fermentation || 9.5% || [[Scheldebrouwerij]]
+|-
+| [[Straffe Winter]] || [[geuze]] || 8% || [[Geuzestekerij 3 fonteinen]]
+|-
+| [[Strandgaper (bier)|Strandgaper]] || goud || 6.2% || [[De Scheldebrouwerij]]
+|-
+| [[Strandjuttersbier Mong De Vos]] || quadrupel || 9.2% || [[Brewery Strubbe]] voor bierfirma Den Haene
+|-
+| [[Stropken]] || amber || 7% || [[Brewery Bios]]
+|-
+| [[Strubbe Pils]] || pils || 5.2% || Brewery Strubbe
+|-
+| [[Struise Rosse]] || high fermentation, Belgische pale ale || 5% || [[De Struise Brouwers]] bij Brewery Deca
+|-
+| [[Struise Witte]] || high fermentation || 5% || De Struise Brouwers bij Brewery Deca
+|-
+| [[Struiselensis]] || high fermentation, Belgische blonde ale || 7% || De Struise Brouwers bij Brewery Deca
+|-
+| [[Sas Pils|Suma Pils]] || etiketbier || 5% || [[Brewery Het Sas]]
+|-
+| [[Super 64]] || high fermentation, amber || 5% || Brasserie de Silly
+|-
+| [[Super des Fagnes|Super des Fagnes Blonde]] || high fermentation, blond || 7.5% || [[Brasserie des Fagnes]]
+|-
+| [[Super des Fagnes|Super des Fagnes Brune]] || high fermentation, bruin || 7.5% || Brasserie des Fagnes
+|-
+| [[Super des Fagnes|Super des Fagnes Griottes]] || high fermentation, kriek || 4.8% || Brasserie des Fagnes
+|-
+| [[Superpils]] || pils || 4.3% || Brewery Strubbe
+|-
+| [[Sur-les-Bois|Sur-les-Bois Ambrée]] || high fermentation || 8% || [[Brasserie La Botteresse de Sur-les-Bois]]
+|-
+| [[Sur-les-Bois|Sur-les-Bois Blonde]] || high fermentation || 7% || Brasserie La Botteresse de Sur-les-Bois
+|-
+| [[Sur-les-Bois|Sur-les-Bois Brune]] || high fermentation || 9% || Brasserie La Botteresse de Sur-les-Bois
+|-
+| [[Svea IPA]] || IPA || 5% || De Struise Brouwers bij Brewery Deca
+|}
+
+==T==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [['t Baronneke]] || stout || 6.5% || [['t Hofbrouwerijke]]
+|-
+| [['t Gaverhopke Blondje]] || high fermentation || 6.8% || [[Brewery 't Gaverhopke]]
+|-
+| [['t Gaverhopke Bruintje]] || high fermentation || 6.8% || Brewery 't Gaverhopke
+|-
+| [['t Gaverhopke Kerstbier]] || high fermentation, kerstbier || 6.8% || Brewery 't Gaverhopke
+|-
+| [['t Gaverhopke Kriek]] || high fermentation, fruitbier || 6.8% || Brewery 't Gaverhopke
+|-
+| [['t Gaverhopke Paasbier]] || high fermentation, paasbier || 8% || Brewery 't Gaverhopke
+|-
+| ''[[Schoenlappertje|'t Schoenlappertje]]'' || zwarte-bessenbier || 6.5% || [[De Scheldebrouwerij]]
+|-
+| ''[[Smisje|'t Smisje + dubbel IPA]]'' || IPA || 10% || [[Brewery De Regenboog]]
+|-
+| ''[[Smisje|'t Smisje Banananbier]]'' || fruitbier || 6% || Brewery De Regenboog
+|-
+| ''[[Smisje|'t Smisje BBBourgondier]]'' || high fermentation || 12% || Brewery De Regenboog
+|-
+| ''[[Smisje|'t Smisje Blond]]'' || high fermentation || 6% || Brewery De Regenboog
+|-
+| ''[[Smisje|'t Smisje Calva Reserva]]'' || high fermentation || 12% || Brewery De Regenboog
+|-
+| ''[[Smisje|'t Smisje Catherine The Great Imperial Stout]]'' || stout || 10% || Brewery De Regenboog
+|-
+| ''[[Smisje|'t Smisje Cuvee 2005]]'' || high fermentation || 10% || Brewery De Regenboog
+|-
+| ''[[Smisje|'t Smisje Dubbel]]'' || high fermentation || 9% || Brewery De Regenboog
+|-
+| ''[[Smisje|'t Smisje Fiori]]'' || high fermentation || 7% || Brewery De Regenboog
+|-
+| ''[[Smisje|'t Smisje Grande Reserva]]'' || high fermentation || 11% || Brewery De Regenboog
+|-
+| ''[[Smisje|'t Smisje Great Reserva]]'' || high fermentation || 10% || Brewery De Regenboog
+|-
+| ''[[Smisje Speciaal|'t Smisje Halloween]]'' || high fermentation || 10.5% || Brewery De Regenboog
+|-
+| ''[[Smisje|'t Smisje Honing]]'' || honingbier || 6% || Brewery De Regenboog
+|-
+| ''[[Smisje|'t Smisje Honingbier Bruin]]'' || honingbier || 6% || Brewery De Regenboog
+|-
+| ''[[Smisje|'t Smisje Kuvee Elektrik 979 W]]'' || high fermentation || 9% || Brewery De Regenboog
+|-
+| ''[[Smisje|'t Smisje Meso]]'' || high fermentation || 2.5% || Brewery De Regenboog
+|-
+| ''[[Smisje|'t Smisje Sleedoornbier]]'' || fruitbier || 6% || Brewery De Regenboog
+|-
+| ''[[Smisje|'t Smisje Sleedoorn Extra]]'' || fruitbier || 7% || Brewery De Regenboog
+|-
+| ''[[Smisje Speciaal|'t Smisje Speciaal]]'' || high fermentation || 10.5% || Brewery De Regenboog
+|-
+| ''[[Smisje|'t Smisje Tripel]]'' || tripel || 9% || Brewery De Regenboog
+|-
+| [['t Zelfde]] || blond || 4% || [[Brewery Bosteels]]
+|-
+| [['t Zwarte Gat Bier]] || donkerblond || 6% || Brewery De Regenboog
+|-
+| [[Taras Boulba]] || blond || 4.5% || [[Brewery De Ranke]] voor [[Brasserie de la Senne]]
+|-
+| [[Tatsevoet]] || speciale belge || 6% || [[Brewery Het Alternatief]] bij [[Brewery Alvinne]]
+|-
+| [[Tempelier (bier)|Tempelier]] || speciaalbier || 6% || [[Brasserie du Bocq]] voor [[Brewery Corsendonk]]
+|-
+| [[Ter Dolen (bier)|Ter Dolen Blond]] || blond || 6.1% || [[Kasteelbrouwerij De Dool]]
+|-
+| [[Ter Dolen (bier)|Ter Dolen Donker]] || bruin || 7.1% || Brewery Ter Dolen
+|-
+| [[Ter Dolen (bier)|Ter Dolen Kriek]] || fruitbier || 4.5% || Brewery Ter Dolen
+|-
+| [[Ter Dolen (bier)|Ter Dolen Tripel]] || tripel || 8.1% || Brewery Ter Dolen
+|-
+| [[Terracotta (bier)|Terracotta]] || blond || 7% || [[Brewery De Regenboog]]
+|-
+| [[Thouroutenaere]] || blond || 8.5% || [[Alken-Maes]] (Heineken)
+|-
+| ''[[Timmermans Geuze|Timmermans Caveau Gueuze]]'' || geuze || 5.5% || [[Brewery Timmermans]]
+|-
+| [[Timmermans Geuze|Timmermans Faro Lambic]] || faro || 4% || Brewery Timmermans
+|-
+| [[Timmermans Fruitbier|Timmermans Framboise Lambic]] || fruitbier || 4% || Brewery Timmermans
+|-
+| [[Timmermans Geuze|Timmermans Gueuze Lambic]] || geuze || 5% || Brewery Timmermans
+|-
+| [[Timmermans Kriek|Timmermans Kriek Lambic]] || kriek || 4% || Brewery Timmermans
+|-
+| [[Timmermans Kriek|Timmermans Kriek Retro]] || fruitbier || 5% || Brewery Timmermans
+|-
+| [[Timmermans Lambicus Blanche]] || witbier || 4.5% || Brewery Timmermans
+|-
+| [[Timmermans Geuze|Timmermans Oude Gueuze]] || lambiek || 5.5% || Brewery Timmermans
+|-
+| [[Timmermans Kriek|Timmermans Oude Kriek]] || [[kriekenlambiek]] || 5.5% || Brewery Timmermans
+|-
+| [[Timmermans Fruitbier|Timmermans Pêche Lambic]] || fruitbier || 4% || Brewery Timmermans
+|-
+| [[Timmermans Fruitbier|Timmermans Strawberry Lambic]] || fruitbier || 4% || Brewery Timmermans
+|-
+| [[Timmermans Kriek|Timmermans Warme Kriek]] || kriek || 4% || Brewery Timmermans
+|-
+| [[Tineke Van Heule (bier)|Tineke Van Heule]] || high fermentation || 8% || [[Brewery Gulden Spoor]]
+|-
+| [[Titje]] || high fermentation, witbier || 5% || [[Brasserie de Silly]]
+|-
+| [[Toetëlèr Amber Tripel]] || tripel || 8.5% || [[Brewery Den Toetëlèr]]
+|-
+| [[Toetëlèr Speculaas]] || speculaasbier || 8.5% || Brewery Den Toetëlèr
+|-
+| [[Toetëlèr Wit]] || witbier || 5.2% || Brewery Den Toetëlèr
+|-
+| [[Tongerlo (bier)|Tongerlo Blond]] || high fermentation, [[Abbey beer#Abbey beers|Abbey Beer]] || 6% || [[Brewery Haacht]]
+|-
+| [[Tongerlo (bier)|Tongerlo Bruin]] || high fermentation, [[Abbey beer#Abbey beers|Abbey Beer]] || 6% || Brewery Haacht
+|-
+| [[Tongerlo (bier)|Tongerlo Christmas]] || high fermentation, [[Abbey beer#Abbey beers|Abbey Beer]] || 6.5% || Brewery Haacht
+|-
+| [[Tongerlo (bier)|Tongerlo Tripel]] || high fermentation, [[Abbey beer#Abbey beers|Abbey Beer]] || 8% || Brewery Haacht
+|-
+| [[Tongerlo (bier)|Tongerlo Prior]] || high fermentation, [[Abbey beer#Abbey beers|Abbey Beer]] || 8% || Brewery Haacht
+|-
+| [[Tonneke]] || high fermentation, amber || 5% || [[Brewery Contreras]]
+|-
+| [[Toria|Toria Blond]] || high fermentation || 6.5% || [[Brewery De Graal]] voor [[De Hoevebrouwers]]
+|-
+| [[Toria|Toria Tripel]] || high fermentation, tripel || 8.7% || Brewery De Graal voor De Hoevebrouwers
+|-
+| [[Totentrekker]] || amber || 5.5% || [[De Proefbrouwerij]] voor Buitenlust
+|-
+| [[Tournay (bier)|Tournay]] || high fermentation || 6.7% || [[Brasserie de Cazeau]]
+|-
+| [[Tournay (bier)|Tournay de Noël]] || stout, kerstbier || 8.2% || Brasserie de Cazeau
+|-
+| [[Tournay (bier)|Tournay Noire]] || stout || 7.6% || Brasserie de Cazeau
+|-
+| [[Tournée Générale]] || spéciale belge || 6.5% || [[Brewery Duvel Moortgat]]
+|-
+| [[Tournée Générale|Tournée Générale Tripel Hop]] || blond, high fermentation || 7.5% || [[Brewery Palm]]
+|-
+| [[Toverhekske]] || amber || 5.9% || [[Brewery Walrave]]
+|-
+| [[Trammelantje]] || amber || 6.5% || [[Brewery Strubbe]] voor Bierfirma Den Haene
+|-
+| [[Trappieter]] || amber || 6.5% || [[De Proefbrouwerij]] voor Bierfirma Trappieter
+|-
+| [[Tremist]] || high fermentation, blond || 6% || [[Brewery Van Eecke]] voor Extremis
+|-
+| [[Triest (bier)|Triest Blond]] || high fermentation || 6% || [[Microbrouwerij Den Triest]]
+|-
+| [[Triest (bier)|Triest Dubbel]] || high fermentation || 8% || Microbrouwerij Den Triest
+|-
+| [[Triest (bier)|Triest Kriek]] || witbier, fruitbier || 5.2% || Microbrouwerij Den Triest
+|-
+| [[Triest (bier)|Triest Tripel]] || high fermentation, tripel || 7.5% || Microbrouwerij Den Triest
+|-
+| [[Triest (bier)|Triest X-mas]] || high fermentation, kerstbier || 8.5% || Microbrouwerij Den Triest
+|-
+| [[Tripel Kanunnik]] || tripel || 8.2% || [[Brewery en stokerij Wilderen]]
+|-
+| [[Tripel Karmeliet]] || tripel || 8.4% || [[Brewery Bosteels]]
+|-
+| [[Tripel Klok]] || tripel || 8.5% || [[Brewery Boelens]]
+|-
+| [[Bière de Brabant|Triple de Brabant]] || tripel, blond || 8.5% || [[John Martin (brouwerij)|Groep John Martin]]
+|-
+| [[Triple Moine]] || tripel || 7.3% || [[Brasserie Du Bocq]]
+|-
+| [[Trisser]] || tripel || 7.5% || De Proefbrouwerij voor [[De Verhuisbrouwerij]]
+|-
+| [[Triverius]] || tarwebier || 6.8% || [[Brewery De Graal]]
+|-
+| [[Troubadour (bier)|Troubadour Blond]] || blond || 6.5% || De Proefbrouwerij voor [[Brewery The Musketeers]]
+|-
+| [[Troubadour (bier)|Troubadour Imperial Stout]] || imperial stout || 9% || De Proefbrouwerij voor Brewery The Musketeers
+|-
+| [[Troubadour (bier)|Troubadour Magma]] || tripel India Pale Ale || 9% || De Proefbrouwerij voor Brewery The Musketeers
+|-
+| [[Troubadour (bier)|Troubadour Obscura]] || stout || 8.2% || De Proefbrouwerij voor Brewery The Musketeers
+|-
+| [[Troubadour (bier)|Troubadour Spéciale]] || speciale belge || 5.7% || De Proefbrouwerij voor Brewery The Musketeers
+|-
+| [[Troublette]] || witbier || 5% || [[Brasserie Caracole]]
+|-
+| [[Jessenhofke|TRPL]] || high fermentation, biologisch, tripel || 8% || [[De Proefbrouwerij]] voor [[Brewery Jessenhofke]]
+|-
+| [[Tsjeeses]] || high fermentation, blond || 10% || [[De Struise Brouwers]]
+|-
+| [[Tsjeeses|Tsjeeses Reserva]] || high fermentation, goud || 10% || De Struise Brouwers
+|-
+| [[Tumulus (bier)|Tumulus 800]] || tarwebier || 6% || [[De Proefbrouwerij]] in opdracht van [[De Kale Ridders]]
+|-
+| [[Tumulus (bier)|Tumulus Aura]] || tarwebier || 5.5% || De Proefbrouwerij in opdracht van De Kale Ridders
+|-
+| [[Tumulus (bier)|Tumulus Magna]] || tarwebier || 9% || De Proefbrouwerij in opdracht van De Kale Ridders
+|-
+| [[Tumulus (bier)|Tumulus Nera]] || tarwebier || 8% || De Proefbrouwerij in opdracht van De Kale Ridders
+|-
+| [[Turnhoutse Patriot]] || saison || 6.5% || [[Scheldebrouwerij]] voor [[Hobbybrouwerij Het Nest]]
+|-
+| [[Tuverbol]] || gemengde gisting || 11% || [[Brewery Loterbol]]
+|}
+
+==U==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Uilenspiegelbier]] || dubbel || 7% || [[Brewery Van Steenberge]]
+|-
+| [[Uitzet|Uitzet 1730]] || tripel || 6.8% || Brewery Van Steenberge voor [[Brewery Paeleman]]
+|-
+| [[Uitzet|Uitzet Kriekbier]] || fruitbier || 7.5% || Brewery Van Steenberge voor Brewery Paeleman
+|-
+| [[Ulricher Extra]] || pils || 5% || [[Brewery Girardin]]
+|-
+| [[Ultra (bier)|Ultra Ambrée]] || ale, amber, high fermentation || 7% || [[Brasserie d'Ecaussinnes]]
+|-
+| [[Ultra (bier)|Ultra Fraîche]] || lichtblond || 3.5% || Brasserie d'Ecaussinnes
+|-
+| [[Ultra (bier)|Ultra Soif]] || blond, high fermentation || 5% || Brasserie d'Ecaussinnes
+|-
+| [[Ultra (bier)|Ultramour]] || fruitbier || 5% || Brasserie d'Ecaussinnes
+|-
+| [[Ultra (bier)|Ultra Blonde]] || blond || 8% || Brasserie d'Ecaussinnes
+|-
+| [[Ultra (bier)|Ultradélice]] || bruin || 8% || Brasserie d'Ecaussinnes
+|-
+| [[Ultra (bier)|Ultrabrune]] || donkerbruin || 10% || Brasserie d'Ecaussinnes
+|-
+| [[Unkerzak]] || || || [[De Proefbrouwerij]]
+|-
+| [[Urchon]] || high fermentation || 7.5%  || [[Brasserie des Légendes]]
+|-
+| [[Urthel|Urthel Hop-It]] || blonde India Pale Ale || 9.5% || [[Brewery De Koningshoeven]] in opdracht van [[Brewery Urthel]]
+|-
+| [[Urthel|Urthel Hibernus Quentum]] || tripel || 9% || Brewery De Leyerth
+|-
+| [[Urthel|Urthel Parlus Magnificum]] || donkerbruin || 7.5% || Brewery De Leyerth
+|-
+| [[Urthel|Urthel Saisonnière]] || blond speciaalbier || 6.0% || [[Brewery De Koningshoeven]] in opdracht van [[Brewery Urthel]]
+|-
+| [[Urthel|Urthel Samaranth]] || amberkleurig speciaalbier, high fermentation || 11.5% || [[Brewery De Koningshoeven]] in opdracht van [[Brewery Urthel]]
+|-
+| [[Urthel|Urthel Tonicum Finiboldus]] || amber || 7.5% || Brewery De Leyerth
+|}
+
+==V==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Val-Dieu (bier)|Val-Dieu Blonde]] || Erkend Belgisch [[Abbey beer#Abbey beers|Abbey Beer]] || 6% || [[Brewery Val-Dieu]]
+|-
+| [[Val-Dieu (bier)|Val-Dieu Brune]] || Erkend Belgisch [[Abbey beer#Abbey beers|Abbey Beer]] || 8% || Brewery Val-Dieu
+|-
+| [[Val-Dieu (bier)|Val-Dieu Grand Cru]] || Erkend Belgisch [[Abbey beer#Abbey beers|Abbey Beer]] || 10.5% || Brewery Val-Dieu
+|-
+| [[Val-Dieu (bier)|Val-Dieu Triple]] || Erkend Belgisch [[Abbey beer#Abbey beers|Abbey Beer]], tripel || 9% || Brewery Val-Dieu
+|-
+| [[Valeir|Valeir Blond]] || high fermentation, blond || 6.5% || [[Brewery Contreras]]
+|-
+| [[Valeir|Valeir Divers]] || high fermentation, tripel || 8.5% || Brewery Contreras
+|-
+| [[Valeir|Valeir Donker]] || high fermentation || 6.5% || Brewery Contreras
+|-
+| [[Valeir|Valeir Extra]] || high fermentation, IPA || 6.5% || Brewery Contreras
+|-
+| [[Vanderghinste oud bruin]] || West-Vlaams roodbruin || 5.5% || Brewery Bockor
+|-
+| [[Vapeur cochonne]] || Belgian ale || 9% || [[Brasserie à Vapeur]]
+|-
+| [[Vapeur en folie]] || Belgian ale || 8% || Brasserie à Vapeur
+|-
+| [[Vedett|Vedett Extra Blond]] || blond || 5.2% || [[Brewery Duvel Moortgat]]
+|-
+| [[Vedett|Vedett Extra White]] || witbier || 4.7% || Brewery Duvel Moortgat
+|-
+| [[Verhaeghe Pils]] || pils || 5.1% || [[Brewery Verhaeghe]]
+|-
+| [[Vicardin]] || tripel-gueuze || 7% || [[Brewery Dilewyns]]
+|-
+| [[Vicaris (beer)|Vicaris Generaal]] || high fermentation || 8.8% || Brewery Dilewyns
+|-
+| [[Vicaris (beer)|Vicaris Kerst]] || high fermentation, kerstbier || 10% || Brewery Dilewyns
+|-
+| [[Vicaris (beer)|Vicaris Tripel]] || high fermentation, tripel || 8.5% || Brewery Dilewyns
+|-
+| [[Vicaris (beer)|Vicaris Tripel-Gueuze]] || blend from Vicaris tripel and [[Lambic]] from [[Boon Brewery]] || 7% || Brewery Dilewyns
+|-
+| [[Vicaris (beer)|Vicaris Quinto]] || high fermentation || 5% || Brewery Dilewyns
+|-
+| [[Vichtenaar]] || roodbruine ale || 5.1% || [[Brewery Verhaeghe]]
+|-
+| ''[[Vlaamsch Wit|Vieux Bruges Blanche]]'' || etiketbier, witbier || 4.5% || [[Brewery Van Honsebrouck]]
+|-
+| ''[[St. Louis Premium Framboise|Vieux Bruges Framboise(s)]]'' || fruitbier || 5 en 4.5% || Brewery Van Honsebrouck
+|-
+| ''[[Geuze St. Louis|Vieux Bruges Gueuze]]'' || geuze || 5% || Brewery Van Honsebrouck
+|-
+| [[St. Louis Kriek|Vieux Bruges Kriek]] || etiketbier || 3.2% || Brewery Van Honsebrouck
+|-
+| ''[[St. Louis Kriek|Vieux Bruges Kriek Lambic]]'' || etiketbier || 5% || Brewery Van Honsebrouck
+|-
+| ''[[St. Louis Premium Pêche|Vieux Bruges Peche]]'' || fruitbier || 3.5% || Brewery Van Honsebrouck
+|-
+| ''[[Geuze St. Louis|Vieux Bruxelles Gueuze]]'' || etiketbier || 5% || Brewery Van Honsebrouck
+|-
+| [[St. Louis Kriek|Vieux Bruxelles Kriek]] || etiketbier || 4% || Brewery Van Honsebrouck
+|-
+| [[Vieux Temps]] || speciale belge || 5.2% || [[Anheuser-Busch InBev]]
+|-
+| [[Vingeronne]] || fruitbier, lambiek || 6% || [[Brewery Cantillon]]
+|-
+| [[Villers (bier)|Villers Tripel]] || [[Abbey beer#Abbey beers|Abbey Beer]], tripel || 8% || [[Brewery Huyghe]]
+|-
+| [[Villers (bier)|Villers Vieille]] || [[Abbey beer#Abbey beers|Abbey Beer]] || 7% || Brewery Huyghe
+|-
+| [[Viven (bier)|Viven Ale]] || speciale belge || 5% || [[De Proefbrouwerij]] voor [[Beerdevelopment Viven]]
+|-
+| [[Viven (bier)|Viven Blond]] || blond || 6.1% || De Proefbrouwerij voor Beerdevelopment Viven
+|-
+| [[Viven (bier)|Viven Bruin]] || dubbel || 6.1% || De Proefbrouwerij voor Beerdevelopment Viven
+|-
+| [[Viven (bier)|Viven Imperial IPA]] || Imperial IPA || 8% || De Proefbrouwerij voor Beerdevelopment Viven
+|-
+| [[Viven (bier)|Viven Porter]] || smoked Porter || 7% || De Proefbrouwerij voor Beerdevelopment Viven
+|-
+| ''[[Vlaamsch Wit]]'' || witbier || 4.5% || [[Brewery Van Honsebrouck]]
+|-
+| ''[[Vlaamsche Leeuw|Vlaamsche Leeuw Blondje]]'' || blond || 5.5% || [[Brewery Van Steenberge]] voor [[De Brewery van Vlaanderen]]
+|-
+| [[Vlaamsche Leeuw|Vlaamsche Leeuw Donker]] || bruin || 7.5% || Brewery Van Steenberge voor De Brewery van Vlaanderen
+|-
+| [[Vlaamsche Leeuw|Vlaamsche Leeuw Tripel]] || tripel || 8.5% || Brewery Van Steenberge voor De Brewery van Vlaanderen
+|-
+| [[Vlasbier]] || blond || 6.5% || [[Brewery Van Eecke]]
+|-
+| [[Vlaskapelle]] || Vlaams roodbruin || 5% || [[Brewery Gulden Spoor]]
+|-
+| [[Vlaskop]] || witbier || 5.5% || [[Brewery Strubbe]]
+|-
+| [[Vleteren Alt]] || ale donker || 8% || [[Brewery Deca]]
+|-
+| ''[[Vleteren Alt|Vleteren Super 8 Blond]]'' || blond || 8% || Brewery Deca
+|-
+| ''[[Vondel (bier)|Vondel]]'' || donkerbruin || 8.5% || [[Brewery Liefmans]]
+|-
+| ''[[Anker Blond|Vossen met de Meynen Blond]]'' || etiketbier || 6.5% || [[Brewery Het Anker (Mechelen)|Brewery Het Anker]]
+|-
+| ''[[Vossen met de Meynen|Vossen met de Meynen 69]]'' || high fermentation, blond || 6.9% || [[Brewery Hof ten Dormaal]]
+|-
+| [[Vurig Bierreke]] || tripel || 11.5% || [[Brewery DijkWaert]]
+|-
+| ''[[Vuuve]]'' || witbier || 5% || [[Brewery De Regenboog]]
+|}
+
+==W==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| ''[[Dubbel Klok|Waas Klok Bier Bruin]]'' || donker || 8.5% || [[Brewery Boelens]]
+|-
+| ''[[Tripel Klok|Waas Klok Bier Tripel]]'' || tripel || 8.5% || Brewery Boelens
+|-
+| [[Waase Wolf]] || amber || 6% || Brewery Boelens
+|-
+| [[Waaslander]] || witbier || 5% || Brewery Boelens
+|-
+| [[Waterloo (bier)|Waterloo Double 8 Dark]] || bruin || 8.5% || [[Brasserie Du Bocq]]
+|-
+| [[Waterloo (bier)|Waterloo Tripel 7 Blond]] || blond || 7.5% || Brasserie Du Bocq
+|-
+| [[Watneys Scotch Ale]] || scotch || 8% || [[Alken-Maes]]
+|-
+| [[Watou Tripel]] || tripel || 7.5% || [[Brewery St. Bernardus]]
+|-
+| [[Watou's Wit]] || witbier || 5% || [[Brewery Van Eecke]]
+|-
+| [[Wechelse Tripel]] || etiketbier || 7.5% || Brewery St. Bernardus voor ''café Den Toerist''
+|-
+| [[West Pils]] || pils || 5% || [[Brewery Het Sas]]
+|-
+| [[Westhoek (bier)|Westhoek]] || high fermentation || 6% || [[De Struise Brouwers]]
+|-
+| [[Westhoek XX]] || high fermentation || 6% || De Struise Brouwers
+|-
+| [[Westmalle Dubbel]] || trappist || 7% || [[Brewery Westmalle]]
+|-
+| [[Westmalle Tripel]] || trappist || 9.5% || Brewery Westmalle
+|-
+| [[Westvleteren Blond]] || trappist || 5.8% || [[Sint-Sixtusabdij van Westvleteren]]
+|-
+| ''[[Westvleteren Zes]]'' || trappist || 6.2% || Sint-Sixtusabdij van Westvleteren
+|-
+| [[Westvleteren Acht]] || trappist || 8% || Sint-Sixtusabdij van Westvleteren
+|-
+| [[Westvleteren Twaalf]] || trappist || 10.2% || Sint-Sixtusabdij van Westvleteren
+|-
+| [[Wevelgemse Tripel]] || tripel || 8% || [[Brewery De Ranke]] voor Bierwinkel Bacelle
+|-
+| [[White by Mystic]] || witbier || 5.1% || [[Brewery Haacht]]
+|-
+| [[Wieze Christmas Tripel Hop]] || tripel kerstbier || 8% || [[Brewery Wieze]]
+|-
+| [[Wieze Tripel|Wieze Tripel Blond]] || tripel || 8% || Brewery Wieze
+|-
+| [[Wieze Tripel|Wieze Tripel zoet Bruin]] || tripel || 8% || Brewery Wieze
+|-
+| [[Wildebok]] || high fermentation, bockbier || 6.5% || [[De Scheldebrouwerij]]
+|-
+| [[Wilderen (bier)|Wilderen Goud]] || high fermentation || 6.2% || [[Brewery Wilderen]]
+|-
+| [[Wilderen (bier)|Wilderen Kriek]] || kriek || 3.5% || Brewery Wilderen
+|-
+| [[Willy Kriegelbier]] || donkerblond || 7% || [[Huisbrouwerij Sint Canarus]]
+|-
+| ''[[De Koninck (bier)|Winterkoninck]]'' || robijnrood || 6.5% || [[Brewery De Koninck]] (Duvel-Moortgat)
+|-
+| [[Winterkoninkske]] || high fermentation || 8.3% || [[Brewery Sint-Jozef (Opitter)|Brewery Sint-Jozef]] voor [[brouwerij Kerkom]]
+|-
+| [[Winterkoninkske|Winterkoninkske Haspengouwse Grand Cru]] || high fermentation, kerstbier || 13% || Brewery Sint-Jozef voor brouwerij Kerkom
+|-
+| [[Wintersnood]] || winterbier || 6.4% || [[‘t Hofbrouwerijke]] voor [[De Verhuisbrouwerij]]
+|-
+| [[Wit Goud]] || high fermentation || 8% || Brewery Hof ten Dormaal
+|-
+| [[Witheer]] || witbier || 5% || [[Scheldebrouwerij]]
+|-
+| [[Witkap|Witkap Pater Dubbel]] || high fermentation, bruin || 7% || [[Brewery Slaghmuylder]]
+|-
+| [[Witkap|Witkap Pater Special]] || high fermentation, amber || 5.5% || Brewery Slagmuylder
+|-
+| [[Witkap|Witkap Pater Stimulo]] || high fermentation, blond || 6% || Brewery Slaghmuylder
+|-
+| [[Witkap|Witkap Pater Tripel]] || high fermentation, tripel || 7.5% || Brewery Slagmuylder
+|-
+| [[Witte Pol]] || witbier || 5.6% || [[Brewery Inter-Pol]]
+|-
+| [[Wittekerke (bier)|Wittekerke]] || witbier || 5% || [[Brewery Bavik]]
+|-
+| [[Wittekerke (bier)|Wittekerke Passion]] || witbier, fruitbier || 5.8% || Brewery Bavik
+|-
+| [[Wittekerke (bier)|Wittekerke Rosé]] || witbier, fruitbier || 4.3% || Brewery Bavik
+|-
+| [[Wittoen]] || high fermentation, tripel || 7% || [[Brewery Strubbe]]
+|-
+| [[Wolf (bier)|Wolf 7]] || blond || 7.4% || [[Brewery Lupus]]
+|-
+| [[Wolf (bier)|Wolf 8]] || donkerbruin || 8.5% || Brewery Lupus
+|-
+| [[Wolf (bier)|Wolf 9]] || amber || 9% || Brewery Lupus
+|-
+| ''[[Wostyntje]]'' || mosterdbier || 7% || [[Brewery De Regenboog]]
+|}
+
+==X==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Xenophon’s Wine]] || || 11% || [[De Struise Brouwers]]
+|-
+| [[X-Mas Beer]] || high fermentation, blond || 8.5% || [[Brewery Contreras]]
+|-
+| [[XX Bitter]] || high fermentation, blond || 6.2% || [[Brewery De Ranke]]
+|}
+
+==Y==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Yperman]] || ale || 5.5% || [[Brewery Het Sas]]
+|-
+|Ypres || || 7% ||  [[De Struise Brouwers]]
+|-
+| ''Yellow Mortal'' || ale || 7.2% || [[Brewery Mortal's Beers]]
+|}
+
+==Z==
+{| class="wikitable sortable"
+|-
+! '''Brand''' !! '''Sort''' !! '''Alcohol content''' !! '''Brewery'''
+|-
+| [[Zatte Bie]] || donker || 9% || [[Brewery De Bie]]
+|-
+| [[Zeezuiper]] || goudblonde tripel || 8% || [[De Scheldebrouwerij]]
+|-
+| [[Zennenat]] || high fermentation || 6.0% || [[Brewery Den Herberg]]
+|-
+| [[Zeunt]] || high fermentation || 7% || [[De Proefbrouwerij]] voor het Zeuntcomité
+|-
+| [[Zeven Zonden (bier)|Zeven Zonden Gula]] || high fermentation, winterbier || 9% || [[Brewery Gulden Spoor]] voor bierfirma Hugel
+|-
+| [[Zeven Zonden (bier)|Zeven Zonden Luxuria]] || high fermentation, winterbier || 8.5% || Brewery Gulden Spoor voor bierfirma Hugel
+|-
+| [[Zingende Blondine]] || high fermentation || 9.8% || [[Brewery 't Gaverhopke]]
+|-
+| [[Zinnebir]] || blond || 5.8% || [[Brewery De Ranke]] voor [[Brasserie de la Senne]]
+|-
+| [[Zonderik|Zonderik 100]] || blond, high fermentation || 7% || [[De Proefbrouwerij]] voor Zonderik Beer Company
+|-
+| [[Zonderik|Zonderik Dubbel Donker]] || high fermentation || 8% || De Proefbrouwerij voor Zonderik Beer Company
+|-
+| [[Zonderik|Zonderik Tripel]] || blond, tripel || 8% || De Proefbrouwerij voor Zonderik Beer Company
+|-
+| [[Zonderik|Zonderix]] || amber, tripel || 10% || De Proefbrouwerij voor Zonderik Beer Company
+|-
+| [[Zonnegemse Zot]] || amber || 7.1% || [[De Proefbrouwerij]] voor Oude Brewery van Zonnegem vzw
+|-
+| [[Zottegemse Grand Cru]] || amber || 8.4% || [[Brewery Strubbe]] voor [[Brewery Crombé]]
+|-
+| [[ZUIDerbierke]] || high fermentation, bruinrood || 8.2% || [[Brewery Donum Ignis]]
+|-
+| [[Zulte (bier)|Zulte]] || high fermentation, licht bruin || 4.7% || [[Alken-Maes]] (Heineken)
+|-
+| [[Zwalmse Tripel]] || tripel || 8% || [[De Proefbrouwerij]] voor de gemeente Zwalm
+|-
+| [[Zwarte Pol]] || stout || 6.5% || [[Brewery Inter-Pol]]
+|-
+| [[Zwet.be]] || [[stout (bier)|stout]] || 7% || De Proefbrouwerij voor [[Geuzestekerij 3 Fonteinen]]
+|-
+| [[Zwijntje]] || blond (etiketbier) || 8% || [[Brewery Bios]]
+|}
+
+==See also==
+{{portal|Beer|Belgium|Lists}}
+* [[Beer and breweries by region]]
+
+==References==
+<references />
+
+[[Category:Beer and breweries in Belgium| ]]
