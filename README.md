@@ -1,3 +1,4 @@
 # beer
 
-Wikipedia Script for Beer 'n' Brewery Data in Ruby
+Wikipedia Script for Beer 'n' Brewery Data
+
