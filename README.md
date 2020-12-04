@@ -1,4 +1,4 @@
-# beer
+# `beer.json` - Beers 'n' Breweries Sourced from Wikipedia Pages Converted into JSON
 
-Wikipedia Script for Beer 'n' Brewery Data
+
 
